@@ -1,0 +1,184 @@
+{
+  "berlin-plumber": {
+    "city": "Berlin",
+    "service": "plumber",
+    "region": "Berlin",
+    "theme": "theme-plumber",
+    "phone": "49123456789",
+
+    "header": {
+      "logo": "/logo.png",
+      "navigation": [
+        { "text": "Strategie", "href": "#strategie" },
+        { "text": "Vorteile", "href": "#vorteile" },
+        { "text": "FAQ", "href": "#faq" },
+        { "text": "Kontakt", "href": "#kontakt" }
+      ]
+    },
+
+    "homepage": {
+      "hero": {
+        "id": "#strategie",
+        "title": "Ihr 24-Stunden Klempner Notdienst in Berlin",
+        "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Berlin ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
+        "button": { "text": "+49 123 456 789", "href": "tel:+49123456789" }
+      },
+      "advantage": {
+        "id": "#vorteile",
+        "title": "Kurze Bullet-Vorteile",
+        "mainImg": "",
+        "advantages": [
+          {
+            "img": "",
+            "text": "24 Stunden erreichbar - auch nachts, am Wochenende und an Feiertagen"
+          },
+          {
+            "img": "",
+            "text": "Kurze Anfahrtszeiten durch regionale Handwerker"
+          },
+          {
+            "img": "",
+            "text": "Professionelle Arbeit durch erfahrene und moderne Technik"
+          },
+          {
+            "img": "",
+            "text": "Faire und transparente Preise ohne versteckte Kosten"
+          },
+          {
+            "img": "",
+            "text": "Schäden werden von uns übernommen"
+          }
+        ]
+      },
+      "faqBlock": {
+        "id": "#faq",
+        "title": "FAQ",
+        "mainImg": "",
+        "items": [
+          {
+            "text": "Abfluss- und Rohrverstopfungen",
+            "href": "faq.html"
+          },
+          {
+            "text": "Heizung und Warmwasser",
+            "href": "faq.html"
+          },
+          {
+            "text": "Private Haushalte und Gewerbe",
+            "href": "faq.html"
+          },
+          {
+            "text": "Öffentliche & Verwaltung",
+            "href": "faq.html"
+          },
+          {
+            "text": "Weitere Fälle und individuelle Lösungen",
+            "href": "faq.html"
+          }
+        ]
+      },
+      "contact": {
+        "id": "#kontakt",
+        "title": "Jetzt anrufen – wir kommen sofort!",
+        "img": "",
+        "button": { "text": "Jetzt anrufen", "href": "tel:+49123456789" },
+        "rating": {
+          "title": "5.0 - Sehr empfehlenswert",
+          "description": "Ihr Partner für den 24-Stunden Klempner Notdienst in BERLIN"
+        }
+      }
+    },
+
+    "faqPage": {
+      "title": "FAQ",
+      "sections": [
+        {
+          "title": "Rohrbruch Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn der Abfluss verstopft ist",
+              "text": "Ein verstopfter Abfluss ist einer der häufigsten Sanitär-Notfälle. Ob Küche, Bad oder Keller – wenn das Wasser nicht mehr abläuft, können unangenehme Gerüche, Überschwemmungen und Schäden entstehen. Unser Abfluss Notdienst ist jederzeit erreichbar und kommt schnell zu Ihnen vor Ort. Mit Spezialwerkzeug wie Spiralen, Druckluft oder Hochdruckspülung beseitigen wir jede Verstopfung zuverlässig und nachhaltig."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen beim Wasserrohrbruch",
+              "items": [
+                "Schnelle Leckortung mit moderner Technik",
+                "Sofortiges Abdichten des defekten Rohrs",
+                "Fachgerechte Reparatur oder Austausch beschädigter Rohrleitungen",
+                "Unterstützung bei der Wasserschadenbeseitigung",
+                "Dokumentation für Versicherung und Hausverwaltung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergarten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei Rohrbrüchen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Abfluss Notdienst – jetzt anrufen",
+              "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar. Ein Anruf genügt und wir kommen sofort, um die Verstopfung zu beseitigen."
+            }
+          ]
+        },
+
+        {
+          "title": "Toilette verstopft Notdienst",
+          "content": []
+        },
+        {
+          "title": "Dusche verstopft Notdienst",
+          "content": []
+        },
+        {
+          "title": "Badewanne verstopft Notdienst",
+          "content": []
+        },
+        {
+          "title": "Küche verstopft Notdienst",
+          "content": []
+        },
+        {
+          "title": "Waschbecken verstopft Notdienst",
+          "content": []
+        },
+        {
+          "title": "Keller verstopft Notdienst",
+          "content": []
+        },
+        {
+          "title": "Rohrleitung verstopft Notdienst",
+          "content": []
+        },
+        {
+          "title": "Heizungsausfall Notdienst",
+          "content": []
+        },
+        {
+          "title": "Wasserschaden Notdienst",
+          "content": []
+        },
+        {
+          "title": "Leckortung Notdienst",
+          "content": []
+        }
+      ]
+    },
+
+    "footer": {
+      "logo": "/logo.png",
+      "links": [
+        { "text": "Impressum", "href": "#impressum" },
+        { "text": "Datenschutz", "href": "#datenschutz" },
+        { "text": "AGB", "href": "#agb" }
+      ]
+    }
+  }
+}
