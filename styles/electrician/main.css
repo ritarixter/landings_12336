@@ -1,7 +1,7 @@
 .body {
   margin: 0;
   width: 100%;
-  max-width: 1600px;
+  font-family: "Montserrat", sans-serif;
 }
 /* -----------------HEADER------------ */
 .header {
@@ -277,10 +277,10 @@
 }
 
 .contact_info_block {
-    display: flex;
-    flex-direction: row;
-    gap: 7px;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  align-items: center;
 }
 
 .contact_info_button__text {
@@ -457,18 +457,18 @@
   }
 
   .contact_info_title {
-  font-size: 14px;
-} 
-.contact_info_button__text {
-    font-size: 13px;
-}
-.contact_img {
-    max-width: 110px;
-}
-
-.footer_a {
     font-size: 14px;
-}
+  }
+  .contact_info_button__text {
+    font-size: 13px;
+  }
+  .contact_img {
+    max-width: 110px;
+  }
+
+  .footer_a {
+    font-size: 14px;
+  }
 }
 
 @media screen and (max-width: 599px) {
