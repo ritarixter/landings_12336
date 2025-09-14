@@ -10,22 +10,22 @@
   "header": {
     "logo": "",
     "navigation": [
-      { "text": "Strategie", "href": "#strategie" },
-      { "text": "Vorteile", "href": "#vorteile" },
-      { "text": "FAQ", "href": "#faq" },
-      { "text": "Kontakt", "href": "#kontakt" }
+      { "text": "Strategie", "href": "/homepage.html#strategie" },
+      { "text": "Vorteile", "href": "/homepage.html#vorteile" },
+      { "text": "FAQ", "href": "/faq.html" },
+      { "text": "Kontakt", "href": "/homepage.html#kontakt" }
     ]
   },
 
   "homepage": {
     "hero": {
-      "id": "#strategie",
+      "id": "strategie",
       "title": "Ihr 24-Stunden Klempner Notdienst in Berlin",
       "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Berlin ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
       "button": { "text": "+49 123 456 789", "href": "tel:+49123456789" }
     },
     "advantage": {
-      "id": "#vorteile",
+      "id": "vorteile",
       "title": "Kurze Bullet-Vorteile",
       "mainImg": "",
       "advantages": [
@@ -52,7 +52,7 @@
       ]
     },
     "faqBlock": {
-      "id": "#faq",
+      "id": "faq",
       "title": "FAQ",
       "mainImg": "",
       "items": [
@@ -79,7 +79,7 @@
       ]
     },
     "contact": {
-      "id": "#kontakt",
+      "id": "kontakt",
       "title": "Jetzt anrufen – wir kommen sofort!",
       "img": "",
       "button": { "text": "Jetzt anrufen", "href": "tel:+49123456789" },
