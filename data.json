@@ -10,10 +10,10 @@
   "header": {
     "logo": "",
     "navigation": [
-      { "text": "Strategie", "href": "/homepage.html#strategie" },
-      { "text": "Vorteile", "href": "/homepage.html#vorteile" },
+      { "text": "Strategie", "href": "/#strategie" },
+      { "text": "Vorteile", "href": "/#vorteile" },
       { "text": "FAQ", "href": "/faq.html" },
-      { "text": "Kontakt", "href": "/homepage.html#kontakt" }
+      { "text": "Kontakt", "href": "/#kontakt" }
     ]
   },
 
