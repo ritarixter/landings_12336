@@ -13,7 +13,12 @@
   <body class="body">
     <header class="header">
       <img src="/logo.png" alt="Logo" />
-      <nav class="header_nav">
+      <div class="burger" id="burger">
+                <span class="burger_line"></span>
+                <span class="burger_line"></span>
+                <span class="burger_line"></span>
+            </div>
+      <nav class="header_nav" id="nav">
         <ul class="header_ul">
           <li><a class="header_a" href="homepage.html#indestrategie">Strategie</a></li>
           <li><a class="header_a" href="homepage.html#vorteile">Vorteile</a></li>
@@ -24,8 +29,8 @@
     </header>
     <section class="faqPage">
         <h1 class="faq_title">FAQ</h1>
-        <div class="faqPage_container">
-            
+        <div class="services-list" id="servicesList">
+            <!-- Список будет сгенерирован JavaScript -->
         </div>
     </section>
     <section class="contact" id="kontakt">
@@ -68,5 +73,6 @@
       </nav>
       </div>
     </footer>
+     <script src="script.js"></script>
   </body>
 </html>
