@@ -4,7 +4,6 @@
   "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Berlin ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
   "service": "plumber",
   "region": "Berlin",
-  "theme": "theme-plumber",
   "phone": "49123456789",
 
   "header": {
@@ -20,6 +19,7 @@
   "homepage": {
     "hero": {
       "id": "strategie",
+      "img": "",
       "title": "Ihr 24-Stunden Klempner Notdienst in Berlin",
       "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Berlin ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
       "button": { "text": "+49 123 456 789", "href": "tel:+49123456789" }
@@ -31,15 +31,15 @@
       "advantages": [
         {
           "img": "",
-          "text": "24 Stunden erreichbar - auch nachts, am Wochenende und an Feiertagen"
+          "text": "24h erreichbar – auch nachts, am Wochenende und an Feiertagen"
         },
         {
           "img": "",
-          "text": "Kurze Anfahrtszeiten durch regionale Handwerker"
+          "text": "Kurze Anfahrtszeiten durch regionale Monteure"
         },
         {
           "img": "",
-          "text": "Professionelle Arbeit durch erfahrene und moderne Technik"
+          "text": "Professionelles Werkzeug und moderne Technik"
         },
         {
           "img": "",
@@ -47,7 +47,11 @@
         },
         {
           "img": "",
-          "text": "Schäden werden von uns übernommen"
+          "text": "Jahrelange Erfahrung im Sanitärbereich"
+        },
+        {
+          "img": "",
+          "text": "Schnelle, saubere und zuverlässige Arbeit"
         }
       ]
     },
@@ -57,6 +61,12 @@
       "mainImg": "",
       "items": [
         {
+          "img": "",
+          "text": "Notfälle und Soforthilfe",
+          "href": "faq.html"
+        },
+        {
+          "img": "",
           "text": "Abfluss- und Rohrverstopfungen",
           "href": "faq.html"
         },
@@ -98,8 +108,8 @@
         "content": [
           {
             "type": "paragraph",
-            "title": "Wenn der Abfluss verstopft ist",
-            "text": "Ein verstopfter Abfluss ist einer der häufigsten Sanitär-Notfälle. Ob Küche, Bad oder Keller – wenn das Wasser nicht mehr abläuft, können unangenehme Gerüche, Überschwemmungen und Schäden entstehen. Unser Abfluss Notdienst ist jederzeit erreichbar und kommt schnell zu Ihnen vor Ort. Mit Spezialwerkzeug wie Spiralen, Druckluft oder Hochdruckspülung beseitigen wir jede Verstopfung zuverlässig und nachhaltig."
+            "title": "Wenn ein Wasserrohr bricht, zählt jede Minute",
+            "text": "Ein Rohrbruch ist einer der häufigsten und folgenschwersten Sanitär-Notfälle. Plötzlich austretendes Wasser kann Böden, Wände und Möbel innerhalb kürzester Zeit stark beschädigen. Um Folgeschäden wie Schimmelbildung oder Stromausfälle zu verhindern, muss sofort gehandelt werden. Unser Klempner Notdienst ist rund um die Uhr erreichbar und kommt schnell zu Ihnen vor Ort. Mit professioneller Ausrüstung lokalisieren wir die Leckstelle, dichten das Rohr ab und beginnen umgehend mit der Reparatur."
           },
           {
             "type": "list",
@@ -131,44 +141,400 @@
       },
 
       {
+        "title": "Abfluss Notdienst",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn der Abfluss verstopft ist",
+            "text": "Ein verstopfter Abfluss ist einer der häufigsten Sanitär-Notfälle. Ob Küche, Bad oder Keller – wenn das Wasser nicht mehr abläuft, können unangenehme Gerüche, Überschwemmungen und Schäden entstehen.  Unser Abfluss Notdienst ist jederzeit erreichbar und kommt schnell zu Ihnen vor Ort. Mit Spezialwerkzeug wie Spiralen, Druckluft oder Hochdruckspülung beseitigen wir jede Verstopfung zuverlässig und nachhaltig."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Abflussverstopfung",
+            "items": [
+              "Schnelle Rohr- und Abflussreinigung mit Profi-Werkzeug",
+              "Beseitigung von Verstopfungen in Küche, Bad, WC und Keller",
+              "Einsatz von Spirale, Druckluft und Hochdruckspülung",
+              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+              "Beratung bei wiederkehrenden Abflussproblemen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Gewerbe: Restaurants, Hotels, Büros, Ladengeschäfte",
+              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+              "Hausverwaltungen: Schnelle Hilfe bei Verstopfungen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Abfluss Notdienst – jetzt anrufen",
+            "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar. Ein Anruf genügt und wir kommen sofort, um die Verstopfung zu beseitigen."
+          }
+        ]
+      },
+      {
         "title": "Toilette verstopft Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn die Toilette verstopft ist",
+            "text": "Eine verstopfte Toilette ist ein akuter Notfall – unangenehme Gerüche, Überschwemmungen und die eingeschränkte Nutzung der Sanitäranlagen machen sofortiges Handeln erforderlich. Unser Klempner Notdienst ist Tag und Nacht für Sie erreichbar. Mit Spezialwerkzeug beseitigen wir die Verstopfung professionell, sauber und zuverlässig."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei einer verstopften Toilette",
+            "items": [
+              "Schnelle und saubere Beseitigung von Verstopfungen",
+              "Einsatz von Spezialwerkzeugen wie Spirale und Druckluft",
+              "Vermeidung von Überschwemmungen und Folgeschäden",
+              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+              "Beratung bei wiederkehrenden Problemen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Gewerbe: Restaurants, Hotels, Büros, Ladengeschäfte",
+              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+              "Hausverwaltungen: Schnelle Hilfe bei Verstopfungen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Toilette verstopft Notdienst",
+            "text": "Ob mitten in der Nacht, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
+          }
+        ]
       },
       {
         "title": "Dusche verstopft Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn die Dusche verstopft ist",
+            "text": "Eine verstopfte Dusche ist mehr als nur ärgerlich – das Wasser staut sich, läuft über und kann Schäden am Boden oder an den Wänden verursachen. Häufig sind Haare, Seifenreste oder Kalkablagerungen die Ursache. Unser Klempner Notdienst ist rund um die Uhr erreichbar und beseitigt die Verstopfung mit professionellem Werkzeug schnell und gründlich."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei einer verstopften Dusche",
+            "items": [
+              "Schnelle Beseitigung von Verstopfungen im Duschabfluss",
+              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+              "Schonende Methoden ohne Beschädigung der Leitungen",
+              "Beratung bei wiederkehrenden Duschproblemen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Gewerbe: Hotels, Fitnessstudios, Schwimmbäder",
+              "Öffentliche Einrichtungen: Schulen, Sporthallen, Pflegeheime",
+              "Hausverwaltungen: Schnelle Hilfe bei Duschproblemen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Dusche verstopft Notdienst",
+            "text": "Ob früh am Morgen oder mitten in der Nacht – wir sind jederzeit für Sie erreichbar."
+          }
+        ]
       },
       {
         "title": "Badewanne verstopft Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn die Badewanne verstopft ist",
+            "text": "Ein verstopfter Abfluss in der Badewanne kann schnell zu Überschwemmungen führen. Häufig sind Haare, Seifenreste oder Kalkablagerungen die Ursache. Stauendes Wasser belastet die Leitungen und kann Schäden anrichten. Unser Klempner Notdienst ist jederzeit erreichbar und beseitigt die Verstopfung schnell, gründlich und mit professionellem Werkzeug."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei einer verstopften Badewanne",
+            "items": [
+              "Schnelle Beseitigung von Verstopfungen im Badewannenabfluss",
+              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+              "Schonende Methoden zur Sicherung der Leitungen",
+              "Beratung bei wiederkehrenden Abflussproblemen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Hotels, Pensionen und Ferienwohnungen",
+              "Öffentliche Einrichtungen: Schulen, Pflegeheime, Sporteinrichtungen",
+              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Badewanne verstopft Notdienst",
+            "text": "Ob am Wochenende, abends oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
+          }
+        ]
       },
       {
         "title": "Küche verstopft Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn die Küchenspüle verstopft ist",
+            "text": "Eine verstopfte Küchenspüle ist einer der häufigsten Gründe für unseren Klempner Notdienst. Essensreste, Fett und Ablagerungen setzen sich in den Leitungen fest und blockieren den Abfluss. Das Wasser staut sich zurück, unangenehme Gerüche entstehen und im schlimmsten Fall läuft die Spüle über. Unser Klempner Notdienst ist 24 Stunden täglich erreichbar und beseitigt die Verstopfung schnell, gründlich und zuverlässig mit professionellem Werkzeug."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei einer verstopften Küchenspüle",
+            "items": [
+              "Schnelle Beseitigung von Verstopfungen in der Küche",
+              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+              "Entfernung von Fett- und Essensresten in den Leitungen",
+              "Beratung bei wiederkehrenden Abflussproblemen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Gastronomie: Restaurants, Cafés, Bars",
+              "Hotels und Ferienwohnungen",
+              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Küche verstopft Notdienst",
+            "text": "Ob tagsüber, nachts oder am Wochenende – wir sind jederzeit für Sie erreichbar."
+          }
+        ]
       },
       {
         "title": "Waschbecken verstopft Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn das Waschbecken verstopft ist",
+            "text": "Ein verstopftes Waschbecken im Badezimmer oder Gäste-WC kann schnell zu Überschwemmungen führen und ist äußerst unangenehm. Meist sind Haare, Seifenreste oder kleine Gegenstände die Ursache. Das Wasser läuft nicht mehr ab, unangenehme Gerüche entstehen und die Nutzung ist eingeschränkt. Unser Klempner Notdienst ist jederzeit für Sie erreichbar und beseitigt die Verstopfung gründlich und zuverlässig."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei einem verstopften Waschbecken",
+            "items": [
+              "Schnelle Beseitigung von Verstopfungen im Badezimmer und Gäste-WC",
+              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+              "Schonende Methoden ohne Beschädigung der Leitungen",
+              "Beratung bei wiederkehrenden Problemen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Hotels und Pensionen",
+              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime",
+              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Waschbecken verstopft Notdienst",
+            "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
+          }
+        ]
       },
       {
         "title": "Keller verstopft Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn der Kellerabfluss verstopft ist",
+            "text": "Ein verstopfter Abfluss im Keller ist besonders problematisch: Rückstauendes Wasser kann den gesamten Keller überfluten und große Schäden verursachen. Ursachen sind oft Schlamm, Schmutz oder Ablagerungen in den Leitungen. Unser Klempner Notdienst ist jederzeit erreichbar und beseitigt die Verstopfung mit professioneller Ausrüstung gründlich und zuverlässig."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei einem verstopften Kellerabfluss",
+            "items": [
+              "Schnelle Beseitigung von Verstopfungen im Keller",
+              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+              "Entfernung von Schlamm- und Schmutzablagerungen",
+              "Beratung bei wiederkehrenden Problemen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Einfamilienhäuser, Mehrfamilienhäuser mit Kellern",
+              "Gewerbebetriebe: Lagerräume, Produktionsstätten",
+              "Öffentliche Einrichtungen: Schulen, Sporthallen, Pflegeheime",
+              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Keller verstopft Notdienst",
+            "text": "Ob am Wochenende, nachts oder an Feiertagen – wir sind rund um die Uhr erreichbar."
+          }
+        ]
       },
       {
         "title": "Rohrleitung verstopft Notdienst",
-        "content": []
+       "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn eine Rohrleitung verstopft ist",
+            "text": "Eine verstopfte Rohrleitung kann den gesamten Wasser- oder Abwasserfluss blockieren. Die Ursachen reichen von Ablagerungen über Fremdkörper bis hin zu Wurzeleinwuchs. Ohne schnelle Hilfe drohen Überschwemmungen, Wasserschäden und Funktionsausfälle. Unser Klempner Notdienst ist rund um die Uhr erreichbar und beseitigt Verstopfungen in Rohrleitungen zuverlässig und gründlich."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei verstopften Rohrleitungen",
+            "items": [
+              "Schnelle Beseitigung von Verstopfungen in Wasser- und Abwasserrohren",
+              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+              "Gründliche Reinigung für einen freien Durchfluss",
+              "Schonende Methoden ohne Beschädigung der Rohre",
+              "Beratung bei wiederkehrenden Rohrverstopfungen"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Gewerbe: Büros, Restaurants, Hotels, Ladengeschäfte",
+              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+              "Hausverwaltungen: Schnelle Hilfe bei Rohrproblemen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Rohrleitung verstopft Notdienst",
+            "text": "Egal ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
+          }
+        ]
       },
       {
         "title": "Heizungsausfall Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn die Heizung ausfällt",
+            "text": "Ein Heizungsausfall ist besonders im Winter ein schwerwiegender Notfall. Kalte Räume, fehlendes Warmwasser und mögliche Frostschäden an Leitungen machen sofortiges Handeln erforderlich. Unser Klempner Notdienst ist 24 Stunden täglich erreichbar und sorgt dafür, dass Ihre Heizung schnellstmöglich wieder funktioniert."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Heizungsausfall",
+            "items": [
+              "Schnelle Diagnose bei Heizungsproblemen",
+              "Fachgerechte Reparatur defekter Heizungsanlagen",
+              "Behebung von Problemen mit Warmwasser",
+              "Austausch defekter Komponenten",
+              "Notlösungen zur Überbrückung bis zur endgültigen Reparatur"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+              "Hausverwaltungen: Schnelle Hilfe bei Heizungsausfällen in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Heizungsausfall Notdienst",
+            "text": "Ob mitten in der Nacht, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
+          }
+        ]
       },
       {
         "title": "Wasserschaden Notdienst",
-        "content": []
+       "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn ein Wasserschaden eintritt",
+            "text": "Ein Wasserschaden kann durch Rohrbrüche, undichte Leitungen oder verstopfte Abflüsse entstehen. Die Folgen sind oft gravierend: beschädigte Böden, Wände und Möbel sowie Schimmelbildung. Um größere Schäden zu verhindern, muss sofort gehandelt werden. Unser Klempner Notdienst ist rund um die Uhr erreichbar und hilft sofort mit Leckortung, Abdichtung und ersten Maßnahmen zur Schadensbegrenzung."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Wasserschäden",
+            "items": [
+              "Schnelle Leckortung mit moderner Technik",
+              "Sofortige Abdichtung und Reparatur defekter Leitungen",
+              "Unterstützung bei der Wasserschadenbeseitigung",
+              "Einsatz von Pumpen und Trocknungsgeräten",
+              "Dokumentation für Versicherung und Hausverwaltung"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              " Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+              "Hausverwaltungen: Schnelle Hilfe bei Wasserschäden in Mietobjekten"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Wasserschaden Notdienst",
+            "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
+          }
+        ]
       },
       {
         "title": "Leckortung Notdienst",
-        "content": []
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn ein Wasserleck unklar ist",
+            "text": "Nicht jedes Leck ist sofort sichtbar. Oft machen sich Wasserschäden erst durch feuchte Wände, nasse Flecken oder steigende Wasserrechnungen bemerkbar. Eine präzise Leckortung ist notwendig, um das Problem schnell und ohne unnötige Schäden zu finden. Unser Klempner Notdienst ist spezialisiert auf die Leckortung mit moderner Technik und findet die Ursache zuverlässig und schnell."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei der Leckortung",
+            "items": [
+              "Präzise Ortung von Wasser- und Rohrleitungslecks",
+              "Einsatz moderner Geräte wie Thermografie oder akustische Messung",
+              "Fachgerechte Abdichtung und Reparatur",
+              "Vermeidung unnötiger Aufbrucharbeiten",
+              "Dokumentation für Versicherung und Hausverwaltung"
+            ]
+           },
+          {
+            "type": "list",
+            "title": "Für wen wir tätig sind",
+            "items": [
+              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+              "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+              "Hausverwaltungen: Schnelle Hilfe bei unklaren Wasserschäden"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Leckortung Notdienst",
+            "text": "Wir sind rund um die Uhr für Sie erreichbar."
+          }
+        ]
       }
     ]
   },
