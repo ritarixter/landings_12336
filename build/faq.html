@@ -8,32 +8,37 @@
       %schema%
     </script>
     <title>%title%</title>
-    <link rel="stylesheet" href="./styles/%service%/main.css" />
+     <link rel="stylesheet" href="./styles/schluesseldienst/main.css" />
   </head>
   <body class="body">
     <header class="header">
-      <img src="/logo.png" alt="Logo" />
-      <nav class="header_nav">
+      <img src="%header_logo%" alt="Logo" />
+      <div class="burger" id="burger">
+                <span class="burger_line"></span>
+                <span class="burger_line"></span>
+                <span class="burger_line"></span>
+            </div>
+      <nav class="header_nav" id="nav">
         <ul class="header_ul">
-          <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
-          <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
-          <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
-          <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
+                <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
+                <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
+                <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
+                 <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
         </ul>
       </nav>
     </header>
     <section class="faqPage">
-        <h1 class="faq_title">%faqBlock_title%</h1>
-        <div class="faqPage_container">
-            
+           <h1 class="faq_title">%faqBlock_title%</h1>
+        <div class="services-list" id="servicesList">
+            <!-- Список будет сгенерирован JavaScript -->
         </div>
     </section>
-   <section class="contact" id="%contact_id%">
+    <section class="contact" id="kontakt">
       <div class="contact_info">
-        <h3 class="contact_info_title">%contact_title%</h3>
+               <h3 class="contact_info_title">%contact_title%</h3>
         <div class="contact_info_block">
           <img src="./images/call.svg" alt="call" />
-          <a href="%contact_button_href%" class="hero_button__text"
+          <a href="tel:49123456789" class="hero_button__text"
             >+49 123 456 789</a
           >
         </div>
@@ -47,7 +52,7 @@
         <div class="contact_left_block">
           <p class="contact_left_item">%contact_rating_title%</p>
           <p class="contact_left_text">
-            %contact_rating_description%
+             %contact_rating_description%
           </p>
         </div>
       </div>
@@ -58,7 +63,7 @@
         <img src="%footer_logo%" alt="Logo" />
       <nav class="footer_nav">
         <ul class="footer_ul">
-          <li><a class="footer_a" href="%footer_links_href%">%footer_links_text%</a></li>
+            <li><a class="footer_a" href="%footer_links_href%">%footer_links_text%</a></li>
           <li><a class="footer_a">|</a></li>
           <li><a class="footer_a" href="%footer_links_href%">%footer_links_text%</a></li>
           <li><a class="footer_a">|</a></li>
@@ -67,5 +72,10 @@
       </nav>
       </div>
     </footer>
+    <script>
+              window.faqPage = '%FAQ_JSON%';
+
+    </script>
+     <script src="script.js"></script>
   </body>
 </html>

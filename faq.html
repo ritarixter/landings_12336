@@ -8,7 +8,7 @@
       %schema%
     </script>
     <title>%title%</title>
-    <link rel="stylesheet" href="./styles/window/main.css" />
+     <link rel="stylesheet" href="./styles/%service%/main.css" />
   </head>
   <body class="body">
     <header class="header">
@@ -20,22 +20,22 @@
             </div>
       <nav class="header_nav" id="nav">
         <ul class="header_ul">
-          <li><a class="header_a" href="homepage.html#indestrategie">Strategie</a></li>
-          <li><a class="header_a" href="homepage.html#vorteile">Vorteile</a></li>
-          <li><a class="header_a" href="/faq.html">FAQ</a></li>
-          <li><a class="header_a" href="homepage.html#kontakt">Kontakt</a></li>
+                <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
+                <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
+                          <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
+                                    <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
         </ul>
       </nav>
     </header>
     <section class="faqPage">
-        <h1 class="faq_title">FAQ</h1>
+           <h1 class="faq_title">%faqBlock_title%</h1>
         <div class="services-list" id="servicesList">
             <!-- Список будет сгенерирован JavaScript -->
         </div>
     </section>
     <section class="contact" id="kontakt">
       <div class="contact_info">
-        <h3 class="contact_info_title">Jetzt anrufen – wir kommen sofort!</h3>
+               <h3 class="contact_info_title">%contact_title%</h3>
         <div class="contact_info_block">
           <img src="./images/call.svg" alt="call" />
           <a href="tel:49123456789" class="hero_button__text"
@@ -43,17 +43,16 @@
           >
         </div>
         <div class="contact_info_button">
-          <p class="contact_info_button__text">Jetzt anrufen</p>
+          <p class="contact_info_button__text">%contact_button_text%</p>
         </div>
       </div>
       <img src="" alt="Image" class="contact_img" />
       <div class="contact_left">
         <img src="./images/Capa.svg" alt="Icon" class="contact_left__icon" />
         <div class="contact_left_block">
-          <p class="contact_left_item">5.0 – Sehr empfehlenswert</p>
+          <p class="contact_left_item">%contact_rating_title%</p>
           <p class="contact_left_text">
-            Elektro Maier – Ihr Partner für den 24-Stunden Elektro Notdienst in
-            [STADT]
+             %contact_rating_description%
           </p>
         </div>
       </div>
@@ -64,11 +63,11 @@
         <img src="/logo.png" alt="Logo" />
       <nav class="footer_nav">
         <ul class="footer_ul">
-          <li><a class="footer_a" href="#impressum">Impressum</a></li>
+             <li><a class="footer_a" href="%footer_links_href%">%footer_links_text%</a></li>
           <li><a class="footer_a">|</a></li>
-          <li><a class="footer_a" href="#datenschutz">Datenschutz</a></li>
+          <li><a class="footer_a" href="%footer_links_href%">%footer_links_text%</a></li>
           <li><a class="footer_a">|</a></li>
-          <li><a class="footer_a" href="#agb">AGB</a></li>
+          <li><a class="footer_a" href="%footer_links_href%">%footer_links_text%</a></li>
         </ul>
       </nav>
       </div>
