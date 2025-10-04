@@ -1,5 +1,5 @@
 {
-  "Klempner": {
+  "klempnernotdienst": {
     "theme": "theme-plumber",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/SantechnicaServiceLogo.png/public",
@@ -26,8 +26,8 @@
       "hero": {
         "id": "strategie",
         "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
-        "title": "Ihr 24-Stunden Klempner Notdienst in Stadt__name",
-        "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Stadt__name ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
+        "title": "Ihr 24-Stunden Klempner Notdienst in %city%",
+        "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in %city% ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
         "button": {
           "text": "+49 123 456 789",
           "href": "tel:+49123456789"
@@ -107,7 +107,7 @@
         },
         "rating": {
           "title": "5.0 - Sehr empfehlenswert",
-          "description": "Ihr Partner für den 24-Stunden Klempner Notdienst in Stadt__name"
+          "description": "Ihr Partner für den 24-Stunden Klempner Notdienst in %city%"
         }
       }
     },
@@ -593,8 +593,8 @@
       "hero": {
         "id": "strategie",
         "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
-        "title": "Ihr 24-Stunden Schädlingsbekämpfung Notdienst in Stadt__name",
-        "description": "Ihr Schädlingsbekämpfung Notdienst in Stadt__name – 24 Stunden erreichbar, mit über 15 Jahren Erfahrung. Schnelle, diskrete und nachhaltige Hilfe bei Ameisen, Ratten, Bettwanzen oder Wespennestern.",
+        "title": "Ihr 24-Stunden Schädlingsbekämpfung Notdienst in %city%",
+        "description": "Ihr Schädlingsbekämpfung Notdienst in %city% – 24 Stunden erreichbar, mit über 15 Jahren Erfahrung. Schnelle, diskrete und nachhaltige Hilfe bei Ameisen, Ratten, Bettwanzen oder Wespennestern.",
         "button": {
           "text": "+49 123 456 789",
           "href": "tel:+49123456789"
@@ -607,7 +607,7 @@
         "advantages": [
           {
             "img": "",
-            "text": "24-Stunden-Schädlingsbekämpfung in Stadt__name"
+            "text": "24-Stunden-Schädlingsbekämpfung in %city%"
           },
           {
             "img": "",
@@ -674,7 +674,7 @@
         },
         "rating": {
           "title": "5.0 - Sehr empfehlenswert",
-          "description": "Ihr Partner für den 24-Stunden Schädlingsbekämpfung Notdienst in Stadt__name"
+          "description": "Ihr Partner für den 24-Stunden Schädlingsbekämpfung Notdienst in %city%"
         }
       }
     },
@@ -1123,7 +1123,7 @@
       ]
     }
   },
-  "Unlock": {
+  "schluesseldienst": {
     "theme": "theme-unlock",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/UnlockServiceLogo.png/public",
@@ -1150,8 +1150,8 @@
       "hero": {
         "id": "strategie",
         "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
-        "title": "Ihr 24-Stunden Schlüsseldienst in Stadt__name",
-        "description": "Tür zugefallen, Schlüssel verloren oder Schloss defekt?\n\nWir sind 24h in Stadt__name für Sie da – Türen, Autos & Tresore in 95 % der Fälle beschädigungsfrei geöffnet. Meist in 20–40 Minuten vor Ort.",
+        "title": "Ihr 24-Stunden Schlüsseldienst in %city%",
+        "description": "Tür zugefallen, Schlüssel verloren oder Schloss defekt?\n\nWir sind 24h in %city% für Sie da – Türen, Autos & Tresore in 95 % der Fälle beschädigungsfrei geöffnet. Meist in 20–40 Minuten vor Ort.",
         "button": {
           "text": "+49 123 456 789",
           "href": "tel:+49123456789"
@@ -1164,7 +1164,7 @@
         "advantages": [
           {
             "img": "",
-            "text": "24-Stunden-Schlüsseldienst in Stadt__name"
+            "text": "24-Stunden-Schlüsseldienst in %city%"
           },
           {
             "img": "",
@@ -1176,7 +1176,7 @@
           },
           {
             "img": "",
-            "text": "Schnelle Anfahrt in Stadt__name und Umgebung (20–40 Minuten)"
+            "text": "Schnelle Anfahrt in %city% und Umgebung (20–40 Minuten)"
           },
           {
             "img": "",
@@ -1231,7 +1231,7 @@
         },
         "rating": {
           "title": "5.0 - Sehr empfehlenswert",
-          "description": "Ihr Partner für den 24-Stunden Schlüsseldienst in Stadt__name"
+          "description": "Ihr Partner für den 24-Stunden Schlüsseldienst in %city%"
         }
       }
     },
@@ -1364,7 +1364,7 @@
       ]
     }
   },
-  "Elektro": {
+  "elektronotdienst": {
     "theme": "theme-elektro",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/LogoService.png/public",
@@ -1391,7 +1391,7 @@
       "hero": {
         "id": "strategie",
         "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
-        "title": "Ihr 24-Stunden Elektro Notdienst in Stadt__name – Elektro Maier",
+        "title": "Ihr 24-Stunden Elektro Notdienst in %city% – Elektro Maier",
         "description": "Sie haben ein akutes Stromproblem?  Dann ist Elektro Maier Ihr zuverlässiger Partner. Wir sind 24 Stunden am Tag für Sie da – schnell, sicher und kompetent.",
         "button": {
           "text": "+49 123 456 789",
@@ -1405,7 +1405,7 @@
         "advantages": [
           {
             "img": "",
-            "text": "24-Stunden-Elektro-Notdienst in Stadt__name"
+            "text": "24-Stunden-Elektro-Notdienst in %city%"
           },
           {
             "img": "",
@@ -1472,7 +1472,7 @@
         },
         "rating": {
           "title": "5.0 - Sehr empfehlenswert",
-          "description": "Elektro Maier – Ihr Partner für den 24-Stunden Elektro Notdienst in Stadt__name"
+          "description": "Elektro Maier – Ihr Partner für den 24-Stunden Elektro Notdienst in %city%"
         }
       }
     },
@@ -2222,7 +2222,7 @@
       ]
     }
   },
-  "Glass": {
+  "glasnotdienst": {
     "theme": "theme-glass",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/GlassServiceLogo.png/public",
@@ -2249,8 +2249,8 @@
       "hero": {
         "id": "strategie",
         "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
-        "title": "Ihr 24-Stunden Glas Notdienst in Stadt__name",
-        "description": "Ihr Glas-Notdienst in Stadt__name – 24 Stunden erreichbar, seit 17 Jahren im Einsatz. Schnelle, professionelle Notverglasung bei Einbruch, Sturm oder Glasbruch.",
+        "title": "Ihr 24-Stunden Glas Notdienst in %city%",
+        "description": "Ihr Glas-Notdienst in %city% – 24 Stunden erreichbar, seit 17 Jahren im Einsatz. Schnelle, professionelle Notverglasung bei Einbruch, Sturm oder Glasbruch.",
         "button": {
           "text": "+49 123 456 789",
           "href": "tel:+49123456789"
@@ -2263,7 +2263,7 @@
         "advantages": [
           {
             "img": "",
-            "text": "24-Stunden-Glas-Notdienst in Stadt__name"
+            "text": "24-Stunden-Glas-Notdienst in %city%"
           },
           {
             "img": "",
@@ -2330,7 +2330,7 @@
         },
         "rating": {
           "title": "5.0 - Sehr empfehlenswert",
-          "description": "Ihr Partner für den 24-Stunden Glas Notdienst in Stadt__name"
+          "description": "Ihr Partner für den 24-Stunden Glas Notdienst in %city%"
         }
       }
     },
