@@ -1,5 +1,6 @@
 {
   "Klempner": {
+    "theme": "theme-plumber",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/SantechnicaServiceLogo.png/public",
       "navigation": [
@@ -566,6 +567,7 @@
     }
   },
   "PestControl": {
+    "theme": "theme-pestControl",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/PestControlServiceLogo.png/public",
       "navigation": [
@@ -1122,6 +1124,7 @@
     }
   },
   "Unlock": {
+    "theme": "theme-unlock",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/UnlockServiceLogo.png/public",
       "navigation": [
@@ -1362,6 +1365,7 @@
     }
   },
   "Elektro": {
+    "theme": "theme-elektro",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/LogoService.png/public",
       "navigation": [
@@ -2219,6 +2223,7 @@
     }
   },
   "Glass": {
+    "theme": "theme-glass",
     "header": {
       "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/GlassServiceLogo.png/public",
       "navigation": [
