@@ -1,550 +1,2732 @@
 {
-  "city": "Berlin",
-  "title": "Ihr 24-Stunden Klempner Notdienst in Berlin",
-  "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Berlin ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
-  "service": "plumber",
-  "region": "Berlin",
-  "phone": "49123456789",
-
-  "header": {
-    "logo": "",
-    "navigation": [
-      { "text": "Strategie", "href": "/#strategie" },
-      { "text": "Vorteile", "href": "/#vorteile" },
-      { "text": "FAQ", "href": "/faq.html" },
-      { "text": "Kontakt", "href": "/#kontakt" }
-    ]
-  },
-
-  "homepage": {
-    "hero": {
-      "id": "strategie",
-      "img": "",
-      "title": "Ihr 24-Stunden Klempner Notdienst in Berlin",
-      "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Berlin ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
-      "button": { "text": "+49 123 456 789", "href": "tel:+49123456789" }
-    },
-    "advantage": {
-      "id": "vorteile",
-      "title": "Kurze Bullet-Vorteile",
-      "mainImg": "",
-      "advantages": [
+  "Klempner": {
+    "header": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/SantechnicaServiceLogo.png/public",
+      "navigation": [
         {
-          "img": "",
-          "text": "24h erreichbar – auch nachts, am Wochenende und an Feiertagen"
+          "text": "Strategie",
+          "href": "/#strategie"
         },
         {
-          "img": "",
-          "text": "Kurze Anfahrtszeiten durch regionale Monteure"
+          "text": "Vorteile",
+          "href": "/#vorteile"
         },
         {
-          "img": "",
-          "text": "Professionelles Werkzeug und moderne Technik"
+          "text": "FAQ",
+          "href": "/faq.html"
         },
         {
-          "img": "",
-          "text": "Faire und transparente Preise ohne versteckte Kosten"
-        },
-        {
-          "img": "",
-          "text": "Jahrelange Erfahrung im Sanitärbereich"
-        },
-        {
-          "img": "",
-          "text": "Schnelle, saubere und zuverlässige Arbeit"
+          "text": "Kontakt",
+          "href": "/#kontakt"
         }
       ]
     },
-    "faqBlock": {
-      "id": "faq",
-      "title": "FAQ",
-      "mainImg": "",
-      "items": [
-        {
-          "img": "",
-          "text": "Notfälle und Soforthilfe",
-          "href": "faq.html"
-        },
-        {
-          "img": "",
-          "text": "Abfluss- und Rohrverstopfungen",
-          "href": "faq.html"
-        },
-        {
-          "text": "Heizung und Warmwasser",
-          "href": "faq.html"
-        },
-        {
-          "text": "Private Haushalte und Gewerbe",
-          "href": "faq.html"
-        },
-        {
-          "text": "Öffentliche & Verwaltung",
-          "href": "faq.html"
-        },
-        {
-          "text": "Weitere Fälle und individuelle Lösungen",
-          "href": "faq.html"
+    "homepage": {
+      "hero": {
+        "id": "strategie",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "title": "Ihr 24-Stunden Klempner Notdienst in Stadt__name",
+        "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in Stadt__name ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
+        "button": {
+          "text": "+49 123 456 789",
+          "href": "tel:+49123456789"
         }
-      ]
-    },
-    "contact": {
-      "id": "kontakt",
-      "title": "Jetzt anrufen – wir kommen sofort!",
-      "img": "",
-      "button": { "text": "Jetzt anrufen", "href": "tel:+49123456789" },
-      "rating": {
-        "title": "5.0 - Sehr empfehlenswert",
-        "description": "Ihr Partner für den 24-Stunden Klempner Notdienst in BERLIN"
+      },
+      "advantage": {
+        "id": "vorteile",
+        "title": "Kurze Bullet-Vorteile",
+        "mainImg": "",
+        "advantages": [
+          {
+            "img": "",
+            "text": "24h erreichbar – auch nachts, am Wochenende und an Feiertagen"
+          },
+          {
+            "img": "",
+            "text": "Kurze Anfahrtszeiten durch regionale Monteure"
+          },
+          {
+            "img": "",
+            "text": "Professionelles Werkzeug und moderne Technik"
+          },
+          {
+            "img": "",
+            "text": "Faire und transparente Preise ohne versteckte Kosten"
+          },
+          {
+            "img": "",
+            "text": "Jahrelange Erfahrung im Sanitärbereich"
+          },
+          {
+            "img": "",
+            "text": "Schnelle, saubere und zuverlässige Arbeit"
+          }
+        ]
+      },
+      "faqBlock": {
+        "id": "faq",
+        "title": "FAQ",
+        "mainImg": "",
+        "items": [
+          {
+            "img": "",
+            "text": "Notfälle und Soforthilfe",
+            "href": "faq.html"
+          },
+          {
+            "img": "",
+            "text": "Abfluss- und Rohrverstopfungen",
+            "href": "faq.html"
+          },
+          {
+            "text": "Heizung und Warmwasser",
+            "href": "faq.html"
+          },
+          {
+            "text": "Private Haushalte und Gewerbe",
+            "href": "faq.html"
+          },
+          {
+            "text": "Öffentliche & Verwaltung",
+            "href": "faq.html"
+          },
+          {
+            "text": "Weitere Fälle und individuelle Lösungen",
+            "href": "faq.html"
+          }
+        ]
+      },
+      "contact": {
+        "id": "kontakt",
+        "title": "Jetzt anrufen – wir kommen sofort!",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "button": {
+          "text": "Jetzt anrufen",
+          "href": "tel:+49123456789"
+        },
+        "rating": {
+          "title": "5.0 - Sehr empfehlenswert",
+          "description": "Ihr Partner für den 24-Stunden Klempner Notdienst in Stadt__name"
+        }
       }
+    },
+    "faqPage": {
+      "title": "FAQ",
+      "sections": [
+        {
+          "title": "Rohrbruch Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn ein Wasserrohr bricht, zählt jede Minute",
+              "text": "Ein Rohrbruch ist einer der häufigsten und folgenschwersten Sanitär-Notfälle. Plötzlich austretendes Wasser kann Böden, Wände und Möbel innerhalb kürzester Zeit stark beschädigen. Um Folgeschäden wie Schimmelbildung oder Stromausfälle zu verhindern, muss sofort gehandelt werden. Unser Klempner Notdienst ist rund um die Uhr erreichbar und kommt schnell zu Ihnen vor Ort. Mit professioneller Ausrüstung lokalisieren wir die Leckstelle, dichten das Rohr ab und beginnen umgehend mit der Reparatur."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen beim Wasserrohrbruch",
+              "items": [
+                "Schnelle Leckortung mit moderner Technik",
+                "Sofortiges Abdichten des defekten Rohrs",
+                "Fachgerechte Reparatur oder Austausch beschädigter Rohrleitungen",
+                "Unterstützung bei der Wasserschadenbeseitigung",
+                "Dokumentation für Versicherung und Hausverwaltung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergarten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei Rohrbrüchen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Abfluss Notdienst – jetzt anrufen",
+              "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar. Ein Anruf genügt und wir kommen sofort, um die Verstopfung zu beseitigen."
+            }
+          ]
+        },
+        {
+          "title": "Abfluss Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn der Abfluss verstopft ist",
+              "text": "Ein verstopfter Abfluss ist einer der häufigsten Sanitär-Notfälle. Ob Küche, Bad oder Keller – wenn das Wasser nicht mehr abläuft, können unangenehme Gerüche, Überschwemmungen und Schäden entstehen.  Unser Abfluss Notdienst ist jederzeit erreichbar und kommt schnell zu Ihnen vor Ort. Mit Spezialwerkzeug wie Spiralen, Druckluft oder Hochdruckspülung beseitigen wir jede Verstopfung zuverlässig und nachhaltig."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei Abflussverstopfung",
+              "items": [
+                "Schnelle Rohr- und Abflussreinigung mit Profi-Werkzeug",
+                "Beseitigung von Verstopfungen in Küche, Bad, WC und Keller",
+                "Einsatz von Spirale, Druckluft und Hochdruckspülung",
+                "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+                "Beratung bei wiederkehrenden Abflussproblemen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbe: Restaurants, Hotels, Büros, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei Verstopfungen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Abfluss Notdienst – jetzt anrufen",
+              "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar. Ein Anruf genügt und wir kommen sofort, um die Verstopfung zu beseitigen."
+            }
+          ]
+        },
+        {
+          "title": "Toilette verstopft Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn die Toilette verstopft ist",
+              "text": "Eine verstopfte Toilette ist ein akuter Notfall – unangenehme Gerüche, Überschwemmungen und die eingeschränkte Nutzung der Sanitäranlagen machen sofortiges Handeln erforderlich. Unser Klempner Notdienst ist Tag und Nacht für Sie erreichbar. Mit Spezialwerkzeug beseitigen wir die Verstopfung professionell, sauber und zuverlässig."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei einer verstopften Toilette",
+              "items": [
+                "Schnelle und saubere Beseitigung von Verstopfungen",
+                "Einsatz von Spezialwerkzeugen wie Spirale und Druckluft",
+                "Vermeidung von Überschwemmungen und Folgeschäden",
+                "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+                "Beratung bei wiederkehrenden Problemen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbe: Restaurants, Hotels, Büros, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei Verstopfungen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Toilette verstopft Notdienst",
+              "text": "Ob mitten in der Nacht, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Dusche verstopft Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn die Dusche verstopft ist",
+              "text": "Eine verstopfte Dusche ist mehr als nur ärgerlich – das Wasser staut sich, läuft über und kann Schäden am Boden oder an den Wänden verursachen. Häufig sind Haare, Seifenreste oder Kalkablagerungen die Ursache. Unser Klempner Notdienst ist rund um die Uhr erreichbar und beseitigt die Verstopfung mit professionellem Werkzeug schnell und gründlich."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei einer verstopften Dusche",
+              "items": [
+                "Schnelle Beseitigung von Verstopfungen im Duschabfluss",
+                "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+                "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+                "Schonende Methoden ohne Beschädigung der Leitungen",
+                "Beratung bei wiederkehrenden Duschproblemen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbe: Hotels, Fitnessstudios, Schwimmbäder",
+                "Öffentliche Einrichtungen: Schulen, Sporthallen, Pflegeheime",
+                "Hausverwaltungen: Schnelle Hilfe bei Duschproblemen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Dusche verstopft Notdienst",
+              "text": "Ob früh am Morgen oder mitten in der Nacht – wir sind jederzeit für Sie erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Badewanne verstopft Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn die Badewanne verstopft ist",
+              "text": "Ein verstopfter Abfluss in der Badewanne kann schnell zu Überschwemmungen führen. Häufig sind Haare, Seifenreste oder Kalkablagerungen die Ursache. Stauendes Wasser belastet die Leitungen und kann Schäden anrichten. Unser Klempner Notdienst ist jederzeit erreichbar und beseitigt die Verstopfung schnell, gründlich und mit professionellem Werkzeug."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei einer verstopften Badewanne",
+              "items": [
+                "Schnelle Beseitigung von Verstopfungen im Badewannenabfluss",
+                "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+                "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+                "Schonende Methoden zur Sicherung der Leitungen",
+                "Beratung bei wiederkehrenden Abflussproblemen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Hotels, Pensionen und Ferienwohnungen",
+                "Öffentliche Einrichtungen: Schulen, Pflegeheime, Sporteinrichtungen",
+                "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Badewanne verstopft Notdienst",
+              "text": "Ob am Wochenende, abends oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Küche verstopft Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn die Küchenspüle verstopft ist",
+              "text": "Eine verstopfte Küchenspüle ist einer der häufigsten Gründe für unseren Klempner Notdienst. Essensreste, Fett und Ablagerungen setzen sich in den Leitungen fest und blockieren den Abfluss. Das Wasser staut sich zurück, unangenehme Gerüche entstehen und im schlimmsten Fall läuft die Spüle über. Unser Klempner Notdienst ist 24 Stunden täglich erreichbar und beseitigt die Verstopfung schnell, gründlich und zuverlässig mit professionellem Werkzeug."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei einer verstopften Küchenspüle",
+              "items": [
+                "Schnelle Beseitigung von Verstopfungen in der Küche",
+                "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+                "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+                "Entfernung von Fett- und Essensresten in den Leitungen",
+                "Beratung bei wiederkehrenden Abflussproblemen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gastronomie: Restaurants, Cafés, Bars",
+                "Hotels und Ferienwohnungen",
+                "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Küche verstopft Notdienst",
+              "text": "Ob tagsüber, nachts oder am Wochenende – wir sind jederzeit für Sie erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Waschbecken verstopft Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn das Waschbecken verstopft ist",
+              "text": "Ein verstopftes Waschbecken im Badezimmer oder Gäste-WC kann schnell zu Überschwemmungen führen und ist äußerst unangenehm. Meist sind Haare, Seifenreste oder kleine Gegenstände die Ursache. Das Wasser läuft nicht mehr ab, unangenehme Gerüche entstehen und die Nutzung ist eingeschränkt. Unser Klempner Notdienst ist jederzeit für Sie erreichbar und beseitigt die Verstopfung gründlich und zuverlässig."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei einem verstopften Waschbecken",
+              "items": [
+                "Schnelle Beseitigung von Verstopfungen im Badezimmer und Gäste-WC",
+                "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+                "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+                "Schonende Methoden ohne Beschädigung der Leitungen",
+                "Beratung bei wiederkehrenden Problemen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Hotels und Pensionen",
+                "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime",
+                "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Waschbecken verstopft Notdienst",
+              "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Keller verstopft Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn der Kellerabfluss verstopft ist",
+              "text": "Ein verstopfter Abfluss im Keller ist besonders problematisch: Rückstauendes Wasser kann den gesamten Keller überfluten und große Schäden verursachen. Ursachen sind oft Schlamm, Schmutz oder Ablagerungen in den Leitungen. Unser Klempner Notdienst ist jederzeit erreichbar und beseitigt die Verstopfung mit professioneller Ausrüstung gründlich und zuverlässig."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei einem verstopften Kellerabfluss",
+              "items": [
+                "Schnelle Beseitigung von Verstopfungen im Keller",
+                "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+                "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
+                "Entfernung von Schlamm- und Schmutzablagerungen",
+                "Beratung bei wiederkehrenden Problemen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Einfamilienhäuser, Mehrfamilienhäuser mit Kellern",
+                "Gewerbebetriebe: Lagerräume, Produktionsstätten",
+                "Öffentliche Einrichtungen: Schulen, Sporthallen, Pflegeheime",
+                "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Keller verstopft Notdienst",
+              "text": "Ob am Wochenende, nachts oder an Feiertagen – wir sind rund um die Uhr erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Rohrleitung verstopft Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn eine Rohrleitung verstopft ist",
+              "text": "Eine verstopfte Rohrleitung kann den gesamten Wasser- oder Abwasserfluss blockieren. Die Ursachen reichen von Ablagerungen über Fremdkörper bis hin zu Wurzeleinwuchs. Ohne schnelle Hilfe drohen Überschwemmungen, Wasserschäden und Funktionsausfälle. Unser Klempner Notdienst ist rund um die Uhr erreichbar und beseitigt Verstopfungen in Rohrleitungen zuverlässig und gründlich."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei verstopften Rohrleitungen",
+              "items": [
+                "Schnelle Beseitigung von Verstopfungen in Wasser- und Abwasserrohren",
+                "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
+                "Gründliche Reinigung für einen freien Durchfluss",
+                "Schonende Methoden ohne Beschädigung der Rohre",
+                "Beratung bei wiederkehrenden Rohrverstopfungen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbe: Büros, Restaurants, Hotels, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei Rohrproblemen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Rohrleitung verstopft Notdienst",
+              "text": "Egal ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Heizungsausfall Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn die Heizung ausfällt",
+              "text": "Ein Heizungsausfall ist besonders im Winter ein schwerwiegender Notfall. Kalte Räume, fehlendes Warmwasser und mögliche Frostschäden an Leitungen machen sofortiges Handeln erforderlich. Unser Klempner Notdienst ist 24 Stunden täglich erreichbar und sorgt dafür, dass Ihre Heizung schnellstmöglich wieder funktioniert."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei Heizungsausfall",
+              "items": [
+                "Schnelle Diagnose bei Heizungsproblemen",
+                "Fachgerechte Reparatur defekter Heizungsanlagen",
+                "Behebung von Problemen mit Warmwasser",
+                "Austausch defekter Komponenten",
+                "Notlösungen zur Überbrückung bis zur endgültigen Reparatur"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei Heizungsausfällen in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Heizungsausfall Notdienst",
+              "text": "Ob mitten in der Nacht, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Wasserschaden Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn ein Wasserschaden eintritt",
+              "text": "Ein Wasserschaden kann durch Rohrbrüche, undichte Leitungen oder verstopfte Abflüsse entstehen. Die Folgen sind oft gravierend: beschädigte Böden, Wände und Möbel sowie Schimmelbildung. Um größere Schäden zu verhindern, muss sofort gehandelt werden. Unser Klempner Notdienst ist rund um die Uhr erreichbar und hilft sofort mit Leckortung, Abdichtung und ersten Maßnahmen zur Schadensbegrenzung."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei Wasserschäden",
+              "items": [
+                "Schnelle Leckortung mit moderner Technik",
+                "Sofortige Abdichtung und Reparatur defekter Leitungen",
+                "Unterstützung bei der Wasserschadenbeseitigung",
+                "Einsatz von Pumpen und Trocknungsgeräten",
+                "Dokumentation für Versicherung und Hausverwaltung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                " Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei Wasserschäden in Mietobjekten"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Wasserschaden Notdienst",
+              "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
+            }
+          ]
+        },
+        {
+          "title": "Leckortung Notdienst",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn ein Wasserleck unklar ist",
+              "text": "Nicht jedes Leck ist sofort sichtbar. Oft machen sich Wasserschäden erst durch feuchte Wände, nasse Flecken oder steigende Wasserrechnungen bemerkbar. Eine präzise Leckortung ist notwendig, um das Problem schnell und ohne unnötige Schäden zu finden. Unser Klempner Notdienst ist spezialisiert auf die Leckortung mit moderner Technik und findet die Ursache zuverlässig und schnell."
+            },
+            {
+              "type": "list",
+              "title": "Unsere Leistungen bei der Leckortung",
+              "items": [
+                "Präzise Ortung von Wasser- und Rohrleitungslecks",
+                "Einsatz moderner Geräte wie Thermografie oder akustische Messung",
+                "Fachgerechte Abdichtung und Reparatur",
+                "Vermeidung unnötiger Aufbrucharbeiten",
+                "Dokumentation für Versicherung und Hausverwaltung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "items": [
+                "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
+                "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
+                "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
+                "Hausverwaltungen: Schnelle Hilfe bei unklaren Wasserschäden"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "24h Leckortung Notdienst",
+              "text": "Wir sind rund um die Uhr für Sie erreichbar."
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/SantechnicaServiceLogo.png/public",
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "#impressum"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "#datenschutz"
+        },
+        {
+          "text": "AGB",
+          "href": "#agb"
+        }
+      ]
     }
   },
-
-  "faqPage": {
-    "title": "FAQ",
-    "sections": [
-      {
-        "title": "Rohrbruch Notdienst",
-        "content": [
+  "PestControl": {
+    "header": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/PestControlServiceLogo.png/public",
+      "navigation": [
+        {
+          "text": "Strategie",
+          "href": "/#strategie"
+        },
+        {
+          "text": "Vorteile",
+          "href": "/#vorteile"
+        },
+        {
+          "text": "FAQ",
+          "href": "/faq.html"
+        },
+        {
+          "text": "Kontakt",
+          "href": "/#kontakt"
+        }
+      ]
+    },
+    "homepage": {
+      "hero": {
+        "id": "strategie",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "title": "Ihr 24-Stunden Schädlingsbekämpfung Notdienst in Stadt__name",
+        "description": "Ihr Schädlingsbekämpfung Notdienst in Stadt__name – 24 Stunden erreichbar, mit über 15 Jahren Erfahrung. Schnelle, diskrete und nachhaltige Hilfe bei Ameisen, Ratten, Bettwanzen oder Wespennestern.",
+        "button": {
+          "text": "+49 123 456 789",
+          "href": "tel:+49123456789"
+        }
+      },
+      "advantage": {
+        "id": "vorteile",
+        "title": "Kurze Bullet-Vorteile",
+        "mainImg": "",
+        "advantages": [
           {
-            "type": "paragraph",
-            "title": "Wenn ein Wasserrohr bricht, zählt jede Minute",
-            "text": "Ein Rohrbruch ist einer der häufigsten und folgenschwersten Sanitär-Notfälle. Plötzlich austretendes Wasser kann Böden, Wände und Möbel innerhalb kürzester Zeit stark beschädigen. Um Folgeschäden wie Schimmelbildung oder Stromausfälle zu verhindern, muss sofort gehandelt werden. Unser Klempner Notdienst ist rund um die Uhr erreichbar und kommt schnell zu Ihnen vor Ort. Mit professioneller Ausrüstung lokalisieren wir die Leckstelle, dichten das Rohr ab und beginnen umgehend mit der Reparatur."
+            "img": "",
+            "text": "24-Stunden-Schädlingsbekämpfung in Stadt__name"
           },
           {
-            "type": "list",
-            "title": "Unsere Leistungen beim Wasserrohrbruch",
-            "items": [
-              "Schnelle Leckortung mit moderner Technik",
-              "Sofortiges Abdichten des defekten Rohrs",
-              "Fachgerechte Reparatur oder Austausch beschädigter Rohrleitungen",
-              "Unterstützung bei der Wasserschadenbeseitigung",
-              "Dokumentation für Versicherung und Hausverwaltung"
-            ]
+            "img": "",
+            "text": "Telefonisch sofort erreichbar – keine Warteschleifen"
           },
           {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
-              "Öffentliche Einrichtungen: Schulen, Kindergarten, Pflegeheime, Behörden",
-              "Hausverwaltungen: Schnelle Hilfe bei Rohrbrüchen in Mietobjekten"
-            ]
+            "img": "",
+            "text": "Schnelle Hilfe vor Ort – meist innerhalb von 1–2 Stunden"
           },
           {
-            "type": "paragraph",
-            "title": "24h Abfluss Notdienst – jetzt anrufen",
-            "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar. Ein Anruf genügt und wir kommen sofort, um die Verstopfung zu beseitigen."
+            "img": "",
+            "text": "Transparente Preise – keine versteckten Kosten"
+          },
+          {
+            "img": "",
+            "text": "Diskrete & nachhaltige Methoden – ideal für Privat & Gewerbe"
+          },
+          {
+            "img": "",
+            "text": "Über 15 Jahre Erfahrung – zertifizierte Kammerjäger"
           }
         ]
       },
-
-      {
-        "title": "Abfluss Notdienst",
-        "content": [
+      "faqBlock": {
+        "id": "faq",
+        "title": "FAQ",
+        "mainImg": "",
+        "items": [
           {
-            "type": "paragraph",
-            "title": "Wenn der Abfluss verstopft ist",
-            "text": "Ein verstopfter Abfluss ist einer der häufigsten Sanitär-Notfälle. Ob Küche, Bad oder Keller – wenn das Wasser nicht mehr abläuft, können unangenehme Gerüche, Überschwemmungen und Schäden entstehen.  Unser Abfluss Notdienst ist jederzeit erreichbar und kommt schnell zu Ihnen vor Ort. Mit Spezialwerkzeug wie Spiralen, Druckluft oder Hochdruckspülung beseitigen wir jede Verstopfung zuverlässig und nachhaltig."
+            "img": "",
+            "text": "Insekten & Ungeziefer",
+            "href": "faq.html"
           },
           {
-            "type": "list",
-            "title": "Unsere Leistungen bei Abflussverstopfung",
-            "items": [
-              "Schnelle Rohr- und Abflussreinigung mit Profi-Werkzeug",
-              "Beseitigung von Verstopfungen in Küche, Bad, WC und Keller",
-              "Einsatz von Spirale, Druckluft und Hochdruckspülung",
-              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
-              "Beratung bei wiederkehrenden Abflussproblemen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gewerbe: Restaurants, Hotels, Büros, Ladengeschäfte",
-              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
-              "Hausverwaltungen: Schnelle Hilfe bei Verstopfungen in Mietobjekten"
-            ]
+            "img": "",
+            "text": "Ratten & Mäuse",
+            "href": "faq.html"
           },
           {
-            "type": "paragraph",
-            "title": "24h Abfluss Notdienst – jetzt anrufen",
-            "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar. Ein Anruf genügt und wir kommen sofort, um die Verstopfung zu beseitigen."
+            "text": "Vögel & Taubenabwehr",
+            "href": "faq.html"
+          },
+          {
+            "text": "Marder, Waschbären & andere Tiere",
+            "href": "faq.html"
+          },
+          {
+            "text": "Schädlingsbekämpfung für Betriebe",
+            "href": "faq.html"
+          },
+          {
+            "text": "Weitere Fälle und individuelle Lösungen",
+            "href": "faq.html"
           }
         ]
       },
-      {
-        "title": "Toilette verstopft Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn die Toilette verstopft ist",
-            "text": "Eine verstopfte Toilette ist ein akuter Notfall – unangenehme Gerüche, Überschwemmungen und die eingeschränkte Nutzung der Sanitäranlagen machen sofortiges Handeln erforderlich. Unser Klempner Notdienst ist Tag und Nacht für Sie erreichbar. Mit Spezialwerkzeug beseitigen wir die Verstopfung professionell, sauber und zuverlässig."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei einer verstopften Toilette",
-            "items": [
-              "Schnelle und saubere Beseitigung von Verstopfungen",
-              "Einsatz von Spezialwerkzeugen wie Spirale und Druckluft",
-              "Vermeidung von Überschwemmungen und Folgeschäden",
-              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
-              "Beratung bei wiederkehrenden Problemen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gewerbe: Restaurants, Hotels, Büros, Ladengeschäfte",
-              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
-              "Hausverwaltungen: Schnelle Hilfe bei Verstopfungen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Toilette verstopft Notdienst",
-            "text": "Ob mitten in der Nacht, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Dusche verstopft Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn die Dusche verstopft ist",
-            "text": "Eine verstopfte Dusche ist mehr als nur ärgerlich – das Wasser staut sich, läuft über und kann Schäden am Boden oder an den Wänden verursachen. Häufig sind Haare, Seifenreste oder Kalkablagerungen die Ursache. Unser Klempner Notdienst ist rund um die Uhr erreichbar und beseitigt die Verstopfung mit professionellem Werkzeug schnell und gründlich."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei einer verstopften Dusche",
-            "items": [
-              "Schnelle Beseitigung von Verstopfungen im Duschabfluss",
-              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
-              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
-              "Schonende Methoden ohne Beschädigung der Leitungen",
-              "Beratung bei wiederkehrenden Duschproblemen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gewerbe: Hotels, Fitnessstudios, Schwimmbäder",
-              "Öffentliche Einrichtungen: Schulen, Sporthallen, Pflegeheime",
-              "Hausverwaltungen: Schnelle Hilfe bei Duschproblemen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Dusche verstopft Notdienst",
-            "text": "Ob früh am Morgen oder mitten in der Nacht – wir sind jederzeit für Sie erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Badewanne verstopft Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn die Badewanne verstopft ist",
-            "text": "Ein verstopfter Abfluss in der Badewanne kann schnell zu Überschwemmungen führen. Häufig sind Haare, Seifenreste oder Kalkablagerungen die Ursache. Stauendes Wasser belastet die Leitungen und kann Schäden anrichten. Unser Klempner Notdienst ist jederzeit erreichbar und beseitigt die Verstopfung schnell, gründlich und mit professionellem Werkzeug."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei einer verstopften Badewanne",
-            "items": [
-              "Schnelle Beseitigung von Verstopfungen im Badewannenabfluss",
-              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
-              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
-              "Schonende Methoden zur Sicherung der Leitungen",
-              "Beratung bei wiederkehrenden Abflussproblemen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Hotels, Pensionen und Ferienwohnungen",
-              "Öffentliche Einrichtungen: Schulen, Pflegeheime, Sporteinrichtungen",
-              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Badewanne verstopft Notdienst",
-            "text": "Ob am Wochenende, abends oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Küche verstopft Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn die Küchenspüle verstopft ist",
-            "text": "Eine verstopfte Küchenspüle ist einer der häufigsten Gründe für unseren Klempner Notdienst. Essensreste, Fett und Ablagerungen setzen sich in den Leitungen fest und blockieren den Abfluss. Das Wasser staut sich zurück, unangenehme Gerüche entstehen und im schlimmsten Fall läuft die Spüle über. Unser Klempner Notdienst ist 24 Stunden täglich erreichbar und beseitigt die Verstopfung schnell, gründlich und zuverlässig mit professionellem Werkzeug."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei einer verstopften Küchenspüle",
-            "items": [
-              "Schnelle Beseitigung von Verstopfungen in der Küche",
-              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
-              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
-              "Entfernung von Fett- und Essensresten in den Leitungen",
-              "Beratung bei wiederkehrenden Abflussproblemen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gastronomie: Restaurants, Cafés, Bars",
-              "Hotels und Ferienwohnungen",
-              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Küche verstopft Notdienst",
-            "text": "Ob tagsüber, nachts oder am Wochenende – wir sind jederzeit für Sie erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Waschbecken verstopft Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn das Waschbecken verstopft ist",
-            "text": "Ein verstopftes Waschbecken im Badezimmer oder Gäste-WC kann schnell zu Überschwemmungen führen und ist äußerst unangenehm. Meist sind Haare, Seifenreste oder kleine Gegenstände die Ursache. Das Wasser läuft nicht mehr ab, unangenehme Gerüche entstehen und die Nutzung ist eingeschränkt. Unser Klempner Notdienst ist jederzeit für Sie erreichbar und beseitigt die Verstopfung gründlich und zuverlässig."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei einem verstopften Waschbecken",
-            "items": [
-              "Schnelle Beseitigung von Verstopfungen im Badezimmer und Gäste-WC",
-              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
-              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
-              "Schonende Methoden ohne Beschädigung der Leitungen",
-              "Beratung bei wiederkehrenden Problemen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Hotels und Pensionen",
-              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime",
-              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Waschbecken verstopft Notdienst",
-            "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit für Sie erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Keller verstopft Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn der Kellerabfluss verstopft ist",
-            "text": "Ein verstopfter Abfluss im Keller ist besonders problematisch: Rückstauendes Wasser kann den gesamten Keller überfluten und große Schäden verursachen. Ursachen sind oft Schlamm, Schmutz oder Ablagerungen in den Leitungen. Unser Klempner Notdienst ist jederzeit erreichbar und beseitigt die Verstopfung mit professioneller Ausrüstung gründlich und zuverlässig."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei einem verstopften Kellerabfluss",
-            "items": [
-              "Schnelle Beseitigung von Verstopfungen im Keller",
-              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
-              "Gründliche Reinigung zur Vorbeugung neuer Verstopfungen",
-              "Entfernung von Schlamm- und Schmutzablagerungen",
-              "Beratung bei wiederkehrenden Problemen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Einfamilienhäuser, Mehrfamilienhäuser mit Kellern",
-              "Gewerbebetriebe: Lagerräume, Produktionsstätten",
-              "Öffentliche Einrichtungen: Schulen, Sporthallen, Pflegeheime",
-              "Hausverwaltungen: Schnelle Hilfe bei Problemen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Keller verstopft Notdienst",
-            "text": "Ob am Wochenende, nachts oder an Feiertagen – wir sind rund um die Uhr erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Rohrleitung verstopft Notdienst",
-       "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn eine Rohrleitung verstopft ist",
-            "text": "Eine verstopfte Rohrleitung kann den gesamten Wasser- oder Abwasserfluss blockieren. Die Ursachen reichen von Ablagerungen über Fremdkörper bis hin zu Wurzeleinwuchs. Ohne schnelle Hilfe drohen Überschwemmungen, Wasserschäden und Funktionsausfälle. Unser Klempner Notdienst ist rund um die Uhr erreichbar und beseitigt Verstopfungen in Rohrleitungen zuverlässig und gründlich."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei verstopften Rohrleitungen",
-            "items": [
-              "Schnelle Beseitigung von Verstopfungen in Wasser- und Abwasserrohren",
-              "Einsatz von Spirale, Druckluft oder Hochdruckspülung",
-              "Gründliche Reinigung für einen freien Durchfluss",
-              "Schonende Methoden ohne Beschädigung der Rohre",
-              "Beratung bei wiederkehrenden Rohrverstopfungen"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gewerbe: Büros, Restaurants, Hotels, Ladengeschäfte",
-              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
-              "Hausverwaltungen: Schnelle Hilfe bei Rohrproblemen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Rohrleitung verstopft Notdienst",
-            "text": "Egal ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Heizungsausfall Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn die Heizung ausfällt",
-            "text": "Ein Heizungsausfall ist besonders im Winter ein schwerwiegender Notfall. Kalte Räume, fehlendes Warmwasser und mögliche Frostschäden an Leitungen machen sofortiges Handeln erforderlich. Unser Klempner Notdienst ist 24 Stunden täglich erreichbar und sorgt dafür, dass Ihre Heizung schnellstmöglich wieder funktioniert."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei Heizungsausfall",
-            "items": [
-              "Schnelle Diagnose bei Heizungsproblemen",
-              "Fachgerechte Reparatur defekter Heizungsanlagen",
-              "Behebung von Problemen mit Warmwasser",
-              "Austausch defekter Komponenten",
-              "Notlösungen zur Überbrückung bis zur endgültigen Reparatur"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
-              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
-              "Hausverwaltungen: Schnelle Hilfe bei Heizungsausfällen in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Heizungsausfall Notdienst",
-            "text": "Ob mitten in der Nacht, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Wasserschaden Notdienst",
-       "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn ein Wasserschaden eintritt",
-            "text": "Ein Wasserschaden kann durch Rohrbrüche, undichte Leitungen oder verstopfte Abflüsse entstehen. Die Folgen sind oft gravierend: beschädigte Böden, Wände und Möbel sowie Schimmelbildung. Um größere Schäden zu verhindern, muss sofort gehandelt werden. Unser Klempner Notdienst ist rund um die Uhr erreichbar und hilft sofort mit Leckortung, Abdichtung und ersten Maßnahmen zur Schadensbegrenzung."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei Wasserschäden",
-            "items": [
-              "Schnelle Leckortung mit moderner Technik",
-              "Sofortige Abdichtung und Reparatur defekter Leitungen",
-              "Unterstützung bei der Wasserschadenbeseitigung",
-              "Einsatz von Pumpen und Trocknungsgeräten",
-              "Dokumentation für Versicherung und Hausverwaltung"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              " Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
-              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
-              "Hausverwaltungen: Schnelle Hilfe bei Wasserschäden in Mietobjekten"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Wasserschaden Notdienst",
-            "text": "Ob nachts, am Wochenende oder an Feiertagen – wir sind jederzeit erreichbar."
-          }
-        ]
-      },
-      {
-        "title": "Leckortung Notdienst",
-        "content": [
-          {
-            "type": "paragraph",
-            "title": "Wenn ein Wasserleck unklar ist",
-            "text": "Nicht jedes Leck ist sofort sichtbar. Oft machen sich Wasserschäden erst durch feuchte Wände, nasse Flecken oder steigende Wasserrechnungen bemerkbar. Eine präzise Leckortung ist notwendig, um das Problem schnell und ohne unnötige Schäden zu finden. Unser Klempner Notdienst ist spezialisiert auf die Leckortung mit moderner Technik und findet die Ursache zuverlässig und schnell."
-          },
-          {
-            "type": "list",
-            "title": "Unsere Leistungen bei der Leckortung",
-            "items": [
-              "Präzise Ortung von Wasser- und Rohrleitungslecks",
-              "Einsatz moderner Geräte wie Thermografie oder akustische Messung",
-              "Fachgerechte Abdichtung und Reparatur",
-              "Vermeidung unnötiger Aufbrucharbeiten",
-              "Dokumentation für Versicherung und Hausverwaltung"
-            ]
-           },
-          {
-            "type": "list",
-            "title": "Für wen wir tätig sind",
-            "items": [
-              "Privathaushalte: Wohnungen, Einfamilienhäuser, Mehrfamilienhäuser",
-              "Gewerbebetriebe: Büros, Restaurants, Hotels, Ladengeschäfte",
-              "Öffentliche Einrichtungen: Schulen, Kindergärten, Pflegeheime, Behörden",
-              "Hausverwaltungen: Schnelle Hilfe bei unklaren Wasserschäden"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "title": "24h Leckortung Notdienst",
-            "text": "Wir sind rund um die Uhr für Sie erreichbar."
-          }
-        ]
+      "contact": {
+        "id": "kontakt",
+        "title": "Jetzt anrufen – wir kommen sofort!",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "button": {
+          "text": "Jetzt anrufen",
+          "href": "tel:+49123456789"
+        },
+        "rating": {
+          "title": "5.0 - Sehr empfehlenswert",
+          "description": "Ihr Partner für den 24-Stunden Schädlingsbekämpfung Notdienst in Stadt__name"
+        }
       }
-    ]
+    },
+    "faqPage": {
+      "title": "FAQ",
+      "sections": [
+        {
+          "title": "Ameisen bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ameisen sind einer der häufigsten Schädlinge in Deutschland. Ob Ameisen im Haus, in der Küche, auf der Terrasse oder im Garten – wir sorgen für schnelle, diskrete und nachhaltige Ameisenbekämpfung. Je nach Art (z. B. Schwarze Wegameise, Pharaoameise, Holzameise, Rasenameise) wählen wir gezielte Verfahren: Ködersysteme, Sprüh-/Spritzverfahren, biologische Methoden (giftfrei) und bauliche Abdichtungen. Ideal für Privathaushalte, Gastronomie, Hotels, Lagerhallen – HACCP-konform."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Befallsanalyse & Identifikation der Ameisenart",
+                "Ködergel / -stationen zur Koloniebekämpfung (Nestmitteltransport)",
+                "Sprüh-/Spritzbehandlung an Laufwegen & Nestern",
+                "Biologische/giftfreie Ameisenbekämpfung möglich (Kinder/Haustiere)",
+                "Abdichtung & Prävention (Ritzen, Fugen, Leitungsdurchführungen)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Wespenbekämpfung & Wespennest entfernen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Wespen gefährden Menschen, Haustiere und Gastronomie-Betriebe. Wir entfernen Wespennester fachgerecht – am Dach, Rollladenkasten, Gartenhaus oder im Erdreich – und verhindern Neubefall."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Schnelle Anfahrt (24h Notdienst)",
+                "Entfernung/Umsiedlung je nach Lage & Art",
+                "Prävention (Zugänge schließen, Beratung)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hornissenbekämpfung",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Hornissen stehen unter Schutz – wir übernehmen erlaubnispflichtige Umsiedlungen und arbeiten gesetzeskonform."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Genehmigung & Umsiedlung",
+                "Sicherer Abtransport",
+                "Prävention & Beratung"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bettwanzen bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Wärmebehandlung bis ~60 °C, gezielte Insektizide und Kälteverfahren beseitigen Bettwanzen zuverlässig – inkl. Nachkontrolle & Prävention."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Befallsanalyse, Monitoring",
+                "Thermische/chemische Behandlung",
+                "Präventionsplan (Ritzen/Spalten, Textilien)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Flöhe bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Flohbefall in Wohnungen und Gewerbe (auch Gastronomie/Hotels) wird mit Insektiziden, Spezialreinigung und Prävention gestoppt."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Ursachensuche & Behandlung aller Areale",
+                "Textil- & Flächenbehandlung",
+                "Nachkontrolle & Prävention"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kakerlaken & Schaben bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ködergel, Stationssysteme und Sprühverfahren eliminieren Kakerlaken/Schaben nachhaltig – HACCP-dokumentiert."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Diskrete Behandlung (Gastro/Hotel/Lebensmittel)",
+                "Köder, Gels, Kontaktinsektizide",
+                "Monitoring & Dokumentation"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Silberfischchen bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Silberfischchen deuten oft auf Feuchtigkeit hin. Wir kombinieren Ursachenanalyse, Insektizidmaßnahmen und Feuchteprävention."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Feuchtemessung & Ursachenbehebung",
+                "Behandlung von Fugen/Ritzen",
+                "Prävention (Lüften, Abdichten)"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ratten bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ratten zählen zu den gefährlichsten Hygieneschädlingen. Sie übertragen Krankheiten, zerstören Vorräte und beschädigen Gebäude. Wir bieten Ihnen eine sichere und diskrete Rattenbekämpfung, sowohl für Privathaushalte als auch für Unternehmen."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Befallsanalyse & Artbestimmung (Wanderratte, Hausratte, Kanalratte)",
+                "Ködersysteme & Schlagfallen",
+                "Abdichtung von Zugängen",
+                "Prävention gegen Neubefall"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mäuse bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Mäuse können Lebensmittel verunreinigen, Kabel anfressen und Krankheiten übertragen. Unser Team setzt auf gezielte Fallen, Köder und bauliche Prävention, um Mäuse langfristig fernzuhalten."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Schnelle Befallsermittlung",
+                "Köderstationen & Lebendfallen",
+                "Hygienemaßnahmen & Prävention"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hausmäuse bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Hausmäuse sind geschickt im Eindringen und können sich schnell vermehren. Wir lokalisieren die Nester, entfernen den Befall und sichern Ihr Gebäude gegen erneuten Zutritt."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Befallsanalyse & Nestsuche",
+                "Einsatz von Schlag- und Lebendfallen",
+                "Bauliche Abdichtungen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Feldmäuse bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Feldmäuse graben Gänge, zerstören Rasenflächen und fressen Wurzeln an. Unsere Bekämpfung schützt Gärten, Sportplätze und landwirtschaftliche Flächen nachhaltig."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Köderstationen & Begasung",
+                "Bodenverdichtung & Prävention",
+                "Beratung für langfristigen Schutz"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Wühlmäuse bekämpfen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Wühlmäuse zerstören durch ihre Fraßschäden an Wurzeln und Pflanzen komplette Gärten. Wir setzen auf mechanische Fallen, Begasung und Ködersysteme, um den Befall zu stoppen."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Genaue Befallsermittlung",
+                "Mechanische und chemische Bekämpfung",
+                "Prävention durch Bodenbearbeitung"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taubenabwehr",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Tauben sind in Städten weit verbreitet und verursachen erhebliche Schäden an Gebäuden, Dächern und Fassaden. Ihr Kot ist nicht nur ätzend, sondern kann auch Krankheitserreger übertragen. Wir bieten maßgeschneiderte Taubenabwehrsysteme für Privat- und Gewerbeobjekte."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Montage von Taubennetzen",
+                "Installation von Taubenspikes",
+                "Elektrische Taubenabwehrsysteme",
+                "Reinigung & Desinfektion von betroffenen Flächen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taubennetze montieren",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Taubennetze verhindern, dass Tauben auf Balkonen, Dachböden und Gebäudeteilen landen oder nisten. Unsere professionelle Montage sorgt für eine dauerhafte und unauffällige Lösung."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Individuelle Anpassung an Gebäudeform",
+                "UV- und wetterbeständige Materialien",
+                "Fachgerechte Befestigung ohne Gebäudeschäden"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taubenspikes montieren",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Taubenspikes sind eine der beliebtesten Methoden zur Taubenabwehr. Sie verhindern das Landen auf Simsen, Balkonen, Dächern und Fassaden – ohne den Tieren zu schaden."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Installation auf Fensterbänken, Simsen, Balkonen",
+                "Witterungsbeständige Materialien",
+                "Diskrete Optik"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Möwenabwehr",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Möwen können an Küstenregionen zur massiven Plage werden. Sie verursachen Schäden an Gebäuden, stören die Gastronomie und hinterlassen gesundheitsschädlichen Kot. Unsere Möwenabwehrsysteme sind effektiv und tierfreundlich."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Draht- & Netzsysteme",
+                "Akustische Abschreckung",
+                "Präventive bauliche Maßnahmen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vogelabwehr allgemein",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ob Tauben, Möwen, Krähen oder andere Vögel – wir verhindern, dass Vögel Ihr Gebäude, Ihre Anlagen oder Außenbereiche verschmutzen oder beschädigen. Unsere maßgeschneiderten Systeme sind effizient, tierfreundlich und langlebig."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Netze, Spikes, Drahtsysteme",
+                "Akustische & optische Abschreckung",
+                "Reinigung & Desinfektion"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marderabwehr & Marder vertreiben",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Marder richten oft erhebliche Schäden an Kabeln, Dämmung und Dachböden an. Besonders Marderschäden an Autos sind häufig und teuer. Wir setzen tierfreundliche Methoden ein, um Marder dauerhaft fernzuhalten."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Marderabwehr im Auto (Ultraschall, Stromplatten, Duftstoffe)",
+                "Absicherung von Dachboden & Haus",
+                "Präventive Maßnahmen gegen Neubefall"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Waschbären vertreiben",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Waschbären sind neugierig, intelligent und können große Schäden in Dachböden, Gärten und Müllbereichen verursachen. Unsere Profis vertreiben Waschbären dauerhaft und tierschutzgerecht."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Dachboden- & Gebäudesicherung",
+                "Lebendfallen mit Umsiedlung",
+                "Prävention gegen erneuten Befall"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Siebenschläfer vertreiben",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Siebenschläfer sind zwar niedlich, können aber im Dachboden laute Geräusche verursachen und Dämmmaterial zerstören. Unsere Experten setzen tierfreundliche Vergrämungsmethoden ein."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Absicherung des Dachbodens",
+                "Tierfreundliche Vertreibung",
+                "Vorbeugende Maßnahmen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fuchsabwehr",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Füchse können Krankheiten wie Tollwut oder Fuchsbandwurm übertragen und richten Schäden an Hühnerställen an. Wir schützen Grundstücke und Tiergehege nachhaltig und tierschutzgerecht."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Absicherung von Zäunen & Gehegen",
+                "Duft- & Ultraschallabwehr",
+                "Beratung zu präventiven Maßnahmen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Maulwürfe vertreiben (tierschutzgerecht)",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Maulwürfe sind geschützte Tiere und dürfen nicht getötet werden. Wir vertreiben sie mit zulässigen Methoden, um Ihren Rasen und Garten wieder ebenmäßig zu gestalten."
+            },
+            {
+              "type": "list",
+              "title": "Leistungen:",
+              "items": [
+                "Einsatz von Vibrations- & Ultraschallgeräten",
+                "Bodenverdichtung",
+                "Beratung zu langfristigem Schutz"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/PestControlServiceLogo.png/public",
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "#impressum"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "#datenschutz"
+        },
+        {
+          "text": "AGB",
+          "href": "#agb"
+        }
+      ]
+    }
   },
-
-  "footer": {
-    "logo": "",
-    "links": [
-      { "text": "Impressum", "href": "#impressum" },
-      { "text": "Datenschutz", "href": "#datenschutz" },
-      { "text": "AGB", "href": "#agb" }
-    ]
+  "Unlock": {
+    "header": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/UnlockServiceLogo.png/public",
+      "navigation": [
+        {
+          "text": "Strategie",
+          "href": "/#strategie"
+        },
+        {
+          "text": "Vorteile",
+          "href": "/#vorteile"
+        },
+        {
+          "text": "FAQ",
+          "href": "/faq.html"
+        },
+        {
+          "text": "Kontakt",
+          "href": "/#kontakt"
+        }
+      ]
+    },
+    "homepage": {
+      "hero": {
+        "id": "strategie",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "title": "Ihr 24-Stunden Schlüsseldienst in Stadt__name",
+        "description": "Tür zugefallen, Schlüssel verloren oder Schloss defekt?\n\nWir sind 24h in Stadt__name für Sie da – Türen, Autos & Tresore in 95 % der Fälle beschädigungsfrei geöffnet. Meist in 20–40 Minuten vor Ort.",
+        "button": {
+          "text": "+49 123 456 789",
+          "href": "tel:+49123456789"
+        }
+      },
+      "advantage": {
+        "id": "vorteile",
+        "title": "Kurze Bullet-Vorteile",
+        "mainImg": "",
+        "advantages": [
+          {
+            "img": "",
+            "text": "24-Stunden-Schlüsseldienst in Stadt__name"
+          },
+          {
+            "img": "",
+            "text": "Türen, Autos & Tresore in 95 % der Fälle beschädigungsfrei geöffnet"
+          },
+          {
+            "img": "",
+            "text": "Faire Festpreise – keine versteckten Kosten"
+          },
+          {
+            "img": "",
+            "text": "Schnelle Anfahrt in Stadt__name und Umgebung (20–40 Minuten)"
+          },
+          {
+            "img": "",
+            "text": "Erfahrene & geprüfte Monteure"
+          },
+          {
+            "img": "",
+            "text": "Über 15 Jahre Erfahrung im Schlüsselnotdienst"
+          }
+        ]
+      },
+      "faqBlock": {
+        "id": "faq",
+        "title": "FAQ",
+        "mainImg": "",
+        "items": [
+          {
+            "img": "",
+            "text": "Türöffnung",
+            "href": "faq.html"
+          },
+          {
+            "img": "",
+            "text": "Autoöffnung",
+            "href": "faq.html"
+          },
+          {
+            "text": "Tresoröffnung",
+            "href": "faq.html"
+          },
+          {
+            "text": "Einbruchschutz & Sicherheitstechnik",
+            "href": "faq.html"
+          },
+          {
+            "text": "Schlossreparatur",
+            "href": "faq.html"
+          },
+          {
+            "text": "Weitere Fälle und individuelle Lösungen",
+            "href": "faq.html"
+          }
+        ]
+      },
+      "contact": {
+        "id": "kontakt",
+        "title": "Jetzt anrufen – wir kommen sofort!",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "button": {
+          "text": "Jetzt anrufen",
+          "href": "tel:+49123456789"
+        },
+        "rating": {
+          "title": "5.0 - Sehr empfehlenswert",
+          "description": "Ihr Partner für den 24-Stunden Schlüsseldienst in Stadt__name"
+        }
+      }
+    },
+    "faqPage": {
+      "title": "FAQ",
+      "sections": [
+        {
+          "title": "Türöffnung",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Sie stehen vor verschlossener Tür? Unser Türöffnungs-Service hilft Ihnen schnell, zuverlässig und zu einem fairen Festpreis. In den meisten Fällen öffnen wir Türen beschädigungsfrei – egal, ob es sich um eine zugefallene Wohnungstür, eine abgeschlossene Haustür oder eine defekte Nebeneingangstür handelt.\n\n\nUnser 24-Stunden-Schlüsselnotdienst ist an 365 Tagen im Jahr für Sie erreichbar. Wir sind meist innerhalb von 20–40 Minuten vor Ort und bringen alle nötigen Werkzeuge mit, um die Tür fachgerecht zu öffnen. Sollte ein Schloss- oder Zylinderaustausch notwendig sein, führen wir dies sofort und mit hochwertigen Markenprodukten durch."
+            },
+            {
+              "type": "list",
+              "title": "Ihre Vorteile:",
+              "items": [
+                "Rund-um-die-Uhr erreichbar",
+                "95 % beschädigungsfreie Türöffnungen",
+                "Faire und transparente Festpreise",
+                "Schnelle Anfahrt in der Umgebung"
+              ], 
+              "underItemsTitle": ""
+            }
+          ]
+        },
+        {
+          "title": "Autoöffnung",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ihr Autoschlüssel ist im Fahrzeug eingeschlossen, verloren gegangen oder abgebrochen? Unsere Autoöffnung sorgt dafür, dass Sie schnell wieder mobil sind. Wir arbeiten mit speziellen Werkzeugen, die es ermöglichen, Autotüren ohne Lack- oder Karosserieschäden zu öffnen.\n\n\nEgal ob PKW, LKW, Oldtimer, Transporter, Wohnmobil oder Bus – wir verfügen über langjährige Erfahrung mit allen Fahrzeugtypen und -marken. Unser Autoöffnungs-Notdienst ist 24 Stunden täglich erreichbar und hilft Ihnen auch an Wochenenden und Feiertagen."
+            },
+            {
+              "type": "list",
+              "title": "Ihre Vorteile:",
+              "items": [
+                "Lack- und beschädigungsfreie Öffnung",
+                "Für alle Fahrzeugtypen und Marken",
+                "24h erreichbar – auch an Feiertagen",
+                "Schnelle Anfahrt in der Umgebung"
+              ], 
+              "underItemsTitle": ""
+            }
+          ]
+        },
+        {
+          "title": "Tresoröffnung",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ihr Tresor oder Safe lässt sich nicht mehr öffnen? Unser Service für Tresoröffnungen steht Ihnen rund um die Uhr zur Verfügung. Egal ob mechanischer Tresor, elektronischer Safe, Wertschutzschrank, Möbeltresor oder Waffenschrank – wir öffnen professionell und so schonend wie möglich, damit der Tresor in vielen Fällen weiterhin nutzbar bleibt."
+            },
+            {
+              "type": "list",
+              "title": "Ihre Vorteile:",
+              "items": [
+                "Verlorenen Tresorschlüsseln",
+                "Vergessenen Zahlencodes",
+                "Defekten Schlössern oder Elektronikfehlern",
+                "Blockierten Verriegelungen"
+              ], 
+              "underItemsTitle": "Unsere diskrete Arbeitsweise garantiert, dass Ihre Privatsphäre gewahrt bleibt."
+            }
+          ]
+        },
+        {
+          "title": "Einbruchschutz & Sicherheitstechnik",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ein Einbruch kann schnell passieren – und oft bleiben nicht nur materielle Schäden zurück. Unser Service für Einbruchschutz sorgt dafür, dass Sie sich in Ihren eigenen vier Wänden wieder sicher fühlen."
+            },
+            {
+              "type": "list",
+              "title": "Wir beraten Sie individuell und installieren moderne Sicherheitstechnik wie:",
+              "items": [
+                "Panzerriegel und Sicherheitsbeschläge",
+                "Mehrfachverriegelungen und Zusatzschlösser",
+                "Fenstersicherungen",
+                "Elektronische Schließanlagen",
+                "Alarmanlagen und Videoüberwachung"
+              ],
+              "underItemsTitle": "Auf Wunsch führen wir einen Sicherheitscheck vor Ort durch und entwickeln ein maßgeschneidertes Schutzkonzept für Ihr Zuhause oder Ihr Unternehmen."
+            }
+          ]
+        },
+        {
+          "title": "Schlossreparatur & Mehrfachverriegelungen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": "Ein defektes Schloss oder eine beschädigte Mehrfachverriegelung ist nicht nur ärgerlich, sondern auch ein Sicherheitsrisiko. Unser Service für Schlossreparaturen sorgt dafür, dass Ihre Tür schnell wieder sicher schließt."
+            },
+            {
+              "type": "list",
+              "title": "Wir reparieren und tauschen:",
+              "items": [
+                "Defekte Türschlösser und Schließzylinder",
+                "Mehrfachverriegelungen",
+                "Beschädigte Türbeschläge",
+                "Schlösser nach Einbruchschäden"
+              ],
+              "underItemsTitle": "In vielen Fällen lässt sich das Schloss direkt vor Ort instand setzen – ohne teuren Komplettaustausch. Wir verwenden ausschließlich hochwertige Markenprodukte, um langfristige Sicherheit zu gewährleisten."
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/UnlockServiceLogo.png/public",
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "#impressum"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "#datenschutz"
+        },
+        {
+          "text": "AGB",
+          "href": "#agb"
+        }
+      ]
+    }
+  },
+  "Elektro": {
+    "header": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/LogoService.png/public",
+      "navigation": [
+        {
+          "text": "Strategie",
+          "href": "/#strategie"
+        },
+        {
+          "text": "Vorteile",
+          "href": "/#vorteile"
+        },
+        {
+          "text": "FAQ",
+          "href": "/faq.html"
+        },
+        {
+          "text": "Kontakt",
+          "href": "/#kontakt"
+        }
+      ]
+    },
+    "homepage": {
+      "hero": {
+        "id": "strategie",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "title": "Ihr 24-Stunden Elektro Notdienst in Stadt__name – Elektro Maier",
+        "description": "Sie haben ein akutes Stromproblem?  Dann ist Elektro Maier Ihr zuverlässiger Partner. Wir sind 24 Stunden am Tag für Sie da – schnell, sicher und kompetent.",
+        "button": {
+          "text": "+49 123 456 789",
+          "href": "tel:+49123456789"
+        }
+      },
+      "advantage": {
+        "id": "vorteile",
+        "title": "Kurze Bullet-Vorteile",
+        "mainImg": "",
+        "advantages": [
+          {
+            "img": "",
+            "text": "24-Stunden-Elektro-Notdienst in Stadt__name"
+          },
+          {
+            "img": "",
+            "text": "Telefonisch sofort erreichbar – keine Warteschleifen"
+          },
+          {
+            "img": "",
+            "text": "Reparatur noch am selben Tag"
+          },
+          {
+            "img": "",
+            "text": "Transparente Preise – keine versteckten Kosten"
+          },
+          {
+            "img": "",
+            "text": "Keine Großbaustellen – wir lösen akute Probleme sofort"
+          },
+          {
+            "img": "",
+            "text": "Spezialisierung auf schnelle Hilfe im privaten und gewerblichen Bereich"
+          }
+        ]
+      },
+      "faqBlock": {
+        "id": "faq",
+        "title": "FAQ",
+        "mainImg": "",
+        "items": [
+          {
+            "img": "",
+            "text": "Notfälle und Soforthilfe",
+            "href": "faq.html"
+          },
+          {
+            "img": "",
+            "text": "Elektrogeräte und Anlagen",
+            "href": "faq.html"
+          },
+          {
+            "text": "Kabel- und Leitungsprobleme",
+            "href": "faq.html"
+          },
+          {
+            "text": "Netzwerk und Kommunikation",
+            "href": "faq.html"
+          },
+          {
+            "text": "Wasser und Strom",
+            "href": "faq.html"
+          },
+          {
+            "text": "Allgemeine Elektroprobleme",
+            "href": "faq.html"
+          }
+        ]
+      },
+      "contact": {
+        "id": "kontakt",
+        "title": "Jetzt anrufen – wir kommen sofort!",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "button": {
+          "text": "Jetzt anrufen",
+          "href": "tel:+49123456789"
+        },
+        "rating": {
+          "title": "5.0 - Sehr empfehlenswert",
+          "description": "Elektro Maier – Ihr Partner für den 24-Stunden Elektro Notdienst in Stadt__name"
+        }
+      }
+    },
+    "faqPage": {
+      "title": "FAQ",
+      "sections": [
+        {
+          "title": "Sicherung fliegt immer raus",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Sicherung fliegt immer raus? Ihr Elektro Notdienst hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Wenn die Sicherung in Ihrem Zuhause ständig herausspringt, liegt meist ein ernster Fehler in der elektrischen Anlage vor. Ein defektes Gerät, ein Kurzschluss oder eine Überlastung können die Ursache sein. Elektro Maier ist Ihr zuverlässiger 24-Stunden-Elektro-Notdienst. Wir analysieren das Problem vor Ort und beheben es schnell und sicher."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Kurzschluss durch defekte Leitungen oder Geräte",
+                "Überlastung durch zu viele angeschlossene Verbraucher",
+                "Fehlerhafte Sicherungen oder veraltete Anlagen",
+                "Beschädigte Stromleitungen – z. B. durch Bohren",
+                "Feuchtigkeit oder Isolationsfehler in der Wand"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Fehleranalyse und Sichtprüfung Ihrer Sicherungskästen",
+                "Einsatz von Messgeräten zur Lokalisierung des Fehlers",
+                "Austausch defekter Sicherungen oder Leitungen",
+                "Fachgerechte Reparatur, noch am selben Tag",
+                "Dokumentation und Sicherheitsprüfung nach VDE-Norm"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier? ",
+              "items": [
+                "24-Stunden-Notdienst – wir kommen sofort",
+                "Keine Großbaustellen – volle Konzentration auf Notfälle",
+                "Transparente Kosten – keine Überraschungen",
+                "Erfahrene Elektriker mit Spezialausrüstung"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kabel angebohrt oder beschädigt",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Kabel angebohrt? Elektro Maier hilft sofort – 24 Stunden Notdienst!",
+              "header": "Einleitung: ",
+              "text": "Beim Bohren ein Stromkabel getroffen? Ein beschädigtes Kabel stellt ein akutes Sicherheitsrisiko dar – durch Stromschlaggefahr oder Brandentwicklung. Schalten Sie sofort den Strom ab und rufen Sie uns an. Als spezialisierter Elektro Notdienst sind wir innerhalb kürzester Zeit bei Ihnen und sichern die Leitung fachgerecht ab."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Stromleitung beim Bohren versehentlich getroffen",
+                "Leitung durch Schrauben, Dübel oder Nägel beschädigt",
+                "Wandkabel durch Renovierungsarbeiten verletzt",
+                "Unsichtbare Altleitungen in Altbauten beschädigt"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Lokalisierung der beschädigten Stelle mittels Leitungssucher",
+                "Spannungsprüfung und Absicherung des Stromkreises",
+                "Fachgerechtes Öffnen der Wand und Isolierung/Austausch des Kabels",
+                "Wiederherstellung der Stromversorgung noch am selben Tag",
+                "Abschlussprüfung nach VDE-Richtlinien"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Schneller Einsatz bei beschädigten Leitungen",
+                "24-Stunden Erreichbarkeit – auch an Wochenenden",
+                "Qualifiziertes Team mit Spezialwerkzeug",
+                "Keine unnötigen Zusatzkosten – faire Pauschalen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FI-Schalter löst ständig aus",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "FI-Schalter löst ständig aus? Ihr Elektro Notdienst hilft sofort!",
+              "header": "Einleitung: ",
+              "text": "Wenn der FI-Schalter (Fehlerstrom-Schutzschalter) ständig auslöst, ist Vorsicht geboten. Oft steckt ein Isolationsfehler, ein defektes Gerät oder Feuchtigkeit in der Leitung dahinter. Wir von Elektro Maier sind rund um die Uhr für Sie da und finden den Fehler schnell und zuverlässig – direkt bei Ihnen vor Ort."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Defektes Elektrogerät mit Fehlerstrom",
+                "Feuchtigkeit in der Leitung (z. B. im Bad oder Keller)",
+                "Fehlerhafte Installation oder veraltete Technik",
+                "Nagetiere oder mechanische Schäden an Leitungen",
+                "Durch Bohrungen beschädigte Isolierungen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Messung des Fehlerstroms mit modernen Prüfgeräten",
+                "Eingrenzung des betroffenen Stromkreises",
+                "Trennung defekter Geräte oder Leitungsabschnitte",
+                "Austausch beschädigter Bauteile",
+                "Dokumentierte Sicherheitsprüfung des FI-Schutzes"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "24/7 erreichbar – auch nachts und am Wochenende",
+                "Spezialisierung auf Störungsbehebung im Privat- und Gewerbebereich",
+                "Langjährige Erfahrung mit Fehlersuche bei FI-Schaltern",
+                "Schnell vor Ort – ohne lange Wartezeit"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Steckdose defekt oder schmort",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Steckdose defekt oder schmort? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Eine heiße, verschmorte oder lose Steckdose ist ein ernstzunehmendes Sicherheitsrisiko. Zögern Sie nicht: Ziehen Sie sofort alle Geräte aus der betroffenen Dose und kontaktieren Sie den 24-Stunden-Elektro Notdienst von Elektro Maier. Wir beheben das Problem fachgerecht und sorgen dafür, dass Sie wieder sicher Strom nutzen können."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Überlastung durch zu viele angeschlossene Geräte",
+                "Wackelkontakt oder lockere Klemmen in der Dose",
+                "Durchgebrannte oder verkohlte Steckdosen",
+                "Alterungsbedingte Materialschäden",
+                "Kurzschluss im Steckdosenbereich"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Sofortige Abschaltung und Absicherung des Stromkreises",
+                "Sichtprüfung und Spannungsmessung",
+                "Austausch der beschädigten Steckdose und ggf. der Leitung",
+                "Prüfung benachbarter Dosen auf Folgeschäden",
+                "Wiederinbetriebnahme mit Sicherheitstest"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Notdienst rund um die Uhr – auch an Feiertagen",
+                "Spezialisierte Elektriker für akute Gefahrenstellen",
+                "Faire Preise – ohne versteckte Zusatzkosten",
+                "Saubere und schnelle Ausführung ohne Baustellenatmosphäre"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kompletter Stromausfall in der Wohnung oder im Haus",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Stromausfall in der Wohnung oder im Haus? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Plötzlich ist alles dunkel? Kein Licht, keine Geräte, kein Strom? Ein kompletter Stromausfall ist nicht nur ärgerlich, sondern kann auch gefährlich werden – vor allem im Winter oder bei wichtigen Geräten. Elektro Maier ist Ihr 24-Stunden-Elektro Notdienst und kommt sofort, wenn Sie plötzlich ohne Strom dastehen."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Fehler im Hauptverteiler oder Sicherungskasten",
+                "Defekter FI-Schalter oder Leitungsschutzschalter",
+                "Kurzschluss durch beschädigte Leitungen",
+                "Überlastung des Stromnetzes",
+                "Fehlerhafte Einspeisung vom Hausanschluss"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Schnelle Diagnose des Problems mit modernem Messequipment",
+                "Prüfung aller Stromkreise und Sicherungen",
+                "Behebung des Fehlers oder Austausch defekter Komponenten",
+                "Ggf. Koordination mit dem Netzbetreiber bei Versorgungsproblemen",
+                "Dokumentation und Wiederinbetriebnahme Ihrer Anlage"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "24/7 Soforthilfe bei Stromausfall",
+                "Auch nachts, am Wochenende und an Feiertagen erreichbar",
+                "Transparente Preise – keine Notdienstzuschläge im Kleingedruckten",
+                "Wir lösen 90 % aller Stromausfälle beim ersten Besuch"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Elektroherd oder Backofen funktioniert nicht",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Elektroherd oder Backofen ohne Funktion? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Ihr Elektroherd oder Backofen bleibt plötzlich kalt? Gerade bei Starkstromanschlüssen ist Vorsicht geboten. Eine defekte Anschlussdose, ein Kabelschaden oder ein defekter Herdanschluss können gefährlich werden. Als 24-Stunden-Notdienst kommen wir schnell vorbei und kümmern uns um eine sichere Lösung – auch abends oder am Wochenende."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Unterbrochene Stromzufuhr oder defekte Herdanschlussdose",
+                "Kurzschluss durch Kabelbruch oder fehlerhafte Installation",
+                "Fehler im Starkstromanschluss oder in der Herdklemme",
+                "Defekter Anschluss durch Eigenmontage"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Prüfung der Spannungsversorgung am Anschlussfeld",
+                "Sichtprüfung und Messung am Sicherungskasten",
+                "Austausch defekter Klemmen, Leitungen oder Dosen",
+                "Wiederanschluss nach VDE-Norm"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Starkstrom-Erfahrung mit Spezialisierung auf Haushaltsgeräte",
+                "Schnelle Terminverfügbarkeit – meist noch am selben Tag",
+                "Auch für Vermieter & Hausverwaltungen ein zuverlässiger Partner",
+                "24/7 erreichbar – ohne lange Wartezeiten"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lichtschalter funktioniert nicht mehr",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Lichtschalter kaputt? Elektro Maier repariert sofort!",
+              "header": "Einleitung:",
+              "text": "Ein Lichtschalter, der klemmt, locker ist oder gar nicht mehr reagiert, kann auf einen Defekt in der Installation hinweisen. Oft steckt dahinter mehr als nur ein mechanischer Fehler. Wir prüfen Ihre Schalter und sorgen dafür, dass Ihre Beleuchtung wieder sicher funktioniert – und das rund um die Uhr."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Mechanischer Defekt im Schalter",
+                "Lockere oder gelöste Adern in der Dose",
+                "Kurzschluss durch Feuchtigkeit oder Beschädigung",
+                "Alterung und Materialermüdung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Austausch des defekten Schalters gegen ein sicheres Neuteil",
+                "Prüfung der Verkabelung in der Unterputzdose",
+                "Reparatur oder Neuverlegung bei Bedarf",
+                "Kontrolle des gesamten Stromkreises auf Folgeschäden"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Schnell und sauber – ohne großen Aufwand",
+                "24-Stunden-Notdienst auch für kleinere Reparaturen",
+                "Erfahrene Elektriker mit Blick für Sicherheit",
+                "Ideal für Haushalte, Praxen oder kleine Gewerbebetriebe"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brandgeruch aus der Steckdose",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Brandgeruch aus der Steckdose? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Riecht es verschmort oder verbrannt aus einer Steckdose? Dann besteht akute Brandgefahr! Zögern Sie nicht, trennen Sie sofort alle Geräte vom Stromnetz und rufen Sie den Elektro Notdienst von Elektro Maier. Wir sind rund um die Uhr erreichbar und kommen sofort, um die Gefahr zu beseitigen."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Überhitzung durch Wackelkontakt oder lockere Klemmen",
+                "Überlastung der Steckdose durch Mehrfachsteckdosen",
+                "Veraltete oder beschädigte Leitungen",
+                "Funkenbildung oder Lichtbögen durch Defekte im Inneren",
+                "Feuchtigkeit in der Dose oder im Mauerwerk"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Sofortige Stromkreisabschaltung zur Gefahrenvermeidung",
+                "Sichtprüfung und Messung auf Temperaturentwicklung",
+                "Austausch der betroffenen Steckdose und ggf. angrenzender Leitungen",
+                "Prüfung des gesamten Stromkreises auf weitere Schwachstellen",
+                "Sicherheitsfreigabe nach Reparatur"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Spezialisierung auf gefährliche Stromsituationen",
+                "24/7 Soforthilfe – auch nachts und am Wochenende",
+                "Modernes Mess- & Prüfwerkzeug für schnelle Diagnose",
+                "Absolute Transparenz bei Kosten und Leistung"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Türsprechanlage oder Klingel funktioniert nicht",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Klingel oder Türsprechanlage defekt? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Ihre Türklingel bleibt stumm oder die Gegensprechanlage funktioniert nicht mehr? Gerade in Mehrfamilienhäusern, Arztpraxen oder Betrieben ist das ein echtes Problem. Unser Notdienst sorgt dafür, dass Sie wieder erreichbar sind – schnell, zuverlässig und sauber."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Spannungsunterbrechung durch defekte Leitungen",
+                "Transformator oder Klingelmodul defekt",
+                "Witterungsschäden an Außenanlagen",
+                "Kurzschluss in der Türstation oder Inneneinheit",
+                "Manipulation oder Verschleiß"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Fehleranalyse an Klingeltrafo und Leitungssystem",
+                "Austausch defekter Klingeltaster, Lautsprecher oder Netzteile",
+                "Neuverdrahtung bei beschädigten Abschnitten",
+                "Funktionstest aller verbundenen Geräte"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Erfahrung mit Türkommunikation in Alt- & Neubauten",
+                "Einsatz auch bei kleineren Problemen – wir kommen wirklich",
+                "24-Stunden-Service, auch für gewerbliche Kunden",
+                "Diskrete und saubere Arbeit – keine offene Baustelle"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lampen flackern oder bleiben aus",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Lampen flackern oder bleiben aus? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Flackerndes Licht kann nervig sein – aber auch ein Anzeichen für ernsthafte Probleme in der Elektroinstallation. Ob Wackelkontakt, beschädigte Leitung oder veralteter Schalter: Unser Elektro Notdienst findet die Ursache und behebt sie schnell und sicher – natürlich auch abends oder am Wochenende."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Wackelkontakt in der Fassung oder im Schalter",
+                "Defekte oder lose Klemmverbindungen",
+                "Unterbrechung in der Zuleitung zur Lampe",
+                "Spannungsschwankungen im Stromnetz",
+                "Schadhafte LED-Treiber oder elektronische Vorschaltgeräte"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Prüfung der Lampe, Verkabelung und Schalter",
+                "Austausch defekter Bauteile oder Anschlüsse",
+                "Reparatur oder Neuverlegung der Zuleitung",
+                "Messung und Stabilisierung der Stromversorgung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Erfahrung mit klassischen und modernen Lichtsystemen",
+                "24h-Notdienst bei Problemen mit Beleuchtung",
+                "Reparatur ohne großen Aufwand – meist direkt vor Ort",
+                "Schnelle Diagnose, transparente Preise"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kein Strom an bestimmten Steckdosen",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Steckdosen ohne Strom? Elektro Maier prüft & repariert sofort!",
+              "header": "Einleitung:",
+              "text": "Funktionieren einzelne Steckdosen plötzlich nicht mehr? Dann kann ein Kabelbruch, eine unterbrochene Verbindung oder ein Problem im Verteilerkasten vorliegen. Unser 24-Stunden-Notdienst lokalisiert die Ursache und sorgt schnell wieder für sichere Stromversorgung in allen Räumen."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Lockere oder unterbrochene Klemmverbindungen",
+                "Sicherung oder Leitungsschutzschalter ausgelöst",
+                "Defekte Steckdosen oder beschädigte Zuleitungen",
+                "Anschlussfehler bei Neuinstallationen",
+                "Altbauten mit brüchigen Leitungen"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Spannungsprüfung und Leitungstests",
+                "Reparatur oder Austausch der defekten Komponenten",
+                "Neuanschluss oder Brückung bei Unterbrechungen",
+                "Sicherheitsprüfung des betroffenen Stromkreises"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Schnell vor Ort – keine langen Wartezeiten",
+                "Erfahren im Umgang mit älteren Installationen",
+                "Transparente Preise und faire Abrechnung",
+                "24/7 erreichbar – auch bei kleineren Problemen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gerät verursacht Kurzschluss",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Gerät verursacht Kurzschluss? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Sobald Sie ein bestimmtes Gerät einstecken, fliegt die Sicherung? Dann liegt sehr wahrscheinlich ein interner Defekt vor – mit dem Risiko für Stromschlag oder Brand. Trennen Sie das Gerät sofort vom Netz und rufen Sie unseren 24-Stunden-Elektro-Notdienst. Wir prüfen Ihre Anlage und sorgen dafür, dass alles wieder sicher läuft."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Defekte Haushaltsgeräte (z. B. Toaster, Waschmaschine, Wasserkocher)",
+                "Isolationsfehler oder geplatzte Kondensatoren im Gerät",
+                "Kabelbruch oder Wackelkontakt im Netzkabel",
+                "Interner Kurzschluss durch Feuchtigkeit oder Alterung",
+                "Gerät falsch angeschlossen oder überlastet"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Prüfung des Stromkreises und der betroffenen Sicherung",
+                "Isolationsmessung des angeschlossenen Geräts",
+                "Trennung defekter Geräte vom Netz",
+                "Reparatur von Anschlussdosen oder Steckdosen",
+                "Sicherheitsfreigabe nach erfolgreicher Prüfung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Schnelle Hilfe bei Kurzschluss durch Geräte",
+                "24/7 erreichbar – auch bei kleinen Fehlerquellen",
+                "Sicherheit steht an erster Stelle",
+                "Transparente Fehlerdiagnose & Beratung"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Durchgebrannte Sicherung im Zählerschrank",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Sicherung im Zählerschrank durchgebrannt? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Knall, Rauch oder Geruch aus dem Sicherungskasten? Eine durchgebrannte Sicherung kann zu einem kompletten Stromausfall führen – oder sogar gefährlich werden. Unser Elektro Notdienst ist darauf spezialisiert, solche Defekte schnell zu beheben und Ihre Stromversorgung sicher wiederherzustellen."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Überlastung durch zu viele angeschlossene Geräte",
+                "Kurzschluss in einem angeschlossenen Stromkreis",
+                "Veraltete Sicherungen oder Schraubsicherungen",
+                "Materialermüdung oder schlechte Kontakte",
+                "Montagefehler oder Fremdeingriffe"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Spannungsfreischaltung des betroffenen Stromkreises",
+                "Sicht- und Funktionsprüfung im Zählerschrank",
+                "Austausch der defekten Sicherung oder des Sicherungshalters",
+                "Prüfung benachbarter Sicherungen auf Folgeschäden",
+                "Testlauf und Sicherheitsfreigabe nach VDE-Richtlinien"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Spezialisierung auf Sicherungskästen & Hausanschlüsse",
+                "Einsatzbereitschaft rund um die Uhr",
+                "Qualifizierte Fachkräfte mit Erfahrung in Alt- und Neubauten",
+                "Keine langen Wartezeiten – wir kommen sofort"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Netzwerk- oder Telefonleitung gestört",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Netzwerk- oder Telefonleitung gestört? Elektro Maier hilft sofort!",
+              "header": "Einleitung:",
+              "text": "Kein Internet oder kein Festnetzempfang? Wenn Ihre Netzwerk- oder Telefonleitung gestört ist, kann das nicht nur nervig sein – in vielen Fällen steckt ein Leitungsfehler oder eine unterbrochene Verbindung dahinter. Unser Elektro Notdienst findet die Ursache schnell und sorgt für eine stabile Verbindung."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Leitung durch Bauarbeiten, Dübel oder Nägel beschädigt",
+                "Unterbrechung durch Nagetiere oder Korrosion",
+                "Wackelkontakt in Netzwerkdosen oder Verteilerdosen",
+                "Feuchtigkeit in der Leitung (z. B. im Keller)",
+                "Falsche Belegung oder Störung durch externe Einflüsse"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Prüfung der Leitung auf Durchgang und Signalqualität",
+                "Sichtkontrolle aller Dosen, Verteiler und Übergänge",
+                "Austausch defekter Komponenten oder Neuverlegung",
+                "Neuanschluss nach DIN-Vorschrift",
+                "Messung & Test des Signals nach Reparatur"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Erfahrung mit Telekommunikation & Netzwerktechnik",
+                "Schnelle Hilfe bei Internet- oder Telefonproblemen",
+                "24/7 Notdienst – auch für kleine Störungen",
+                "Sauber und diskret – ideal auch für Büros & Praxen"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stromschlag beim Berühren von Geräten",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Stromschlag bei Berührung? Elektro Maier prüft sofort!",
+              "header": "Einleitung:",
+              "text": "Sie haben beim Berühren eines Geräts einen elektrischen Schlag gespürt? Das ist ein ernstzunehmender Notfall! Ein Isolationsfehler, eine fehlerhafte Erdung oder ein Defekt im Stromkreis kann gefährlich werden. Unser Notdienst kommt sofort und sorgt dafür, dass keine Gefahr mehr besteht."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Defekte Isolierung am Gerät",
+                "Fehlerhafter Schutzleiter oder fehlende Erdung",
+                "Spannungsüberschlag bei alten oder beschädigten Steckdosen",
+                "Feuchtigkeit in Geräten oder Kabeln",
+                "Falscher Anschluss oder Manipulation"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Sofortige Netztrennung zur Gefahrenvermeidung",
+                "Isolationsmessung des betroffenen Geräts",
+                "Prüfung der Steckdose und Zuleitung",
+                "Austausch defekter Komponenten",
+                "Sicherheitsfreigabe nach erfolgreicher Reparatur"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Sicherheit steht an erster Stelle – wir handeln sofort",
+                "24-Stunden-Notdienst bei gefährlichen Situationen",
+                "Spezialisiert auf Fehlerstrom, Erdung & Personenschutz",
+                "Dokumentierte Prüfung und Beratung zur Vermeidung weiterer Risiken"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Wasserschaden durch Strom",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wasserschaden und Strom? Elektro Maier sichert sofort!",
+              "header": "Einleitung:",
+              "text": "Ein Wasserschaden in Verbindung mit Strom ist lebensgefährlich. Ob durch einen Rohrbruch, eine Überschwemmung oder eindringende Feuchtigkeit – Wasser in der Nähe von elektrischen Leitungen kann zu Stromschlägen oder Bränden führen."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Wasser in Steckdosen, Verteilerdosen oder Kabelkanälen",
+                "Kellerüberflutungen oder geplatzte Heizungsrohre",
+                "Feuchtigkeitseintritt über Außenwände oder Dächer",
+                "Geräte, die mit Wasser in Berührung gekommen sind",
+                "Nicht entdeckte Langzeitschäden durch Kondenswasser"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Sicherheitsabschaltung der betroffenen Stromkreise",
+                "Sichtprüfung und Feuchtigkeitsmessung",
+                "Demontage und Trocknung gefährdeter Installationen",
+                "Austausch beschädigter Bauteile",
+                "Wiederinbetriebnahme nach vollständiger Trocknung und Prüfung"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "Spezialisiert auf Stromprobleme durch Wasserschäden",
+                "Zusammenarbeit mit Sanierungsfirmen möglich",
+                "24-Stunden-Einsatzbereitschaft bei Notfällen",
+                "Schnelle und sichere Fehlerbehebung"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Heizung oder Fußbodenheizung elektrisch defekt",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Elektrische Heizung defekt? Elektro Maier repariert sofort!",
+              "header": "Einleitung:",
+              "text": "Funktioniert Ihre elektrische Heizung oder Fußbodenheizung nicht mehr? In der kalten Jahreszeit ist schnelle Hilfe gefragt. Ob ein Fehler in der Steuerung, ein Defekt am Anschluss oder eine beschädigte Heizmatte – unser Elektro Notdienst kümmert sich sofort um eine sichere Reparatur."
+            },
+            {
+              "type": "list",
+              "title": "Typische Ursachen:",
+              "items": [
+                "Unterbrechung im Heizkreis oder defekte Zuleitung",
+                "Fehlerhafte Raumthermostate oder Steuereinheiten",
+                "Verschmorte Klemmen oder lose Verbindungen",
+                "Spannungsausfall durch defekte Sicherung",
+                "Alterungsbedingte Schäden an Heizdrähten"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Unsere Lösung:",
+              "items": [
+                "Prüfung der Steuerung und Temperaturregelung",
+                "Sichtkontrolle und Messung der Heizkreise",
+                "Austausch defekter Bauteile",
+                "Wiederherstellung der Heizleistung nach Norm",
+                "Abschlusstest auf Funktion und Sicherheit"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Warum Elektro Maier?:",
+              "items": [
+                "24-Stunden-Service auch bei Heizproblemen",
+                "Erfahrung mit elektrischen Heizsystemen aller Hersteller",
+                "Schnelle Hilfe – auch abends und an Wochenenden",
+                "Keine Wartezeiten – direkte Einsatzbereitschaft"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/LogoService.png/public",
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "#impressum"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "#datenschutz"
+        },
+        {
+          "text": "AGB",
+          "href": "#agb"
+        }
+      ]
+    }
+  },
+  "Glass": {
+    "header": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/GlassServiceLogo.png/public",
+      "navigation": [
+        {
+          "text": "Strategie",
+          "href": "/#strategie"
+        },
+        {
+          "text": "Vorteile",
+          "href": "/#vorteile"
+        },
+        {
+          "text": "FAQ",
+          "href": "/faq.html"
+        },
+        {
+          "text": "Kontakt",
+          "href": "/#kontakt"
+        }
+      ]
+    },
+    "homepage": {
+      "hero": {
+        "id": "strategie",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "title": "Ihr 24-Stunden Glas Notdienst in Stadt__name",
+        "description": "Ihr Glas-Notdienst in Stadt__name – 24 Stunden erreichbar, seit 17 Jahren im Einsatz. Schnelle, professionelle Notverglasung bei Einbruch, Sturm oder Glasbruch.",
+        "button": {
+          "text": "+49 123 456 789",
+          "href": "tel:+49123456789"
+        }
+      },
+      "advantage": {
+        "id": "vorteile",
+        "title": "Kurze Bullet-Vorteile",
+        "mainImg": "",
+        "advantages": [
+          {
+            "img": "",
+            "text": "24-Stunden-Glas-Notdienst in Stadt__name"
+          },
+          {
+            "img": "",
+            "text": "Telefonisch sofort erreichbar – keine Warteschleifen"
+          },
+          {
+            "img": "",
+            "text": "Reparatur noch am selben Tag"
+          },
+          {
+            "img": "",
+            "text": "Transparente Preise – keine versteckten Kosten"
+          },
+          {
+            "img": "",
+            "text": "Keine Großbaustellen – wir lösen akute Probleme sofort"
+          },
+          {
+            "img": "",
+            "text": "Spezialisierung auf schnelle Hilfe im privaten und gewerblichen Bereich"
+          }
+        ]
+      },
+      "faqBlock": {
+        "id": "faq",
+        "title": "FAQ",
+        "mainImg": "",
+        "items": [
+          {
+            "img": "",
+            "text": "Notfälle und Soforthilfe",
+            "href": "faq.html"
+          },
+          {
+            "img": "",
+            "text": "Wetterschäden und Glasbruch",
+            "href": "faq.html"
+          },
+          {
+            "text": "Geschäfte und öffentliche Gebäude",
+            "href": "faq.html"
+          },
+          {
+            "text": "Hausverwaltungen und Mietobjekte",
+            "href": "faq.html"
+          },
+          {
+            "text": "Praxen und Büros",
+            "href": "faq.html"
+          },
+          {
+            "text": "Weitere Fälle und individuelle Lösungen",
+            "href": "faq.html"
+          }
+        ]
+      },
+      "contact": {
+        "id": "kontakt",
+        "title": "Jetzt anrufen – wir kommen sofort!",
+        "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+        "button": {
+          "text": "Jetzt anrufen",
+          "href": "tel:+49123456789"
+        },
+        "rating": {
+          "title": "5.0 - Sehr empfehlenswert",
+          "description": "Ihr Partner für den 24-Stunden Glas Notdienst in Stadt__name"
+        }
+      }
+    },
+    "faqPage": {
+      "title": "FAQ",
+      "sections": [
+        {
+          "title": "Notverglasung nach Einbruch",
+          "header": "Soforthilfe bei Glasschäden – Wir sichern Ihr Gebäude professionell ab.",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Nach dem Einbruch zählt jede Minute",
+              "text": "Ein Einbruch ist nicht nur ein massiver Eingriff in Ihre Privatsphäre oder Ihre geschäftlichen Räume, sondern bringt oft auch sichtbare Schäden an Fenstern oder Glastüren mit sich. Zersplittertes Glas, klaffende Öffnungen oder eingeschlagene Schaufenster machen es dringend erforderlich, das Gebäude schnellstmöglich wieder zu sichern.\n\nDer Glasnotdienst ist genau dafür da: 24 Stunden täglich, an 365 Tagen im Jahr – schnell, zuverlässig und mit über 17 Jahren Erfahrung in der Notverglasung."
+            },
+            {
+              "type": "list",
+              "title": "Was wir nach einem Einbruch für Sie tun:",
+              "items": [
+                "✅ Schnelle Anfahrt innerhalb kurzer Zeit",
+                "✅ Professionelle Absicherung mit stabiler Notverglasung",
+                "✅ Austausch von zerstörten Glaselementen durch Sicherheitsplatten / Glasersatz",
+                "✅ Sicherung gegen erneuten Zutritt oder Witterungseinflüsse",
+                "✅ Vorbereitung für eine spätere dauerhafte Glasreparatur"
+              ],
+              "underTitle": "Unsere Notverglasung ist nicht nur ein Provisorium, sondern eine durchdachte Lösung, die Wärmedämmung, Witterungsschutz und Sicherheit berücksichtigt."
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir nach einem Einbruch tätig sind",
+              "topTitle": "Unser Glasnotdienst kommt zum Einsatz bei:",
+              "items": [
+                "Privathaushalten (z. B. Einfamilienhäuser, Wohnungen, Balkontüren)",
+                "Geschäften & Einzelhandel (Schaufenster, Glastüren, Eingangsanlagen)",
+                "Büros & Praxen (Fensterfronten, Glaswände)",
+                "Hausverwaltungen (schnelle Hilfe für Mietobjekte)",
+                "Öffentliche Einrichtungen (Schulen, Behörden, Pflegeheime etc.)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "Sicherheit steht bei uns an erster Stelle",
+              "text": "Nach einem Einbruch möchten Sie sich in Ihrem Zuhause oder Geschäft wieder sicher fühlen. Unser Glasnotdienst sorgt für eine sichere, temporäre Absicherung Ihrer beschädigten Fenster oder Türen – ganz gleich, ob es Tag oder Nacht ist. Dabei verwenden wir nur hochwertige Materialien, die gegen Witterung und unbefugtes Eindringen schützen."
+            },
+            {
+              "type": "paragraph",
+              "title": "Seit 17 Jahren Ihr Profi für Notverglasung",
+              "text": "Unsere langjährige Erfahrung macht den Unterschied. Wir wissen genau, worauf es im Notfall ankommt: schnelles Handeln, präzises Arbeiten und absolute Verlässlichkeit."
+            }
+          ]
+        },
+        {
+          "title": "Glasbruch durch Sturm oder Hagel",
+          "header": "Ihr 24-Stunden-Glasnotdienst bei wetterbedingten Glasschäden",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Unwetterschäden? Wir sind sofort zur Stelle",
+              "text": "Sturm, Hagel oder starke Windböen können in Sekunden Glasflächen zerstören: Fenster gehen zu Bruch, Schaufensterscheiben zerspringen oder Balkontüren werden beschädigt. Gerade bei großflächigen Scheiben kann das massive Sicherheitsrisiken und Witterungsschäden bedeuten. \n\nDer Glasnotdienst ist auf genau solche Situationen spezialisiert. Seit 17 Jahren sichern wir beschädigte Glasflächen schnell und zuverlässig – und das rund um die Uhr, auch an Feiertagen."
+            },
+            {
+              "type": "list",
+              "title": "Sofortmaßnahmen bei Sturmschäden an Glas",
+              "topTitle": "Unsere Monteure kommen nach dem Schadensfall schnell zu Ihnen vor Ort und sorgen für:",
+              "items": [
+                "✅ Absicherung der beschädigten Fenster oder Glastüren",
+                "✅ Stabile Notverglasung mit passenden Materialien",
+                "✅ Schutz vor Regen, Kälte, Wind und Einbruch",
+                "✅ Gefahrenbeseitigung durch lose oder scharfe Glasteile",
+                "✅ Beratung zur späteren Reparatur oder dauerhaften Verglasung"
+              ],
+              "underTitle": "Unsere Notverglasungen sind witterungsbeständig, stoßfest und stabil – ein sicheres Provisorium, das Sie sofort entlastet."
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir nach einem Sturm tätig sind",
+              "topTitle": "Wir sichern Glasflächen in:",
+              "items": [
+                "Privathäusern & Wohnungen (Fenster, Türen, Wintergärten)",
+                "Ladengeschäften & Schaufenstern",
+                "Gewerbeimmobilien & Büros",
+                "Öffentlichen Einrichtungen (z. B. Schulen, Pflegeheime, Behörden)",
+                "Wohnanlagen & Mietobjekten – in Zusammenarbeit mit Hausverwaltungen"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "Keine Experimente – über 17 Jahre Erfahrung",
+              "text": "Wir wissen, wie schnell bei einem Sturmschaden gehandelt werden muss. Unsere erfahrenen Glasmonteure arbeiten schnell, sauber und zuverlässig – und wissen, wie man beschädigte Scheiben so absichert, dass keine Folgeschäden durch Witterung oder unbefugten Zutritt entstehen."
+            },
+            {
+              "type": "paragraph",
+              "title": "Glas Notdienst bei Sturmschäden – Jetzt anrufen",
+              "text": "Sie hatten einen Glasbruch durch Unwetter? Warten Sie nicht ab – wir helfen sofort! \n✅ 24h Notdienst – auch bei schwer zugänglichen Schadstellen"
+            }
+          ]
+        },
+        {
+          "title": "Zerstörte Scheiben durch Vandalismus",
+          "header": "Sofortige Notverglasung bei mutwilliger Zerstörung – 24h einsatzbereit",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn jemand Ihre Scheibe einschlägt – wir kommen sofort",
+              "text": "Eingeschlagene Schaufenster, beschädigte Glastüren oder zerstörte Glaselemente durch mutwillige Gewalt – Vandalismus ist leider keine Seltenheit. Die Schäden müssen schnell behoben werden, denn offene Fenster oder zerstörte Eingänge stellen ein hohes Sicherheitsrisiko dar und schrecken Kunden ab.\n\nUnser Glasnotdienst ist in solchen Fällen rund um die Uhr erreichbar und bringt noch in derselben Nacht oder am selben Tag eine stabile Notverglasung an."
+            },
+            {
+              "type": "list",
+              "title": "Unser Service bei Vandalismusschäden",
+              "topTitle": "",
+              "items": [
+                "✅ 24h-Soforthilfe bei beschädigten Glasflächen",
+                "✅ Sicherung von Schaufenstern, Türen, Glastrennwänden",
+                "✅ Montage von witterungs- und einbruchsicheren Glasersatzplatten",
+                "✅ Entfernung von Glassplittern und Reststücken",
+                "✅ Provisorische Lösung bis zur endgültigen Neuverglasung"
+              ],
+              "underTitle": "Unsere Notverglasungen schützen Ihr Objekt effektiv vor Witterung, Diebstahl und weiteren Schäden."
+            },
+            {
+              "type": "list",
+              "title": "Häufig betroffen – hier helfen wir besonders oft:",
+              "topTitle": "",
+              "items": [
+                "Ladengeschäfte & Filialen – eingeschlagene Schaufenster oder Eingangstüren",
+                "Gewerbe- und Bürogebäude – zerstörte Glastüren oder Innenverglasungen",
+                "Öffentliche Gebäude – mutwilliger Glasbruch an Schulen, Haltestellen, Behörden",
+                "Wohngebäude & Mietobjekte – Fenster im Treppenhaus, Hauseingang, Kellertüren"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "Seit 17 Jahren Ihr Ansprechpartner für Notverglasung",
+              "text": "Unsere jahrelange Erfahrung im Bereich Glasnotdienst und Gebäudesicherung macht uns zu einem verlässlichen Partner bei Vandalismusschäden. Wir reagieren sofort und sichern Ihre Immobilie fachgerecht und stabil ab – ganz gleich, ob es Tag oder Nacht ist."
+            },
+            {
+              "type": "paragraph",
+              "title": "Jetzt Glasnotdienst anrufen",
+              "text": "Ihre Scheibe wurde mutwillig eingeschlagen? Vertrauen Sie auf unsere schnelle Hilfe – wir sind innerhalb kurzer Zeit bei Ihnen und sichern alles ab.\n\n✅ 24h erreichbar – diskret, sauber, professionell"
+            }
+          ]
+        },
+        {
+          "title": "Auto fährt ins Schaufenster",
+          "header": "Soforthilfe bei Unfällen mit Fahrzeugen – wir sichern Glasflächen und Eingänge",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn ein Fahrzeug die Glasfront beschädigt",
+              "text": "Ein Moment der Unachtsamkeit, ein technischer Defekt oder ein medizinischer Notfall – und schon durchbricht ein Auto die Glasfront eines Geschäfts oder Gebäudes. Solche Unfälle sind nicht nur spektakulär, sondern hinterlassen oft massive Schäden an Schaufenstern, Türen und der gesamten Frontverglasung.\n\nDer Glasnotdienst ist in solchen Fällen sofort einsatzbereit. Wir sichern die beschädigten Bereiche ab, verhindern weitere Gefahren und bringen eine stabile Notverglasung an."
+            },
+            {
+              "type": "list",
+              "title": "Unser Einsatz bei Unfällen mit Fahrzeugen",
+              "topTitle": "",
+              "items": [
+                "✅ 24-Stunden-Soforthilfe nach Unfällen",
+                "✅ Absicherung von zerstörten Eingangsbereichen und Schaufenstern",
+                "✅ Montage stabiler Glasersatzplatten",
+                "✅ Schutz vor Witterung und unbefugtem Zutritt",
+                "✅ Zusammenarbeit mit Polizei, Feuerwehr und Versicherungen"
+              ],
+              "underTitle": "Unsere Notverglasungen sind wetterfest, stoßfest und bieten sofortigen Schutz."
+            },
+            {
+              "type": "list",
+              "title": "Wer uns bei solchen Unfällen ruft",
+              "topTitle": "Unsere Einsätze nach Fahrzeugschäden erfolgen häufig in:",
+              "items": [
+                "Ladengeschäften (Supermärkte, Boutiquen, Filialen)",
+                "Banken & Versicherungsbüros",
+                "Öffentlichen Gebäuden",
+                "Privathäusern mit großen Fensterflächen",
+                "Gewerbeimmobilien"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "17 Jahre Erfahrung bei Glasunfällen",
+              "text": "Seit über 17 Jahren sind wir auf Notverglasungen nach Unfällen spezialisiert. Wir arbeiten schnell, sauber und zuverlässig – damit Ihr Gebäude so schnell wie möglich wieder gesichert ist."
+            }
+          ]
+        },
+        {
+          "title": "Notverglasung in Ladengeschäften",
+          "header": "Schnelle Hilfe bei Glasschäden im Einzelhandel",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn im Laden plötzlich die Scheibe bricht",
+              "text": "Ein umgestürztes Regal, ein unachtsamer Kunde oder ein Unfall beim Aufbau – Glasschäden in Ladengeschäften passieren oft plötzlich und unerwartet. Ob Schaufenster, Eingangstür oder Glastrennwand: der Schaden muss schnell behoben werden, um Sicherheit und Geschäftsbetrieb zu gewährleisten.\n\nUnser Glasnotdienst ist in kürzester Zeit vor Ort und bringt eine stabile Notverglasung an, damit Ihr Laden sofort wieder sicher und nutzbar ist."
+            },
+            {
+              "type": "list",
+              "title": "Unser Service für Ladengeschäfte",
+              "topTitle": "",
+              "items": [
+                "✅ 24h-Notdienst für den Einzelhandel",
+                "✅ Absicherung von Schaufenstern, Türen, Glaswänden",
+                "✅ Schutz vor Witterung, Einbruch und Verletzungsgefahr",
+                "✅ Entfernen von Glasscherben und Restteilen",
+                "✅ Provisorische Lösung bis zur endgültigen Reparatur"
+              ],
+              "underTitle": "Unsere Notverglasungen sind robust, wetterfest und bieten sofortigen Schutz – ideal für den Weiterbetrieb des Geschäfts."
+            },
+            {
+              "type": "list",
+              "title": "Wo wir im Einzelhandel tätig sind",
+              "topTitle": "Wir helfen unter anderem in:",
+              "items": [
+                "Supermärkten",
+                "Boutiquen und Modegeschäften",
+                "Apotheken",
+                "Elektronikfachmärkten",
+                "Möbelhäusern",
+                "Einkaufszentren"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "17 Jahre Erfahrung im Einzelhandel",
+              "text": "Seit über 17 Jahren arbeiten wir mit Einzelhändlern zusammen und wissen, wie wichtig schnelle, saubere und unauffällige Arbeit im laufenden Betrieb ist. Wir sorgen dafür, dass Ihr Geschäft auch nach einem Glasschaden weiterarbeiten kann."
+            }
+          ]
+        },
+        {
+          "title": "Glastür kaputt im Supermarkt oder Geschäft",
+          "header": "",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": ""
+            },
+            {
+              "type": "list",
+              "title": "",
+              "topTitle": "",
+              "items": [
+                "✅ ",
+                "✅ ",
+                "✅ ",
+                "✅ ",
+                "✅ "
+              ],
+              "underTitle": ""
+            },
+            {
+              "type": "list",
+              "title": "",
+              "topTitle": "",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": ""
+            },
+            {
+              "type": "paragraph",
+              "title": "",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "title": "Gebäudesicherung nach Glasbruch",
+          "header": "Schnelle Absicherung von Gebäuden nach Glasbruch",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn Glasflächen beschädigt sind, zählt jede Minute",
+              "text": "Ob durch Einbruch, Sturm, Vandalismus oder Unfall – beschädigte Fenster, Türen oder Glasfassaden stellen ein erhebliches Sicherheitsrisiko dar. Offene oder beschädigte Glasflächen müssen schnellstmöglich gesichert werden, um Folgeschäden zu verhindern.\n\nUnser Glasnotdienst ist darauf spezialisiert, Gebäude nach Glasbruch sofort abzusichern – Tag und Nacht, das ganze Jahr über."
+            },
+            {
+              "type": "list",
+              "title": "Unser Service zur Gebäudesicherung",
+              "topTitle": "",
+              "items": [
+                "✅ 24-Stunden-Soforthilfe bei Glasbruch",
+                "✅ Absicherung von Fenstern, Türen und Glasfassaden",
+                "✅ Montage robuster Notverglasungen",
+                "✅ Schutz vor Witterung, Einbruch und Vandalismus",
+                "✅ Entfernung von losem Glas und Splittern"
+              ],
+              "underTitle": "Unsere Notverglasungen sind stabil, wetterfest und bieten sofortigen Schutz, bis eine dauerhafte Reparatur erfolgen kann."
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir die Gebäudesicherung durchführen",
+              "topTitle": "",
+              "items": [
+                "Privathaushalte",
+                "Gewerbebetriebe",
+                "Öffentliche Einrichtungen",
+                "Hausverwaltungen",
+                "Versicherungen"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "17 Jahre Erfahrung in der Gebäudesicherung",
+              "text": "Seit über 17 Jahren sichern wir Gebäude nach Glasbruch schnell und professionell. Unser Team arbeitet zuverlässig, sauber und diskret."
+            }
+          ]
+        },
+        {
+          "title": "Notverglasung für Hausverwaltungen",
+          "header": "Ihr zuverlässiger Partner bei Glasschäden in Mietobjekten",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn in einer Wohnanlage plötzlich Glas bricht",
+              "text": "In Mehrfamilienhäusern und Wohnanlagen kommt es immer wieder zu Glasschäden – sei es im Treppenhaus, an Hauseingangstüren oder in Kellerbereichen. Gerade für Hausverwaltungen ist es wichtig, solche Schäden schnell und zuverlässig beheben zu lassen, um Sicherheit und Ordnung im Gebäude zu gewährleisten.\n\nUnser Glasnotdienst ist spezialisiert auf die Zusammenarbeit mit Hausverwaltungen und bietet schnelle, saubere und zuverlässige Notverglasungen."
+            },
+            {
+              "type": "list",
+              "title": "Unser Service für Hausverwaltungen",
+              "topTitle": "",
+              "items": [
+                "✅ 24h-Notdienst für Mietobjekte",
+                "✅ Absicherung von Hauseingängen, Treppenhausfenstern, Kellertüren",
+                "✅ Stabile Notverglasungen bis zur endgültigen Reparatur",
+                "✅ Entfernung gefährlicher Glasreste",
+                "✅ Schutz vor Witterung und unbefugtem Zutritt"
+              ],
+              "underTitle": "Wir arbeiten diskret und effizient, damit der Alltag der Mieter so wenig wie möglich gestört wird."
+            },
+            {
+              "type": "paragraph",
+              "title": "Warum Hausverwaltungen uns vertrauen",
+              "text": "Seit über 17 Jahren arbeiten wir eng mit Hausverwaltungen zusammen und kennen die besonderen Anforderungen in Mietobjekten. Wir bieten faire Preise, schnelle Einsatzzeiten und eine transparente Abwicklung."
+            }
+          ]
+        },
+        {
+          "title": "Notverglasung für Praxen und Büros",
+          "header": "Schnelle Hilfe bei Glasbruch im Innen- und Außenbereich",
+          "content": [
+            {
+              "type": "paragraph",
+              "title": "Wenn Glasflächen in Praxis oder Büro beschädigt sind",
+              "text": "Ob im Eingangsbereich, an Fenstern, Glastüren oder Trennwänden – Glasschäden in Praxen und Büros müssen schnell behoben werden, um Sicherheit, Diskretion und Arbeitsfähigkeit zu gewährleisten.\n\nUnser Glasnotdienst ist auf die besonderen Anforderungen in Praxen und Büros eingestellt und bietet schnelle, saubere und diskrete Notverglasungen."
+            },
+            {
+              "type": "list",
+              "title": "Unser Service für Praxen und Büros",
+              "topTitle": "",
+              "items": [
+                "✅ 24h-Soforthilfe bei Glasbruch",
+                "✅ Absicherung von Eingängen, Fenstern, Türen und Glaswänden",
+                "✅ Montage robuster Glasersatzplatten",
+                "✅ Entfernung von Splittern und Glasresten",
+                "✅ Provisorische Lösung bis zur dauerhaften Reparatur"
+              ],
+              "underTitle": "Wir achten auf eine unauffällige und leise Arbeitsweise, um den Betrieb so wenig wie möglich zu stören."
+            },
+            {
+              "type": "list",
+              "title": "Für wen wir tätig sind",
+              "topTitle": "",
+              "items": [
+                "Arztpraxen",
+                "Zahnärzte",
+                "Therapiezentren",
+                "Kanzleien",
+                "Agenturen",
+                "Unternehmensbüros"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "title": "17 Jahre Erfahrung im Glasnotdienst",
+              "text": "Seit über 17 Jahren helfen wir Praxen und Büros, nach Glasschäden schnell wieder sicher und einsatzfähig zu sein."
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/GlassServiceLogo.png/public",
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "#impressum"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "#datenschutz"
+        },
+        {
+          "text": "AGB",
+          "href": "#agb"
+        }
+      ]
+    }
   }
 }
