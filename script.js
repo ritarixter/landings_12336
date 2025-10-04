@@ -122,6 +122,13 @@ function generateServicesList() {
                     textElement.textContent = block.text;
                     blockElement.appendChild(textElement);
                 }
+
+                if (block.type === 'paragraph' && block.title) {
+            const textElement = document.createElement('p');
+            textElement.className = 'content-text';
+            textElement.textContent = block.title;
+            blockElement.appendChild(textElement);
+        }
                 
                 if (block.type === 'list' && block.items) {
                     const listElement = document.createElement('ul');
