@@ -8,7 +8,10 @@
       %schema%
     </script>
     <title>%title%</title>
-     <link rel="stylesheet" href="./styles/schluesseldienst/main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/%service%/main.css" />
   </head>
   <body class="body">
     <header class="header">
@@ -30,15 +33,15 @@
     <section class="faqPage">
            <h1 class="faq_title">%faqBlock_title%</h1>
         <div class="services-list" id="servicesList">
-            <!-- Список будет сгенерирован JavaScript -->
+            %faqBlock_content%
         </div>
     </section>
-    <section class="contact" id="kontakt">
+    <section class="contact" id="%contact_id%">
       <div class="contact_info">
-               <h3 class="contact_info_title">%contact_title%</h3>
+        <h3 class="contact_info_title">%contact_title%</h3>
         <div class="contact_info_block">
           <img src="./images/call.svg" alt="call" />
-          <a href="tel:49123456789" class="hero_button__text"
+          <a href="%contact_button_href%" class="hero_button__text"
             >+49 123 456 789</a
           >
         </div>
@@ -52,7 +55,7 @@
         <div class="contact_left_block">
           <p class="contact_left_item">%contact_rating_title%</p>
           <p class="contact_left_text">
-             %contact_rating_description%
+            %contact_rating_description%
           </p>
         </div>
       </div>
@@ -71,11 +74,94 @@
         </ul>
       </nav>
       </div>
-    </footer>
-    <script>
-              window.faqPage = '%FAQ_JSON%';
 
+
+    </footer>
+
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const burger = document.getElementById("burger");
+        const nav = document.getElementById("nav");
+
+        // Проверяем, что элементы найдены
+        if (!burger || !nav) {
+          console.error("Burger menu elements not found");
+          return;
+        }
+
+        // Функция для переключения меню
+        function toggleMenu() {
+          burger.classList.toggle("active");
+          nav.classList.toggle("active");
+          document.body.style.overflow = nav.classList.contains("active")
+            ? "hidden"
+            : "";
+        }
+
+        // Открытие/закрытие меню по клику на бургер
+        burger.addEventListener("click", function (e) {
+          e.stopPropagation();
+          toggleMenu();
+        });
+
+        // Закрытие меню при клике на ссылку
+        const navLinks = document.querySelectorAll(".header_a");
+        navLinks.forEach((link) => {
+          link.addEventListener("click", function () {
+            burger.classList.remove("active");
+            nav.classList.remove("active");
+            document.body.style.overflow = "";
+          });
+        });
+
+        // Закрытие меню при клике outside меню
+        document.addEventListener("click", function (e) {
+          if (
+            nav.classList.contains("active") &&
+            !nav.contains(e.target) &&
+            !burger.contains(e.target)
+          ) {
+            toggleMenu();
+          }
+        });
+
+        // Закрытие меню при нажатии Escape
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape" && nav.classList.contains("active")) {
+            toggleMenu();
+          }
+        });
+
+        // Закрытие меню при изменении ориентации устройства
+        window.addEventListener("orientationchange", function () {
+          if (nav.classList.contains("active")) {
+            toggleMenu();
+          }
+        });
+
+
+        const serviceHeaders = document.querySelectorAll('.service-header');
+        
+        serviceHeaders.forEach(function(header) {
+          header.addEventListener('click', function() {
+            const serviceItem = header.parentElement;
+            
+            // Закрываем все остальные открытые элементы
+            document.querySelectorAll('.service-item').forEach(function(item) {
+              if (item !== serviceItem && item.classList.contains('active')) {
+                item.classList.remove('active');
+              }
+            });
+            
+            // Открываем/закрываем текущий элемент
+            serviceItem.classList.toggle('active');
+          });
+        });
+      });
+
+
+      
     </script>
-     <script src="script.js"></script>
   </body>
 </html>

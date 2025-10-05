@@ -16,7 +16,12 @@
   <body class="body">
     <header class="header">
       <img src="%header_logo%" alt="Logo" />
-      <nav class="header_nav">
+      <div class="burger" id="burger">
+                <span class="burger_line"></span>
+                <span class="burger_line"></span>
+                <span class="burger_line"></span>
+            </div>
+      <nav class="header_nav" id="nav">
         <ul class="header_ul">
           <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
           <li><a class="header_a" href="%header_navigation_href%">%header_navigation_text%</a></li>
@@ -86,35 +91,47 @@
       <h1 class="faq_title">%faqBlock_title%</h1>
       <div class="faq_block">
         <ul class="faq_ul">
-          <li class="faq_li">
+          <li>
+            <a href="%faqBlock_items_href%" class="faq_li">
             <img src="%faqBlock_items_img%" alt="logoFaq" class="faq_li_icon" />
-            <a class="faq_li_text" href="%faqBlock_items_href%">%faqBlock_items_text%</a>
+            <span class="faq_li_text">%faqBlock_items_text%</span>
             <img src="./images/arrow.svg" alt="Icon_Arrow" />
+          </a>
           </li>
-          <li class="faq_li">
+         <li>
+            <a href="%faqBlock_items_href%" class="faq_li">
             <img src="%faqBlock_items_img%" alt="logoFaq" class="faq_li_icon" />
-            <a class="faq_li_text" href="%faqBlock_items_href%">%faqBlock_items_text%</a>
+            <span class="faq_li_text">%faqBlock_items_text%</span>
             <img src="./images/arrow.svg" alt="Icon_Arrow" />
+          </a>
           </li>
-          <li class="faq_li">
+          <li >
+            <a href="%faqBlock_items_href%" class="faq_li">
             <img src="%faqBlock_items_img%" alt="logoFaq" class="faq_li_icon" />
-            <a class="faq_li_text" href="%faqBlock_items_href%">%faqBlock_items_text%</a>
+            <span class="faq_li_text">%faqBlock_items_text%</span>
             <img src="./images/arrow.svg" alt="Icon_Arrow" />
+          </a>
           </li>
-          <li class="faq_li">
+          <li >
+            <a href="%faqBlock_items_href%" class="faq_li">
             <img src="%faqBlock_items_img%" alt="logoFaq" class="faq_li_icon" />
-            <a class="faq_li_text" href="%faqBlock_items_href%">%faqBlock_items_text%</a>
+            <span class="faq_li_text">%faqBlock_items_text%</span>
             <img src="./images/arrow.svg" alt="Icon_Arrow" />
+          </a>
           </li>
-          <li class="faq_li">
+          <li >
+            <a href="%faqBlock_items_href%" class="faq_li">
             <img src="%faqBlock_items_img%" alt="logoFaq" class="faq_li_icon" />
-            <a class="faq_li_text" href="%faqBlock_items_href%">%faqBlock_items_text%</a>
+            <span class="faq_li_text">%faqBlock_items_text%</span>
             <img src="./images/arrow.svg" alt="Icon_Arrow" />
+          </a>
           </li>
-          <li class="faq_li">
+         <li >
+            <a href="%faqBlock_items_href%" class="faq_li">
             <img src="%faqBlock_items_img%" alt="logoFaq" class="faq_li_icon" />
-            <a class="faq_li_text" href="%faqBlock_items_href%">%faqBlock_items_text%</a>
+            <span class="faq_li_text">%faqBlock_items_text%</span>
             <img src="./images/arrow.svg" alt="Icon_Arrow" />
+          </a>
           </li>
         </ul>
         <img src="%faqBlock_mainImg%" class="faq_img" />
@@ -159,5 +176,69 @@
       </nav>
       </div>
     </footer>
+
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const burger = document.getElementById("burger");
+        const nav = document.getElementById("nav");
+
+        // Проверяем, что элементы найдены
+        if (!burger || !nav) {
+          console.error("Burger menu elements not found");
+          return;
+        }
+
+        // Функция для переключения меню
+        function toggleMenu() {
+          burger.classList.toggle("active");
+          nav.classList.toggle("active");
+          document.body.style.overflow = nav.classList.contains("active")
+            ? "hidden"
+            : "";
+        }
+
+        // Открытие/закрытие меню по клику на бургер
+        burger.addEventListener("click", function (e) {
+          e.stopPropagation();
+          toggleMenu();
+        });
+
+        // Закрытие меню при клике на ссылку
+        const navLinks = document.querySelectorAll(".header_a");
+        navLinks.forEach((link) => {
+          link.addEventListener("click", function () {
+            burger.classList.remove("active");
+            nav.classList.remove("active");
+            document.body.style.overflow = "";
+          });
+        });
+
+        // Закрытие меню при клике outside меню
+        document.addEventListener("click", function (e) {
+          if (
+            nav.classList.contains("active") &&
+            !nav.contains(e.target) &&
+            !burger.contains(e.target)
+          ) {
+            toggleMenu();
+          }
+        });
+
+        // Закрытие меню при нажатии Escape
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape" && nav.classList.contains("active")) {
+            toggleMenu();
+          }
+        });
+
+        // Закрытие меню при изменении ориентации устройства
+        window.addEventListener("orientationchange", function () {
+          if (nav.classList.contains("active")) {
+            toggleMenu();
+          }
+        });
+      });
+    </script>
   </body>
 </html>
