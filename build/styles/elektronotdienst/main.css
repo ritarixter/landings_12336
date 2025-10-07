@@ -194,7 +194,6 @@ a:hover {
   width: 100%;
   border-radius: 8px;
   background: #3d3a3a;
-  margin-bottom: 8px;
   object-fit: cover;
 }
 
@@ -206,6 +205,7 @@ a:hover {
   font-style: normal;
   font-weight: 400;
   margin: 0;
+  padding: 8px;
 }
 
 /* --------------------FAQ------------------------- */
