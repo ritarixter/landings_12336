@@ -69,6 +69,16 @@ a:hover {
   background-color: #d4c7c7;
   margin: 0;
 }
+.faq_hero {
+  padding: 32px 16px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  gap: 121px;
+  justify-content: center;
+  background-color: #d2905e;
+  margin: 0;
+}
 
 .hero_block {
   display: flex;
@@ -80,6 +90,14 @@ a:hover {
 
 .hero_title {
   color: #d2905e;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  margin: 0;
+}
+.faq_hero_title {
+  color: #d4c7c7;
   font-family: Montserrat;
   font-size: 40px;
   font-style: normal;
@@ -120,9 +138,32 @@ a:hover {
   width: 100%;
   height: 40px;
 }
+.faq_hero_button {
+  border-radius: 8px;
+  background: #d4c7c7;
+  padding: 9px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  box-sizing: border-box;
+  max-width: 218px;
+  width: 100%;
+  height: 40px;
+}
 
 .hero_button__text {
   color: #fff;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.faq_hero_button__text {
+  color: #3A3939;
   font-family: Montserrat;
   font-size: 18px;
   font-style: normal;
@@ -233,8 +274,6 @@ a:hover {
 
 .faq_block {
   display: flex;
-  flex-direction: row;
-  gap: 121px;
   justify-content: center;
   align-items: center;
 }
@@ -243,10 +282,11 @@ a:hover {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   align-items: center;
-  gap: 16px;
+  column-gap: 50px;
+  row-gap: 20px;
 }
 .faq_ul li {
   max-width: 338px;
@@ -287,6 +327,52 @@ a:hover {
   border-radius: 8px;
   background: #8c7d7d;
   object-fit: cover;
+}
+
+.faq_info {
+  background: #d2c4c4;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 32px 0 48px;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.faq_info_block {
+  background: #8c7d7d;
+  padding: 16px;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.faq_info_block_title {
+  color: #feb372;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.faq_list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+}
+
+.faq_item {
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  padding: 0;
 }
 
 /* --------------CONTACT---------------------- */
@@ -438,6 +524,9 @@ a:hover {
   .hero_title {
     font-size: 32px;
   }
+  .faq_hero_title {
+    font-size: 32px;
+  }
 
   .aboutUs_img {
     display: none;
@@ -456,6 +545,10 @@ a:hover {
   .contact_left {
     display: none;
   }
+
+  .faq_info {
+  gap: 16px;
+}
 }
 
 .notFound {
@@ -564,10 +657,26 @@ a:hover {
     text-align: center;
   }
 
+  .faq_hero {
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+  .faq_hero_title {
+    font-size: 20px;
+    text-align: center;
+  }
+
   .aboutUs_title {
     font-size: 16px;
   }
 
+  .faq_ul {
+    grid-template-columns: repeat(1, 1fr);
+    row-gap: 20px;
+  }
   .faq_title {
     font-size: 20px;
   }

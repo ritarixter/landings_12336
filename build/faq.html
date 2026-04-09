@@ -30,11 +30,34 @@
         </ul>
       </nav>
     </header>
-    <section class="faqPage">
-           <h1 class="faq_title">%faqBlock_title%</h1>
-        <div class="services-list" id="servicesList">
-            %faqBlock_content%
-        </div>
+    <section class="faq_hero">
+      <div class="hero_block">
+        <h1 class="faq_hero_title">%homepage_hero_title%</h1>
+        <p class="hero_text">
+          %homepage_hero_description%
+        </p>
+        <button class="faq_hero_button">
+          <img src="./images/call.svg" alt="call" />
+          <a href="%homepage_hero_button_href%" class="hero_button__text"
+            >%homepage_hero_button_text%</a
+          >
+        </button>
+      </div>
+      <img src="%homepage_hero_img%" class="hero_img" />
+    </section>
+    <section class="faq_info">
+      <div class="faq_info_block">
+        <h3 class="faq_info_block_title">%homepage_hero_faq_title%</h3>
+        <ul class="faq_list"></ul>
+      </div>
+      <div class="faq_info_block">
+        <h3 class="faq_info_block_title">%homepage_hero_faq_title%</h3>
+        <ul class="faq_list"></ul>
+      </div>
+      <div class="faq_info_block">
+        <h3 class="faq_info_block_title">%homepage_hero_faq_title%</h3>
+        <ul class="faq_list"></ul>
+      </div>
     </section>
     <section class="contact" id="%contact_id%">
       <div class="contact_info">
@@ -74,94 +97,31 @@
         </ul>
       </nav>
       </div>
-
-
     </footer>
-
-
     <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const burger = document.getElementById("burger");
-        const nav = document.getElementById("nav");
 
-        // Проверяем, что элементы найдены
-        if (!burger || !nav) {
-          console.error("Burger menu elements not found");
-          return;
-        }
+  const faqData = [
+    ["Question 1.1", "Question 1.2", "Question 1.3"],
+    ["Question 2.1", "Question 2.2", "Question 2.3"],
+    ["Question 3.1", "Question 3.2", "Question 3.3"]
+  ];
+  
+  const faqBlocks = document.querySelectorAll('.faq_info_block');
+  
+  faqBlocks.forEach((block, index) => {
+    const ul = document.createElement('ul');
+    ul.className = 'faq_list';
 
-        // Функция для переключения меню
-        function toggleMenu() {
-          burger.classList.toggle("active");
-          nav.classList.toggle("active");
-          document.body.style.overflow = nav.classList.contains("active")
-            ? "hidden"
-            : "";
-        }
-
-        // Открытие/закрытие меню по клику на бургер
-        burger.addEventListener("click", function (e) {
-          e.stopPropagation();
-          toggleMenu();
-        });
-
-        // Закрытие меню при клике на ссылку
-        const navLinks = document.querySelectorAll(".header_a");
-        navLinks.forEach((link) => {
-          link.addEventListener("click", function () {
-            burger.classList.remove("active");
-            nav.classList.remove("active");
-            document.body.style.overflow = "";
-          });
-        });
-
-        // Закрытие меню при клике outside меню
-        document.addEventListener("click", function (e) {
-          if (
-            nav.classList.contains("active") &&
-            !nav.contains(e.target) &&
-            !burger.contains(e.target)
-          ) {
-            toggleMenu();
-          }
-        });
-
-        // Закрытие меню при нажатии Escape
-        document.addEventListener("keydown", function (e) {
-          if (e.key === "Escape" && nav.classList.contains("active")) {
-            toggleMenu();
-          }
-        });
-
-        // Закрытие меню при изменении ориентации устройства
-        window.addEventListener("orientationchange", function () {
-          if (nav.classList.contains("active")) {
-            toggleMenu();
-          }
-        });
-
-
-        const serviceHeaders = document.querySelectorAll('.service-header');
-        
-        serviceHeaders.forEach(function(header) {
-          header.addEventListener('click', function() {
-            const serviceItem = header.parentElement;
-            
-            // Закрываем все остальные открытые элементы
-            document.querySelectorAll('.service-item').forEach(function(item) {
-              if (item !== serviceItem && item.classList.contains('active')) {
-                item.classList.remove('active');
-              }
-            });
-            
-            // Открываем/закрываем текущий элемент
-            serviceItem.classList.toggle('active');
-          });
-        });
-      });
-
-
-      
-    </script>
+    const itemsArray = faqData[index] || [];
+    
+    itemsArray.forEach(item => {
+      const li = document.createElement('li');
+      li.textContent = item;
+      ul.appendChild(li);
+    });
+    
+    block.appendChild(ul);
+  });
+</script>
   </body>
 </html>
