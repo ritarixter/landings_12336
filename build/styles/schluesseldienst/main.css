@@ -79,7 +79,7 @@ a:hover {
   flex-direction: row;
   gap: 121px;
   justify-content: center;
-  background-color: #5C8C9E;
+  background-color: #5c8c9e;
   margin: 0;
 }
 
@@ -101,7 +101,7 @@ a:hover {
 }
 
 .faq_hero_title {
-  color: #C8D0E0;
+  color: #c8d0e0;
   font-family: Montserrat;
   font-size: 40px;
   font-style: normal;
@@ -146,7 +146,7 @@ a:hover {
 
 .faq_hero_button {
   border-radius: 8px;
-  background: #C8D0E0;
+  background: #c8d0e0;
   padding: 9px 20px;
   display: flex;
   flex-direction: row;
@@ -160,7 +160,7 @@ a:hover {
 }
 
 .hero_button__text {
-  color: #3A3939;
+  color: #3a3939;
   font-family: Montserrat;
   font-size: 18px;
   font-style: normal;
@@ -326,26 +326,26 @@ a:hover {
 }
 
 .faq_info {
-  background: #CDDEE4;
+  background: #cddee4;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-evenly;
-  padding: 32px 0 48px;
+  padding: 32px 16px 48px;
   box-sizing: border-box;
-  flex-wrap: wrap;
   gap: 16px;
 }
 
 .faq_info_block {
-  background: #5C8C9E;
+  background: #5c8c9e;
   padding: 16px;
   box-sizing: border-box;
   border-radius: 8px;
+  max-width: 806px;
+  width: 100%;
 }
 
 .faq_info_block_title {
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
   font-size: 18px;
   font-weight: 400;
@@ -360,6 +360,16 @@ a:hover {
   padding: 0;
   margin: 0;
   color: #fff;
+  padding: 0 16px;
+}
+
+.faq_list li {
+  text-align: center;
+}
+.faq_info_block_text {
+  color: #fff;
+  padding: 0 16px;
+  text-align: center;
 }
 
 .faq_item {
@@ -370,7 +380,6 @@ a:hover {
   font-weight: 400;
   padding: 0;
 }
-
 
 /* --------------CONTACT---------------------- */
 .contact {
@@ -548,7 +557,7 @@ a:hover {
     font-size: 32px;
   }
 
-    .faq_hero_title {
+  .faq_hero_title {
     font-size: 32px;
   }
 
@@ -570,9 +579,9 @@ a:hover {
     display: none;
   }
 
-    .faq_info {
-  gap: 16px;
-}
+  .faq_info {
+    gap: 16px;
+  }
 }
 
 @media screen and (max-width: 839px) {
@@ -655,7 +664,7 @@ a:hover {
     text-align: center;
   }
 
-    .faq_hero {
+  .faq_hero {
     flex-direction: column;
     gap: 16px;
     align-items: center;

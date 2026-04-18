@@ -1,0 +1,271 @@
+{
+  "theme": "theme-unlock",
+  "title": "Ihr 24-Stunden Schlüsseldienst in %city%",
+  "description": "Tür zugefallen, Schlüssel verloren oder Schloss defekt? Wir sind 24h in %city% für Sie da – Türen, Autos & Tresore in 95 % der Fälle beschädigungsfrei geöffnet. Meist in 20–40 Minuten vor Ort.",
+  "phone": "+49 123 456 789",
+  "header": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/UnlockServiceLogo.png/public",
+    "navigation": [
+      {
+        "text": "Strategie",
+        "href": "/#strategie"
+      },
+      {
+        "text": "Vorteile",
+        "href": "/#vorteile"
+      },
+      {
+        "text": "FAQ",
+        "href": "/faq.html"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/#kontakt"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "id": "strategie",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "title": "Ihr 24-Stunden Schlüsseldienst in %city%",
+      "description": "Tür zugefallen, Schlüssel verloren oder Schloss defekt?\n\nWir sind 24h in %city% für Sie da – Türen, Autos & Tresore in 95 % der Fälle beschädigungsfrei geöffnet. Meist in 20–40 Minuten vor Ort.",
+      "button": {
+        "text": "+49 123 456 789",
+        "href": "tel:+49123456789"
+      }
+    },
+    "advantage": {
+      "id": "vorteile",
+      "title": "Kurze Bullet-Vorteile",
+      "mainImg": "",
+      "advantages": [
+        {
+          "img": "",
+          "text": "24-Stunden-Schlüsseldienst in %city%"
+        },
+        {
+          "img": "",
+          "text": "Türen, Autos & Tresore in 95 % der Fälle beschädigungsfrei geöffnet"
+        },
+        {
+          "img": "",
+          "text": "Faire Festpreise – keine versteckten Kosten"
+        },
+        {
+          "img": "",
+          "text": "Schnelle Anfahrt in %city% und Umgebung (20–40 Minuten)"
+        },
+        {
+          "img": "",
+          "text": "Erfahrene & geprüfte Monteure"
+        },
+        {
+          "img": "",
+          "text": "Über 15 Jahre Erfahrung im Schlüsselnotdienst"
+        }
+      ]
+    },
+    "faqBlock": {
+      "id": "faq",
+      "title": "FAQ",
+      "mainImg": "",
+      "items": [
+        {
+          "img": "",
+          "text": "Türöffnung",
+          "href": "faq.html/1"
+        },
+        {
+          "img": "",
+          "text": "Autoöffnung",
+          "href": "faq.html/2"
+        },
+        {
+          "text": "Tresoröffnung",
+          "href": "faq.html/3"
+        },
+        {
+          "text": "Einbruchschutz & Sicherheitstechnik",
+          "href": "faq.html/4"
+        },
+        {
+          "text": "Schlossreparatur & Mehrfachverriegelung",
+          "href": "faq.html/5"
+        }
+      ]
+    },
+    "contact": {
+      "id": "kontakt",
+      "title": "Jetzt anrufen – wir kommen sofort!",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "button": {
+        "text": "Jetzt anrufen",
+        "href": "tel:+49123456789"
+      },
+      "rating": {
+        "title": "5.0 - Sehr empfehlenswert",
+        "description": "Ihr Partner für den 24-Stunden Schlüsseldienst in %city%"
+      }
+    }
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Türöffnung in %city%",
+        "subtitle": "Sie stehen in %city% vor verschlossener Tür? Unser Türöffnungs-Service hilft Ihnen schnell, zuverlässig und zu einem fairen Festpreis. In den meisten Fällen öffnen wir Türen beschädigungsfrei – egal, ob es sich um eine zugefallene Wohnungstür, eine abgeschlossene Haustür oder eine defekte Nebeneingangstür handelt.",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "24-Stunden-Schlüsselnotdienst in %city%",
+            "text": "Unser 24-Stunden-Schlüsselnotdienst in %city% ist an 365 Tagen im Jahr für Sie erreichbar. Wir sind meist innerhalb von 20–40 Minuten vor Ort und bringen alle nötigen Werkzeuge mit, um die Tür fachgerecht zu öffnen."
+          },
+          {
+            "type": "paragraph",
+            "title": "Schloss- oder Zylinderaustausch",
+            "text": "Sollte ein Schloss- oder Zylinderaustausch notwendig sein, führen wir dies sofort und mit hochwertigen Markenprodukten durch."
+          },
+          {
+            "type": "list",
+            "title": "Ihre Vorteile",
+            "items": [
+              "Rund-um-die-Uhr erreichbar.",
+              "95 % beschädigungsfreie Türöffnungen.",
+              "Faire und transparente Festpreise.",
+              "Schnelle Anfahrt in %city% und Umgebung."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+
+        "title": "Autoöffnung in %city%",
+        "subtitle": "Ihr Autoschlüssel ist im Fahrzeug eingeschlossen, verloren gegangen oder abgebrochen? Unsere Autoöffnung in %city% sorgt dafür, dass Sie schnell wieder mobil sind. Wir arbeiten mit speziellen Werkzeugen, die es ermöglichen, Autotüren ohne Lack- oder Karosserieschäden zu öffnen.",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Für alle Fahrzeugtypen und Marken",
+            "text": "Egal ob PKW, LKW, Oldtimer, Transporter, Wohnmobil oder Bus – wir verfügen über langjährige Erfahrung mit allen Fahrzeugtypen und -marken."
+          },
+          {
+            "type": "paragraph",
+            "title": "24h Autoöffnungs-Notdienst in %city%",
+            "text": "Unser Autoöffnungs-Notdienst in %city% ist 24 Stunden täglich erreichbar und hilft Ihnen auch an Wochenenden und Feiertagen."
+          },
+          {
+            "type": "list",
+            "title": "Ihre Vorteile",
+            "items": [
+              "Lack- und beschädigungsfreie Öffnung.",
+              "Für alle Fahrzeugtypen und Marken.",
+              "24h erreichbar – auch an Feiertagen.",
+              "Schnelle Anfahrt in %city% und Umgebung."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Tresoröffnung in %city%",
+        "subtitle": "Ihr Tresor oder Safe lässt sich nicht mehr öffnen? Unser Service für Tresoröffnungen in %city% steht Ihnen rund um die Uhr zur Verfügung. Egal ob mechanischer Tresor, elektronischer Safe, Wertschutzschrank, Möbeltresor oder Waffenschrank – wir öffnen professionell und so schonend wie möglich, damit der Tresor in vielen Fällen weiterhin nutzbar bleibt.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Wir helfen bei",
+            "items": [
+              "Verlorenen Tresorschlüsseln.",
+              "Vergessenen Zahlencodes.",
+              "Defekten Schlössern oder Elektronikfehlern.",
+              "Blockierten Verriegelungen."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "Schonende Öffnung",
+            "text": "Wir öffnen professionell und so schonend wie möglich, damit der Tresor in vielen Fällen weiterhin nutzbar bleibt."
+          },
+          {
+            "type": "paragraph",
+            "title": "Diskrete Arbeitsweise",
+            "text": "Unsere diskrete Arbeitsweise garantiert, dass Ihre Privatsphäre gewahrt bleibt."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Einbruchschutz & Sicherheitstechnik in %city%",
+        "subtitle": "Ein Einbruch kann schnell passieren – und oft bleiben nicht nur materielle Schäden zurück. Unser Service für Einbruchschutz in %city% sorgt dafür, dass Sie sich in Ihren eigenen vier Wänden wieder sicher fühlen. Wir beraten Sie individuell und installieren moderne Sicherheitstechnik, die auf Ihre Bedürfnisse zugeschnitten ist.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Wir beraten Sie individuell und installieren moderne Sicherheitstechnik wie",
+            "items": [
+              "Panzerriegel und Sicherheitsbeschläge.",
+              "Mehrfachverriegelungen und Zusatzschlösser.",
+              "Fenstersicherungen.",
+              "Elektronische Schließanlagen.",
+              "Alarmanlagen und Videoüberwachung."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "Sicherheitscheck vor Ort",
+            "text": "Auf Wunsch führen wir einen Sicherheitscheck vor Ort durch."
+          },
+          {
+            "type": "paragraph",
+            "title": "Maßgeschneidertes Schutzkonzept",
+            "text": "Auf Wunsch führen wir einen Sicherheitscheck vor Ort durch und entwickeln ein maßgeschneidertes Schutzkonzept für Ihr Zuhause oder Ihr Unternehmen in %city%."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Schlossreparatur & Mehrfachverriegelung in %city%",
+        "subtitle": "Ein defektes Schloss oder eine beschädigte Mehrfachverriegelung ist nicht nur ärgerlich, sondern auch ein Sicherheitsrisiko. Unser Service für Schlossreparaturen in %city% sorgt dafür, dass Ihre Tür schnell wieder sicher schließt.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Wir reparieren und tauschen",
+            "items": [
+              "Defekte Türschlösser und Schließzylinder.",
+              "Mehrfachverriegelungen.",
+              "Beschädigte Türbeschläge.",
+              "Schlösser nach Einbruchschäden."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "Direkte Instandsetzung vor Ort",
+            "text": "In vielen Fällen lässt sich das Schloss direkt vor Ort instand setzen – ohne teuren Komplettaustausch."
+          },
+          {
+            "type": "paragraph",
+            "title": "Hochwertige Markenprodukte",
+            "text": "Wir verwenden ausschließlich hochwertige Markenprodukte, um langfristige Sicherheit zu gewährleisten."
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/UnlockServiceLogo.png/public",
+    "links": [
+      {
+        "text": "Impressum",
+        "href": "#impressum"
+      },
+      {
+        "text": "Datenschutz",
+        "href": "#datenschutz"
+      },
+      {
+        "text": "AGB",
+        "href": "#agb"
+      }
+    ]
+  }
+}

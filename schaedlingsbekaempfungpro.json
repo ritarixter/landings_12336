@@ -1,0 +1,320 @@
+{
+  "theme": "theme-pestControl",
+  "title": "Ihr 24-Stunden Schädlingsbekämpfung Notdienst in %city%",
+  "description": "Ihr Schädlingsbekämpfung Notdienst in %city% – 24 Stunden erreichbar, mit über 15 Jahren Erfahrung. Schnelle, diskrete und nachhaltige Hilfe bei Ameisen, Ratten, Bettwanzen oder Wespennestern.",
+  "phone": "+49 123 456 789",
+  "header": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/PestControlServiceLogo.png/public",
+    "navigation": [
+      {
+        "text": "Strategie",
+        "href": "/#strategie"
+      },
+      {
+        "text": "Vorteile",
+        "href": "/#vorteile"
+      },
+      {
+        "text": "FAQ",
+        "href": "/faq.html"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/#kontakt"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "id": "strategie",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "title": "Ihr 24-Stunden Schädlingsbekämpfung Notdienst in %city%",
+      "description": "Ihr Schädlingsbekämpfung Notdienst in %city% – 24 Stunden erreichbar, mit über 15 Jahren Erfahrung. Schnelle, diskrete und nachhaltige Hilfe bei Ameisen, Ratten, Bettwanzen oder Wespennestern.",
+      "button": {
+        "text": "+49 123 456 789",
+        "href": "tel:+49123456789"
+      }
+    },
+    "advantage": {
+      "id": "vorteile",
+      "title": "Kurze Bullet-Vorteile",
+      "mainImg": "",
+      "advantages": [
+        {
+          "img": "",
+          "text": "24-Stunden-Schädlingsbekämpfung in %city%"
+        },
+        {
+          "img": "",
+          "text": "Telefonisch sofort erreichbar – keine Warteschleifen"
+        },
+        {
+          "img": "",
+          "text": "Schnelle Hilfe vor Ort – meist innerhalb von 1–2 Stunden"
+        },
+        {
+          "img": "",
+          "text": "Transparente Preise – keine versteckten Kosten"
+        },
+        {
+          "img": "",
+          "text": "Diskrete & nachhaltige Methoden – ideal für Privat & Gewerbe"
+        },
+        {
+          "img": "",
+          "text": "Über 15 Jahre Erfahrung – zertifizierte Kammerjäger"
+        }
+      ]
+    },
+    "faqBlock": {
+      "id": "faq",
+      "title": "FAQ",
+      "mainImg": "",
+      "items": [
+        {
+          "img": "",
+          "text": "Insektenbekämpfung",
+          "href": "faq.html/1"
+        },
+        {
+          "img": "",
+          "text": "Nagetierbekämpfung",
+          "href": "faq.html/2"
+        },
+        {
+          "text": "Vogelabwehr",
+          "href": "faq.html/3"
+        },
+        {
+          "text": "Sonstige Schädlinge",
+          "href": "faq.html/4"
+        }
+      ]
+    },
+    "contact": {
+      "id": "kontakt",
+      "title": "Jetzt anrufen – wir kommen sofort!",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "button": {
+        "text": "Jetzt anrufen",
+        "href": "tel:+49123456789"
+      },
+      "rating": {
+        "title": "5.0 - Sehr empfehlenswert",
+        "description": "Ihr Partner für den 24-Stunden Schädlingsbekämpfung Notdienst in %city%"
+      }
+    }
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Schädlingsbekämpfung & Kammerjäger – Schnell, Diskret und Zuverlässig in Ihrer Nähe",
+        "subtitle": "Wir bieten Ihnen ein umfassendes Spektrum an Schädlingsbekämpfungs-Leistungen, angepasst an Ihre individuellen Bedürfnisse.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Ameisen bekämpfen / Kakerlaken & Schaben bekämpfen / Silberfischchen bekämpfen",
+            "items": [
+              "Ameisen bekämpfen.",
+              "Befallsanalyse & Identifikation der Ameisenart.",
+              "Ködergel-/Stationen zur Koloniebekämpfung (Nestmitteltransport).",
+              "Sprüh-/Spritzbehandlungen an Laufwegen & Nestern.",
+              "Biologische/giftfreie Ameisenbekämpfung möglich (Kinder-/Haustiere).",
+              "Abdichtung & Prävention (Ritzen, Fugen, Leitungsdurchführungen).",
+              "Kakerlaken & Schaben bekämpfen.",
+              "Diskrete Behandlung (Gastro/Hotel/Lebensmittel).",
+              "Köder, Gels, Kontaktinsektizide.",
+              "Monitoring & Dokumentation.",
+              "Silberfischchen bekämpfen.",
+              "Feuchtemessung & Ursachenbehebung."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Wespenbekämpfung & Wespennest entfernen / Hornissenbekämpfung",
+            "items": [
+              "Wespenbekämpfung & Wespennest entfernen.",
+              "Schnelle Anfahrt (24h Notdienst).",
+              "Entfernung/Umsiedlung je nach Lage & Art.",
+              "Prävention (Zugänge schließen, Beratung).",
+              "Hornissenbekämpfung.",
+              "Genehmigung & Umsiedlung.",
+              "Sicherer Abtransport.",
+              "Prävention & Beratung."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Bettwanzen bekämpfen / Flöhe bekämpfen",
+            "items": [
+              "Bettwanzen bekämpfen.",
+              "Befallsanalyse, Monitoring.",
+              "Thermische/chemische Behandlung.",
+              "Präventionsplan (Ritzen/Spalten, Textilien).",
+              "Flöhe bekämpfen.",
+              "Ursachensuche & Behandlung aller Areale.",
+              "Textil- & Flächenbehandlung.",
+              "Nachkontrolle & Prävention."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Schädlingsbekämpfung & Kammerjäger – Schnell, Diskret und Zuverlässig in Ihrer Nähe",
+        "subtitle": "Wir bieten Ihnen ein umfassendes Spektrum an Schädlingsbekämpfungs-Leistungen, angepasst an Ihre individuellen Bedürfnisse.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Ratten bekämpfen / Mäuse bekämpfen",
+            "items": [
+              "Ratten bekämpfen.",
+              "Befallsanalyse & Artbestimmung (Wanderratte, Hausratte, Kanalratte).",
+              "Ködersysteme & Schlagfallen.",
+              "Abdichtung von Zugängen.",
+              "Prävention gegen Neubefall.",
+              "Mäuse bekämpfen.",
+              "Schnelle Befallsermittlung.",
+              "Köderstationen & Lebendfallen.",
+              "Hygienemaßnahmen & Prävention."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Hausmäuse bekämpfen / Feldmäuse bekämpfen",
+            "items": [
+              "Hausmäuse bekämpfen.",
+              "Befallsanalyse & Nestsuche.",
+              "Einsatz von Schlag- und Lebendfallen.",
+              "Bauliche Abdichtungen.",
+              "Feldmäuse bekämpfen.",
+              "Köderstationen & Begasung.",
+              "Bodenverdichtung & Prävention.",
+              "Beratung für langfristigen Schutz."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Wühlmäuse bekämpfen",
+            "items": [
+              "Wühlmäuse bekämpfen.",
+              "Genaue Befallsermittlung.",
+              "Mechanische und chemische Bekämpfung.",
+              "Prävention durch Bodenbearbeitung."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Schädlingsbekämpfung & Kammerjäger – Schnell, Diskret und Zuverlässig in Ihrer Nähe",
+        "subtitle": "Wir bieten Ihnen ein umfassendes Spektrum an Schädlingsbekämpfungs-Leistungen, angepasst an Ihre individuellen Bedürfnisse.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Taubenabwehr / Taubennetze montieren",
+            "items": [
+              "Taubenabwehr.",
+              "Montage von Taubennetzen.",
+              "Installation von Taubenspikes.",
+              "Elektrische Taubenabwehrsysteme.",
+              "Reinigung & Desinfektion von betroffenen Flächen.",
+              "Taubennetze montieren.",
+              "Individuelle Anpassung an Gebäudeform.",
+              "UV- und wetterbeständige Materialien.",
+              "Fachgerechte Befestigung ohne Gebäudeschäden."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Taubenspikes montieren / Möwenabwehr",
+            "items": [
+              "Taubenspikes montieren.",
+              "Installation auf Fensterbänken, Simsen, Balkonen.",
+              "Witterungsbeständige Materialien.",
+              "Diskrete Optik.",
+              "Möwenabwehr.",
+              "Draht- & Netzsysteme.",
+              "Akustische Abschreckung.",
+              "Präventive bauliche Maßnahmen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Vogelabwehr allgemein",
+            "items": [
+              "Vogelabwehr allgemein.",
+              "Netze, Spikes, Drahtsysteme.",
+              "Akustische & optische Abschreckung.",
+              "Reinigung & Desinfektion."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Schädlingsbekämpfung & Kammerjäger – Schnell, Diskret und Zuverlässig in Ihrer Nähe",
+        "subtitle": "Wir bieten Ihnen ein umfassendes Spektrum an Schädlingsbekämpfungs-Leistungen, angepasst an Ihre individuellen Bedürfnisse.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Marderabwehr & Waschbären vertreiben",
+            "items": [
+              "Marderabwehr & Marder vertreiben.",
+              "Marderabwehr im Auto (Ultraschall, Stromplatten, Duftstoffe).",
+              "Absicherung von Dachboden & Haus.",
+              "Präventive Maßnahmen gegen Neubefall.",
+              "Waschbären vertreiben.",
+              "Dachboden- & Gebäudesicherung.",
+              "Lebendfallen mit Umsiedlung.",
+              "Prävention gegen erneuten Befall."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Siebenschläfer vertreiben / Fuchsabwehr",
+            "items": [
+              "Siebenschläfer vertreiben.",
+              "Absicherung des Dachbodens.",
+              "Tierfreundliche Vertreibung.",
+              "Vorbeugende Maßnahmen.",
+              "Fuchsabwehr.",
+              "Absicherung von Zäunen & Gehegen.",
+              "Duft- & Ultraschallabwehr.",
+              "Beratung zu präventiven Maßnahmen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Maulwürfe vertreiben (tierschutzgerecht)",
+            "items": [
+              "Maulwürfe vertreiben (tierschutzgerecht).",
+              "Einsatz von Vibrations- & Ultraschallgeräten.",
+              "Bodenverdichtung.",
+              "Beratung zu langfristigem Schutz."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/PestControlServiceLogo.png/public",
+    "links": [
+      {
+        "text": "Impressum",
+        "href": "#impressum"
+      },
+      {
+        "text": "Datenschutz",
+        "href": "#datenschutz"
+      },
+      {
+        "text": "AGB",
+        "href": "#agb"
+      }
+    ]
+  }
+}

@@ -163,7 +163,7 @@ a:hover {
 }
 
 .faq_hero_button__text {
-  color: #3A3939;
+  color: #3a3939;
   font-family: Montserrat;
   font-size: 18px;
   font-style: normal;
@@ -332,12 +332,10 @@ a:hover {
 .faq_info {
   background: #d2c4c4;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-evenly;
-  padding: 32px 0 48px;
+  padding: 32px 16px 48px;
   box-sizing: border-box;
-  flex-wrap: wrap;
   gap: 16px;
 }
 
@@ -346,6 +344,8 @@ a:hover {
   padding: 16px;
   box-sizing: border-box;
   border-radius: 8px;
+  max-width: 806px;
+  width: 100%;
 }
 
 .faq_info_block_title {
@@ -364,6 +364,16 @@ a:hover {
   padding: 0;
   margin: 0;
   color: #fff;
+  padding: 0 16px;
+}
+
+.faq_list li {
+  text-align: center;
+}
+.faq_info_block_text {
+  color: #fff;
+  padding: 0 16px;
+  text-align: center;
 }
 
 .faq_item {
@@ -373,6 +383,11 @@ a:hover {
   font-style: normal;
   font-weight: 400;
   padding: 0;
+}
+
+.faq_info_block_text {
+  color: #fff;
+  text-align: center;
 }
 
 /* --------------CONTACT---------------------- */
@@ -547,8 +562,8 @@ a:hover {
   }
 
   .faq_info {
-  gap: 16px;
-}
+    gap: 16px;
+  }
 }
 
 .notFound {

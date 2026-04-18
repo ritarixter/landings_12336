@@ -261,7 +261,7 @@ function processHomepageContent(html, data, service, region) {
     }
 
     html = html.replace(
-      /<ul class="faq_ul">[\s\S]*?<\/ul>/m,
+      "%homepage_faqs%",
       `<ul class="faq_ul">${faqItemsHtml}</ul>`
     );
   }
@@ -582,8 +582,8 @@ export default {
           )
         )
         .replace(/%service%/g, escapeHtml(service || ""))
-        .replace(/%region%/g, escapeHtml(data.region || ""))
-        .replace(/%city%/g, escapeHtml(city || ""))
+        .replace(/%region%/g, escapeHtml(region || ""))
+        .replace(/%city%/g, escapeHtml(cityCamelCase))
         .replace(/%phone%/g, escapeHtml(data.phone || ""));
 
       // Обрабатываем секции

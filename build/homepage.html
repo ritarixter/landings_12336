@@ -8,6 +8,7 @@
       %schema%
     </script>
     <title>%title%</title>
+    <link rel="icon" href="%header_logo%" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -90,14 +91,7 @@
     <section class="faq" id="%faqBlock_id%">
       <h1 class="faq_title">%faqBlock_title%</h1>
       <div class="faq_block">
-        <ul class="faq_ul">
-           <li>
-              <a href="%faqBlock_items_[id]_href%" class="faq_li" data-page="%faqBlock_items_[id]_href%">
-                <span class="faq_li_text">%faqBlock_items_[id]_text%</span>
-                <img src="./images/arrow.svg" alt="Icon_Arrow" />
-              </a>
-            </li>
-        </ul>
+      %homepage_faqs%
       </div>
     </section>
     <section class="contact" id="%contact_id%">

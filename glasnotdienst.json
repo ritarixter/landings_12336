@@ -1,5 +1,8 @@
 {
   "theme": "theme-glass",
+  "title": "Ihr 24-Stunden Glas Notdienst in %city%",
+  "description": "Ihr Glas-Notdienst in %city% – 24 Stunden erreichbar, seit 17 Jahren im Einsatz. Schnelle, professionelle Notverglasung bei Einbruch, Sturm oder Glasbruch.",
+  "phone": "+49 123 456 789",
   "header": {
     "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/GlassServiceLogo.png/public",
     "navigation": [

@@ -8,10 +8,11 @@
       %schema%
     </script>
     <title>%title%</title>
+    <link rel="icon" href="%header_logo%" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./styles/%service%/main.css" />
+    <link rel="stylesheet" href="/styles/%service%/main.css" />
   </head>
   <body class="body">
     <header class="header">
@@ -37,7 +38,7 @@
          %faq_section_subtitle%
         </p>
         <button class="faq_hero_button">
-          <img src="./images/call.svg" alt="call" />
+          <img src="/images/call.svg" alt="call" />
           <a href="%contact_button_href%" class="hero_button__text"
             >+49 123 456 789</a
           >
@@ -53,7 +54,7 @@
       <div class="contact_info">
         <h3 class="contact_info_title">%contact_title%</h3>
         <div class="contact_info_block">
-          <img src="./images/call.svg" alt="call" />
+          <img src="/images/call.svg" alt="call" />
           <a href="%contact_button_href%" class="hero_button__text"
             >+49 123 456 789</a
           >
@@ -64,7 +65,7 @@
       </div>
       <img src="%contact_img%" alt="Image" class="contact_img" />
       <div class="contact_left">
-        <img src="./images/Capa.svg" alt="Icon" class="contact_left__icon" />
+        <img src="/images/Capa.svg" alt="Icon" class="contact_left__icon" />
         <div class="contact_left_block">
           <p class="contact_left_item">%contact_rating_title%</p>
           <p class="contact_left_text">
@@ -89,5 +90,60 @@
       </div>
     </footer>
 
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const burger = document.getElementById("burger");
+        const nav = document.getElementById("nav");
+
+        if (!burger || !nav) {
+          console.error("Burger menu elements not found");
+          return;
+        }
+
+        function toggleMenu() {
+          burger.classList.toggle("active");
+          nav.classList.toggle("active");
+          document.body.style.overflow = nav.classList.contains("active")
+            ? "hidden"
+            : "";
+        }
+
+        burger.addEventListener("click", function (e) {
+          e.stopPropagation();
+          toggleMenu();
+        });
+
+        const navLinks = document.querySelectorAll(".header_a");
+        navLinks.forEach((link) => {
+          link.addEventListener("click", function () {
+            burger.classList.remove("active");
+            nav.classList.remove("active");
+            document.body.style.overflow = "";
+          });
+        });
+
+        document.addEventListener("click", function (e) {
+          if (
+            nav.classList.contains("active") &&
+            !nav.contains(e.target) &&
+            !burger.contains(e.target)
+          ) {
+            toggleMenu();
+          }
+        });
+
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape" && nav.classList.contains("active")) {
+            toggleMenu();
+          }
+        });
+
+        window.addEventListener("orientationchange", function () {
+          if (nav.classList.contains("active")) {
+            toggleMenu();
+          }
+        });
+      });
+    </script>
   </body>
 </html>

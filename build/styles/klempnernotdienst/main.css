@@ -76,7 +76,7 @@ a:hover {
   flex-direction: row;
   gap: 121px;
   justify-content: center;
-  background-color: #BEA568;
+  background-color: #bea568;
   margin: 0;
 }
 
@@ -98,7 +98,7 @@ a:hover {
 }
 
 .faq_hero_title {
-  color: #FFFFFF;
+  color: #ffffff;
   font-family: Montserrat;
   font-size: 40px;
   font-style: normal;
@@ -142,7 +142,7 @@ a:hover {
 
 .faq_hero_button {
   border-radius: 8px;
-  background: #F3EFEF;
+  background: #f3efef;
   padding: 9px 20px;
   display: flex;
   flex-direction: row;
@@ -164,7 +164,7 @@ a:hover {
   text-decoration: none;
 }
 .faq_hero_button__text {
-  color: #3A3939;
+  color: #3a3939;
   font-family: Montserrat;
   font-size: 18px;
   font-style: normal;
@@ -332,26 +332,26 @@ a:hover {
 }
 
 .faq_info {
-  background: #F6EACE;
+  background: #f6eace;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-evenly;
-  padding: 32px 0 48px;
+  padding: 32px 16px 48px;
   box-sizing: border-box;
-  flex-wrap: wrap;
   gap: 16px;
 }
 
 .faq_info_block {
-  background: #BEA568;
+  background: #bea568;
   padding: 16px;
   box-sizing: border-box;
   border-radius: 8px;
+  max-width: 806px;
+  width: 100%;
 }
 
 .faq_info_block_title {
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
   font-size: 18px;
   font-weight: 400;
@@ -366,6 +366,16 @@ a:hover {
   padding: 0;
   margin: 0;
   color: #fff;
+  padding: 0 16px;
+}
+
+.faq_list li {
+  text-align: center;
+}
+.faq_info_block_text {
+  color: #fff;
+  padding: 0 16px;
+  text-align: center;
 }
 
 .faq_item {
@@ -575,9 +585,9 @@ a:hover {
     display: none;
   }
 
-    .faq_info {
-  gap: 16px;
-}
+  .faq_info {
+    gap: 16px;
+  }
 }
 
 @media screen and (max-width: 839px) {
@@ -660,7 +670,7 @@ a:hover {
     text-align: center;
   }
 
-    .faq_hero {
+  .faq_hero {
     flex-direction: column;
     gap: 16px;
     align-items: center;

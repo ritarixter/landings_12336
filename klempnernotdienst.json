@@ -1,0 +1,822 @@
+{
+  "theme": "theme-plumber",
+  "title": "Ihr 24-Stunden Klempner Notdienst in %city%",
+  "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in %city% ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
+  "phone": "+49 123 456 789",
+  "header": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/SantechnicaServiceLogo.png/public",
+    "navigation": [
+      {
+        "text": "Strategie",
+        "href": "/#strategie"
+      },
+      {
+        "text": "Vorteile",
+        "href": "/#vorteile"
+      },
+      {
+        "text": "FAQ",
+        "href": "/faq.html"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/#kontakt"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "id": "strategie",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "title": "Ihr 24-Stunden Klempner Notdienst in %city%",
+      "description": "Wasserrohrbruch, verstopfter Abfluss oder Heizungsausfall? Unser ortsansässiger Klempner Notdienst in %city% ist Ihr zuverlässiger Ansprechpartner – 24 Stunden täglich, 365 Tage im Jahr.",
+      "button": {
+        "text": "+49 123 456 789",
+        "href": "tel:+49123456789"
+      }
+    },
+    "advantage": {
+      "id": "vorteile",
+      "title": "Kurze Bullet-Vorteile",
+      "mainImg": "",
+      "advantages": [
+        {
+          "img": "",
+          "text": "24h erreichbar – auch nachts, am Wochenende und an Feiertagen"
+        },
+        {
+          "img": "",
+          "text": "Kurze Anfahrtszeiten durch regionale Monteure"
+        },
+        {
+          "img": "",
+          "text": "Professionelles Werkzeug und moderne Technik"
+        },
+        {
+          "img": "",
+          "text": "Faire und transparente Preise ohne versteckte Kosten"
+        },
+        {
+          "img": "",
+          "text": "Jahrelange Erfahrung im Sanitärbereich"
+        },
+        {
+          "img": "",
+          "text": "Schnelle, saubere und zuverlässige Arbeit"
+        }
+      ]
+    },
+    "faqBlock": {
+      "id": "faq",
+      "title": "FAQ",
+      "mainImg": "",
+      "items": [
+        {
+          "img": "",
+          "text": "Rohrbruch",
+          "href": "faq.html/1"
+        },
+        {
+          "img": "",
+          "text": "Toilette verstopft",
+          "href": "faq.html/2"
+        },
+        {
+          "text": "Küchenspüle verstopft",
+          "href": "faq.html"
+        },
+        {
+          "text": "Wasserhahn tropft",
+          "href": "faq.html"
+        },
+        {
+          "text": "Spüle undicht",
+          "href": "faq.html"
+        },
+        {
+          "text": "Wasserleitung eingefroren",
+          "href": "faq.html"
+        },
+        {
+          "text": "Rückstau aus Abwasser",
+          "href": "faq.html"
+        },
+        {
+          "text": "Heizungsausfall",
+          "href": "faq.html"
+        },
+        {
+          "text": "Spülkasten defekt",
+          "href": "faq.html"
+        },
+        {
+          "text": "Boiler defekt",
+          "href": "faq.html"
+        },
+        {
+          "text": "Abfluss stinkt",
+          "href": "faq.html"
+        },
+        {
+          "text": "Leitung klopft oder vibriert",
+          "href": "faq.html"
+        },
+        {
+          "text": "Regenabfluss verstopft",
+          "href": "faq.html"
+        },
+        {
+          "text": "Wasserausfall",
+          "href": "faq.html"
+        },
+        {
+          "text": "Waschmaschine anschließen",
+          "href": "faq.html"
+        },
+        {
+          "text": "Wasserschaden",
+          "href": "faq.html"
+        }
+      ]
+    },
+    "contact": {
+      "id": "kontakt",
+      "title": "Jetzt anrufen – wir kommen sofort!",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "button": {
+        "text": "Jetzt anrufen",
+        "href": "tel:+49123456789"
+      },
+      "rating": {
+        "title": "5.0 - Sehr empfehlenswert",
+        "description": "Ihr Partner für den 24-Stunden Klempner Notdienst in %city%"
+      }
+    }
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "sections": [
+      {
+        "id": 1,
+        "title": "Rohrbruch in %city%? Jetzt schnellen Klempner Notdienst rufen!",
+        "subtitle": "Ein Rohrbruch ist einer der schwerwiegendsten Sanitär-Notfälle im Haushalt. Ob geplatzte Leitung, nasse Wände oder überschwemmter Keller – hier zählt jede Minute. Unser ortsansässiger Klempner Notdienst in %city% ist rund um die Uhr für Sie erreichbar und innerhalb kürzester Zeit vor Ort, um größere Schäden zu vermeiden.\n\nWir kümmern uns um Leckortung, Sofortmaßnahmen, die Reparatur der Wasserleitung und die Kommunikation mit Ihrer Versicherung.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Was tun bei Rohrbruch?",
+            "items": [
+              "Wasserzufuhr abstellen: Drehen Sie sofort den Hauptwasserhahn ab.",
+              "Strom abschalten: Besonders bei Wasseraustritt in Wandnähe zu Steckdosen oder Geräten.",
+              "Wasser auffangen und dokumentieren: Fotos machen – hilfreich für die Versicherung.",
+              "Unseren Klempner Notdienst anrufen: Wir sind in %city% in Kürze bei Ihnen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Rohrbruch in %city%",
+            "items": [
+              "24h Notdienst bei akuten Rohrbrüchen.",
+              "Schnelle Leckortung (auch ohne Aufstemmen).",
+              "Absperrung, Entleerung und Absicherung der Leitung.",
+              "Fachgerechte Reparatur oder Austausch der defekten Leitung.",
+              "Rückbau von beschädigten Armaturen und Rohren.",
+              "Koordination mit Trocknungsfirmen & Versicherungen.",
+              "Dokumentation für Schadensmeldung."
+            ],
+            "underTitle": "Unsere erfahrenen Klempner aus %city% arbeiten mit modernen Ortungsgeräten und beheben selbst versteckte Leitungsbrüche effizient und mit minimalem Aufwand."
+          },
+          {
+            "type": "list",
+            "title": "Häufige Fragen (FAQ)",
+            "items": [
+              "Wie schnell ist der Klempner bei mir vor Ort? In der Regel sind wir innerhalb von 30–60 Minuten bei Ihnen in %city%, je nach Tageszeit und Verkehrslage.",
+              "Übernimmt die Versicherung die Kosten bei Rohrbruch? In vielen Fällen ja. Wir dokumentieren den Schaden fachgerecht und helfen Ihnen bei der Abwicklung mit Ihrer Gebäude- oder Hausratversicherung..",
+              "Muss bei der Lecksuche die Wand aufgestemmt werden? Nicht immer. Dank moderner Ortungstechnik finden wir viele Lecks zerstörungsfrei."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Verstopfte Toilette in %city%? Wir sind sofort für Sie da!",
+        "subtitle": "Wenn das Wasser nicht mehr abläuft oder die Toilette überzulaufen droht, ist schnelle Hilfe gefragt. Eine verstopfte Toilette ist nicht nur unangenehm, sondern kann auch zu Wasserschäden und hygienischen Problemen führen. Unser ortsansässiger Klempner Notdienst in %city% steht Ihnen rund um die Uhr zur Verfügung – auch am Wochenende und an Feiertagen.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Typische Anzeichen einer WC-Verstopfung",
+            "items": [
+              "Spülwasser steigt hoch oder läuft nur langsam ab.",
+              "Gurgelnde Geräusche beim Spülen.",
+              "Wiederkehrender Rückstau in der Toilette.",
+              "Unangenehmer Geruch aus dem Abfluss.",
+              "Wasser tritt aus dem Toilettenfuß aus."
+            ],
+            "underTitle": "Sobald Sie eines dieser Symptome bemerken, sollten Sie nicht lange zögern. Oft wird es mit jeder Spülung schlimmer – und ein Überlaufen ist schnell passiert."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei verstopfter Toilette in %city%",
+            "items": [
+              "24h Notdienst für akute WC-Verstopfungen.",
+              "Fachgerechte Rohrreinigung mit Spirale oder Hochdrucktechnik.",
+              "Kameraeinsatz zur Ursachenanalyse bei wiederkehrenden Problemen.",
+              "Reinigung und Desinfektion nach Rückstau.",
+              "Verstopfungsbeseitigung ohne Schäden an Keramik oder Rohren.",
+              "Ursachenanalyse (z. B. Fremdkörper, Kalk, Wurzeleinwuchs)."
+            ],
+            "underTitle": "Unsere Klempner aus %city% arbeiten sauber, schnell und diskret – ganz gleich, ob im Privathaushalt, im Mehrfamilienhaus oder im Gewerbebetrieb."
+          },
+          {
+            "type": "list",
+            "title": "Häufige Fragen (FAQ)",
+            "items": [
+              "Wie schnell kommt der Notdienst bei einer verstopften Toilette? Wir sind in der Regel innerhalb von 30–60 Minuten bei Ihnen vor Ort in %city% – je nach Lage und Tageszeit.",
+              "Was kostet die Beseitigung einer Toilettenverstopfung? Unsere Preise sind transparent und fair. In einem kurzen Telefonat geben wir Ihnen eine erste Einschätzung – ohne versteckte Zusatzkosten.",
+              "Kann ich die Toilette auch ohne Reinigung sofort wieder benutzen? Ja – in der Regel ist die Toilette nach unserer Arbeit sofort wieder voll funktionsfähig."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Verstopfter Duschabfluss in %city%? Unser Notdienst hilft sofort",
+        "subtitle": "Wenn das Wasser in der Dusche nicht mehr abläuft oder nur noch langsam verschwindet, ist schnelle Hilfe gefragt. Meist steckt eine hartnäckige Verstopfung im Abfluss oder im Siphon dahinter – verursacht durch Haare, Seifenreste oder Kalk. Unser Klempner Notdienst aus %city% beseitigt Verstopfungen professionell, schnell und ohne Schäden an Fliesen oder Leitungen.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Symptome einer verstopften Dusche",
+            "items": [
+              "Stehendes oder langsam ablaufendes Wasser beim Duschen.",
+              "Gluckernde Geräusche im Abfluss.",
+              "Rückstau in der Duschwanne.",
+              "Unangenehmer Geruch aus dem Duschabfluss."
+            ],
+            "underTitle": "Wenn eines dieser Anzeichen auftritt, handeln Sie am besten sofort."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei verstopfter Dusche in %city%",
+            "items": [
+              "24h Notdienst bei akuten Verstopfungen.",
+              "Reinigung von Siphon und Abflussleitungen.",
+              "Einsatz professioneller Rohrspiralen & Hochdrucktechnik.",
+              "Schonende Beseitigung ohne chemische Mittel.",
+              "Kamerakontrolle bei tieferliegenden Blockaden.",
+              "Geruchsbeseitigung und Desinfektion bei Bedarf."
+            ],
+            "underTitle": "Wir arbeiten sauber, schnell und mit modernen Geräten, damit Ihre Dusche wieder frei ist."
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Kann ich den Duschabfluss selbst reinigen? Bei leichten Verstopfungen kann das Entfernen des Siphons helfen. Wenn das Problem bestehen bleibt: Jetzt anrufen.",
+              "Wie schnell sind Sie da? In der Regel innerhalb von 30–60 Minuten überall in %city% und Umgebung."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Verstopfte Küchenspüle in %city% – Jetzt Notdienst anfordern",
+        "subtitle": "Wenn das Spülwasser in der Küche nicht mehr abläuft, ist schnelle Hilfe gefragt. Meist sind Fett- und Speisereste die Ursache für eine hartnäckige Verstopfung im Siphon oder in der Leitung. Unser ortsansässiger Klempner Notdienst in %city% löst das Problem schnell und zuverlässig – auch nachts und am Wochenende.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Häufige Ursachen für eine verstopfte Küchenspüle",
+            "items": [
+              "Fettablagerungen in der Leitung.",
+              "Speisereste und Bioabfälle.",
+              "Kalk oder Seifenrückstände.",
+              "Verengte oder falsch verlegte Rohre."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Spülverstopfung in %city%",
+            "items": [
+              "24h Notdienst bei Abflussproblemen in der Küche.",
+              "Fachgerechte Rohrreinigung mit Spirale oder Drucktechnik.",
+              "Reinigung des Siphons und der Zuleitungen.",
+              "Geruchsbeseitigung und Desinfektion.",
+              "Prüfung auf wiederkehrende Ursachen (z. B. Rohrneigung)."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Was kostet die Reinigung einer verstopften Küchenspüle? Unsere Preise sind fair und transparent – die Kosten richten sich nach Aufwand. Wir nennen Ihnen am Telefon eine Einschätzung.",
+              "Wie schnell sind Sie bei mir in %city%? In der Regel innerhalb von 30–60 Minuten – je nach Tageszeit und Einsatzort.",
+              "Warum Sie unseren Notdienst rufen sollten: Chemische Reiniger helfen meist nur oberflächlich und beschädigen langfristig die Leitung. Wir arbeiten mit professionellem Gerät und lösen das Problem dauerhaft und schonend."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Tropfender Wasserhahn in %city%? Wir helfen sofort!",
+        "subtitle": "Ein tropfender Wasserhahn ist mehr als nur ein Ärgernis – er verschwendet Wasser, erhöht Ihre Kosten und kann langfristig Schäden verursachen. Unser Klempner Notdienst aus %city% steht Ihnen rund um die Uhr zur Verfügung, um defekte Armaturen schnell und zuverlässig zu reparieren oder auszutauschen.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Ursachen für tropfende Wasserhähne",
+            "items": [
+              "Verschlissene Dichtungen.",
+              "Verkalkte oder beschädigte Ventile.",
+              "Defekte Kartusche bei Einhebelmischern.",
+              "Lockere oder undichte Gewinde."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei tropfenden Armaturen",
+            "items": [
+              "24h Notdienst für Wasserhahn-Reparaturen.",
+              "Austausch von Dichtungen, Ventilen & Kartuschen.",
+              "Komplettaustausch der Armatur bei Bedarf.",
+              "Prüfung auf Folgeschäden (z. B. Feuchtigkeit im Unterschrank).",
+              "Einsatz von Markenersatzteilen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell sind Sie vor Ort? In der Regel innerhalb von 30–60 Minuten im gesamten Stadtgebiet von %city%.",
+              "Kann ich den Wasserhahn auch selbst reparieren? Das ist möglich, aber bei modernen Armaturen oft schwierig. Wir erledigen das fachgerecht und ohne Risiko.",
+              "Warum jetzt handeln? Ein tropfender Hahn kann pro Jahr tausende Liter Wasser verschwenden – und kleine Undichtigkeiten führen schnell zu größeren Problemen. Lassen Sie den Schaden frühzeitig von einem Fachmann aus %city% beheben."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Spüle undicht in %city%? Wir helfen sofort und zuverlässig",
+        "subtitle": "Wenn es unter der Spüle tropft, ist meist ein defekter Siphon, eine undichte Dichtung oder eine lose Verschraubung die Ursache. Unser Klempner Notdienst in %city% kommt kurzfristig zu Ihnen und behebt den Schaden fachgerecht – bevor Feuchtigkeitsschäden im Unterschrank oder Schimmel entstehen.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Typische Ursachen für eine undichte Spüle",
+            "items": [
+              "Poröse Dichtungen.",
+              "Undichte Rohrverbindungen oder Schlauchanschlüsse.",
+              "Riss im Siphon oder Abflussrohr.",
+              "Falsch montierte Armaturen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Spülenundichtigkeiten in %city%",
+            "items": [
+              "Schnelle Lecksuche & Abdichtung.",
+              "Austausch defekter Siphons, Rohre oder Dichtungen.",
+              "Neu-Verlegung von Spülenanschlüssen bei Bedarf.",
+              "Trocknung & Reinigung nach Wasseraustritt.",
+              "Beratung zur Vermeidung erneuter Schäden."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie erkenne ich, ob meine Spüle undicht ist? Wasser im Unterschrank, feuchte Ecken oder ein modriger Geruch sind typische Warnzeichen.",
+              "Muss die Küche ausgebaut werden? In den meisten Fällen nicht – wir reparieren direkt unter der Spüle mit minimalem Aufwand.",
+              "Warum sofort handeln? Feuchtigkeit im Küchenschrank kann zu Schimmel, Gerüchen und langfristigen Materialschäden führen. Unser Notdienst aus %city% behebt die Ursache schnell und nachhaltig."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Eingefrorene Wasserleitung in %city%? Jetzt Klempner Notdienst rufen",
+        "subtitle": "Wenn im Winter plötzlich kein Wasser mehr fließt, ist oft eine eingefrorene Leitung die Ursache. Das kann zu Leitungsplatzern und erheblichen Wasserschäden führen. Unser Klempner Notdienst aus %city% ist auf das sichere und schnelle Auftauen von Rohrleitungen spezialisiert – rund um die Uhr, auch an Feiertagen.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Warnzeichen für eingefrorene Rohre",
+            "items": [
+              "Kein Wasserfluss in bestimmten Leitungen.",
+              "Kalte oder gefrorene Stellen an sichtbaren Rohren.",
+              "Gurgelnde Geräusche beim Öffnen der Armatur.",
+              "Eiskristalle oder Frostspuren an freiliegenden Rohren."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei eingefrorenen Leitungen in %city%",
+            "items": [
+              "24h Notdienst zum Auftauen eingefrorener Wasserleitungen.",
+              "Verwendung von Heizkabeln, Warmluftgebläsen oder Dampftechnik.",
+              "Druckprüfung auf Leitungsschäden.",
+              "Austausch beschädigter Rohrstücke.",
+              "Beratung zur künftigen Frostsicherung."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell kommt der Notdienst? Innerhalb von 30–60 Minuten sind wir in der Regel bei Ihnen in %city% vor Ort.",
+              "Was kostet das Auftauen eingefrorener Rohre? Wir machen Ihnen ein transparentes Angebot je nach Zugänglichkeit und Leitungslänge.",
+              "Warum Sie nicht selbst auftauen sollten: Unkontrolliertes Erwärmen (z. B. mit offenem Feuer oder Heißwasser) kann die Leitung beschädigen oder sogar zum Rohrbruch führen. Unsere Fachkräfte aus %city% gehen systematisch, sicher und effizient vor."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Rückstau im Abwassersystem in %city% – Jetzt Notdienst rufen",
+        "subtitle": "Ein Rückstau im Abwassersystem kann schnell zu einem hygienischen Notfall werden. Wenn Wasser aus Toilette, Dusche oder Bodenabläufen zurückdrückt, sind Verstopfungen oder Probleme in der Grundleitung meist die Ursache. Unser Klempner Notdienst aus %city% beseitigt Rückstaus schnell, professionell und zuverlässig.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Typische Symptome für Abwasserrückstau",
+            "items": [
+              "Wasser läuft in Toilette, Dusche oder Waschbecken hoch.",
+              "Gurgelgeräusche in den Abflüssen.",
+              "Übler Geruch aus den Leitungen.",
+              "Wasser im Keller nach starkem Regen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Rückstau in %city%",
+            "items": [
+              "24h Notdienst bei Rückstau und Abwasserproblemen.",
+              "Sofortige Abflussreinigung & Spülung der Rohre.",
+              "Einsatz von Hochdruck- und Kameratechnik.",
+              "Rückstausicherung und Sanierung der Ursache.",
+              "Empfehlungen zur Rückstausicherung im Gebäude."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wer zahlt bei einem Rückstau? In vielen Fällen übernimmt die Gebäudeversicherung den Schaden. Wir dokumentieren alle Maßnahmen für Ihre Schadensmeldung.",
+              "Kann ich den Rückstau selbst beheben? Nur bei leichten Verstopfungen – bei echtem Rückstau ist professionelle Technik notwendig.",
+              "Warum Sie schnell handeln sollten: Abwasserrückstau bedeutet nicht nur unangenehme Gerüche – es besteht Gesundheitsgefahr. Unsere Fachkräfte aus %city% sind geschult, um hygienisch, schnell und effektiv zu helfen."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Heizung defekt in %city%? Wir bringen die Wärme zurück",
+        "subtitle": "Wenn die Heizung im Winter plötzlich ausfällt, ist schnelle Hilfe gefragt. Kalte Räume, tropfende Heizkörper oder fehlender Wasserdruck im System sind typische Anzeichen. Unser Klempner Notdienst aus %city% ist rund um die Uhr für Sie im Einsatz – damit Sie nicht frieren müssen.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Typische Probleme bei Heizungsstörungen",
+            "items": [
+              "Heizkörper bleiben kalt.",
+              "Druckverlust in der Anlage.",
+              "Heizkörper tropfen oder gluckern.",
+              "Steuerung reagiert nicht mehr.",
+              "Kein Warmwasser."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Heizungsausfall in %city%",
+            "items": [
+              "Notdienst bei kalten Heizkörpern oder ausgefallener Anlage.",
+              "Entlüften und Nachfüllen der Heizungsanlage.",
+              "Reparatur defekter Thermostatventile oder Pumpen.",
+              "Austausch defekter Heizkörper oder Verschraubungen.",
+              "Fehlerdiagnose an Steuergeräten oder Heizkesseln."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell sind Sie da, wenn die Heizung ausfällt? Innerhalb von 30–60 Minuten im gesamten Stadtgebiet von %city%.",
+              "Können Sie auch in Mietwohnungen helfen? Ja, gerne – auch in Rücksprache mit dem Vermieter oder der Hausverwaltung.",
+              "Warum unser Notdienst aus %city% die richtige Wahl ist: Wir kennen die gängigen Heizsysteme in der Region und führen Ersatzteile direkt mit. In vielen Fällen ist Ihre Heizung bereits nach dem ersten Einsatz wieder einsatzbereit."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Spülkasten defekt in %city%? Wir kümmern uns darum",
+        "subtitle": "Wenn der Spülkasten Ihrer Toilette ständig Wasser nachlaufen lässt, sich nicht mehr richtig füllt oder die Spülung klemmt, ist eine Reparatur dringend nötig. Unser Klempner Notdienst in %city% hilft schnell, fachgerecht und mit Ersatzteilen führender Hersteller.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Typische Probleme bei defekten Spülkästen",
+            "items": [
+              "Wasser läuft dauerhaft nach.",
+              "Spülung funktioniert nicht.",
+              "Spülkasten füllt sich nicht oder nur langsam.",
+              "WC-Drücker bleibt hängen oder reagiert nicht."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Spülkastenschäden in %city%",
+            "items": [
+              "Reparatur oder Austausch des Spülkasteneinsatzes.",
+              "Austausch von Hebel, Drücker oder Dichtungen.",
+              "Reinigung bei Kalk- oder Schmutzablagerungen.",
+              "Komplettaustausch bei alten oder undichten Kästen.",
+              "Ersatzteilbeschaffung auch bei Unterputzlösungen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell sind Sie bei mir in %city%? In der Regel innerhalb von 30–60 Minuten nach Ihrem Anruf.",
+              "Welche Ersatzteile werden verwendet? Wir setzen auf langlebige Markenkomponenten – passend für alle gängigen Spülkastentypen.",
+              "Warum Sie uns beauftragen sollten: Ein defekter Spülkasten kann auf Dauer Wasserverluste von mehreren hundert Litern pro Tag verursachen. Wir beheben den Schaden sofort – sauber, schnell und mit Markenqualität."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Boiler oder Durchlauferhitzer defekt in %city%? Wir helfen sofort!",
+        "subtitle": "Wenn kein Warmwasser mehr kommt, ist das oft ein technisches Problem mit dem Boiler oder Durchlauferhitzer. Unser Klempner Notdienst in %city% findet die Ursache und behebt das Problem schnell – damit Sie wieder warm duschen und waschen können.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Häufige Probleme bei Boiler-Defekten",
+            "items": [
+              "Kein oder nur lauwarmes Wasser.",
+              "Boiler schaltet sich nicht ein oder tropft.",
+              "Durchlauferhitzer springt nicht an.",
+              "Wasser wird unregelmäßig heiß oder kalt."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Warmwasserproblemen in %city%",
+            "items": [
+              "24h Notdienst bei Ausfall von Warmwassergeräten.",
+              "Diagnose & Reparatur von Boiler, Speicher & Durchlauferhitzer.",
+              "Austausch defekter Heizstäbe, Thermostate oder Ventile.",
+              "Neuinstallation bei irreparablen Geräten.",
+              "Prüfung von Druck, Verkalkung und Stromzufuhr."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell sind Sie bei mir, wenn der Boiler streikt? In der Regel innerhalb von 30–60 Minuten im gesamten Stadtgebiet von %city%.",
+              "Muss das Gerät komplett ersetzt werden? Nicht unbedingt. Wir prüfen immer zuerst, ob eine Reparatur möglich und wirtschaftlich ist.",
+              "Warum Sie uns kontaktieren sollten: Wir kennen die gängigen Gerätetypen und führen viele Ersatzteile mit – so ist Ihr Warmwasser oft noch am selben Tag wieder verfügbar. Unser Notdienst aus %city% arbeitet schnell, zuverlässig und sauber."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Übler Geruch aus dem Abfluss in %city%? Wir schaffen Abhilfe",
+        "subtitle": "Wenn es aus dem Waschbecken, der Dusche oder der Spüle unangenehm riecht, liegt meist eine organische Verstopfung, stehendes Wasser oder ein ausgetrockneter Siphon vor. Unser Klempner Notdienst aus %city% lokalisiert die Ursache und sorgt für dauerhaft frische Luft – auch bei tieferliegenden Problemen.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Mögliche Ursachen für Abflussgeruch",
+            "items": [
+              "Rückstände aus Fett, Seife oder Haaren.",
+              "Ausgetrockneter Siphon bei selten genutzten Leitungen.",
+              "Bakterielle Zersetzungsprozesse.",
+              "Fehlerhafte Belüftung der Rohrleitung."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Abflussgeruch in %city%",
+            "items": [
+              "Reinigung und Spülung der betroffenen Abflüsse.",
+              "Austausch oder Abdichtung von Siphons.",
+              "Desinfektion der Leitungen.",
+              "Kameraeinspektion bei tieferliegenden Ursachen.",
+              "Optimierung der Belüftung oder Installation von Rohrbelüftern."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell sind Sie bei mir vor Ort? Wir sind in der Regel innerhalb von 30–60 Minuten bei Ihnen in %city%.",
+              "Was kostet die Geruchsbeseitigung? Je nach Ursache und Aufwand. Wir geben Ihnen vorab eine Einschätzung.",
+              "Warum Sie auf professionelle Hilfe setzen sollten: Geruchssprays oder Hausmittel bekämpfen nur die Symptome. Wir beseitigen die Ursache – damit der Geruch dauerhaft verschwindet."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Klopfende oder vibrierende Leitung in %city%? Jetzt handeln!",
+        "subtitle": "Wenn es in den Wasserleitungen klopft, rattert oder vibriert, liegt meist ein Problem mit dem Wasserdruck, der Befestigung oder defekten Ventilen vor. Unser Klempner Notdienst aus %city% analysiert die Ursache vor Ort und schafft schnelle, dauerhafte Abhilfe – bevor es zu einem Rohrschaden kommt.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Typische Ursachen für Klopf- und Vibrationsgeräusche",
+            "items": [
+              "Wasserschlag durch plötzlichen Druckabfall.",
+              "Lockere Rohrschellen oder unzureichende Befestigungen.",
+              "Defekte oder falsch eingestellte Ventile.",
+              "Druckschwankungen im Leitungssystem."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei klopfenden Leitungen in %city%",
+            "items": [
+              "Analyse der Druckverhältnisse im Leitungssystem.",
+              "Austausch oder Einstellung von Ventilen.",
+              "Nachjustierung und Befestigung von Rohrschellen.",
+              "Einbau von Druckminderern oder Ausgleichsgefäßen.",
+              "Beratung zur langfristigen Druckstabilisierung."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Sind klopfende Leitungen gefährlich? Ja – wiederkehrender Wasserschlag kann die Rohrverbindungen beschädigen.",
+              "Wie schnell sind Sie bei mir? In der Regel innerhalb von 30–60 Minuten nach Anruf im gesamten Stadtgebiet von %city%.",
+              "Warum Sie bei ungewöhnlichen Rohrgeräuschen handeln sollten: Klopfende Leitungen können langfristig Materialermüdung und Schäden verursachen. Unsere Fachkräfte aus %city% sorgen für Ruhe in Ihren Wänden – zuverlässig und sicher."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Verstopfter Regenabfluss in %city%? Jetzt handeln!",
+        "subtitle": "Wenn das Regenwasser nicht mehr abfließt, kann es zu Überschwemmungen, Dachschäden und feuchten Kellern kommen. Unser Klempner Notdienst aus %city% ist auf die Reinigung und Freilegung von Regenrinnen, Fallrohren und Regenleitungen spezialisiert – rund um die Uhr.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Ursachen für verstopfte Regenwasserleitungen",
+            "items": [
+              "Blätter, Moos oder Äste in der Dachrinne.",
+              "Verstopfung im Fallrohr oder der Grundleitung.",
+              "Fremdkörper (z. B. Vogelnester, Plastik).",
+              "Rückstau durch unterdimensionierte Entwässerung."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Regenabfluss-Problemen in %city%",
+            "items": [
+              "Reinigung von Dachrinnen, Fallrohren und Abläufen.",
+              "Hochdruckspülung bei tieferliegenden Verstopfungen.",
+              "Einbau von Laubfanggittern & Rückstausicherungen.",
+              "Prüfung auf Dachschäden durch Stauwasser.",
+              "Beratung zu nachhaltiger Dachentwässerung."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell helfen Sie bei verstopftem Regenabfluss? In der Regel sind wir innerhalb von 30–60 Minuten vor Ort.",
+              "Was kostet die Reinigung? Wir machen Ihnen ein faires Angebot je nach Aufwand und Zugänglichkeit.",
+              "Warum Sie nicht warten sollten: Schon eine kleine Verstopfung kann bei starkem Regen zu erheblichen Schäden führen. Wir beseitigen die Ursache schnell und nachhaltig – direkt bei Ihnen in %city%."
+            ],
+            "underTitle": "Schon eine kleine Verstopfung kann bei starkem Regen zu erheblichen Schäden führen. Wir beseitigen die Ursache schnell und nachhaltig – direkt bei Ihnen in %city%."
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Kein Wasser in %city%? Wir finden und beheben die Ursache",
+        "subtitle": "Wenn plötzlich kein Wasser mehr aus dem Hahn kommt, kann das viele Ursachen haben: Rohrbruch, defektes Absperrventil, Probleme am Hausanschluss oder in der Anlage. Unser Klempner Notdienst in %city% findet schnell die Ursache und stellt die Wasserversorgung fachgerecht wieder her.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Mögliche Gründe für Wasserausfall",
+            "items": [
+              "Undichtigkeit oder Bruch in der Leitung.",
+              "Absperrventil versehentlich geschlossen.",
+              "Defekter Druckminderer.",
+              "Rückflussverhinderer blockiert.",
+              "Störung beim Versorger (wir prüfen das für Sie)."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Wasserausfall in %city%",
+            "items": [
+              "Schnelle Ursachenanalyse vor Ort.",
+              "Druckprüfung und Sichtprüfung der Installation.",
+              "Öffnung & Prüfung von Ventilen und Anschlüssen.",
+              "Leckortung bei verdeckten Rohrproblemen.",
+              "Kontaktaufnahme mit Versorger bei übergeordnetem Problem."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell kann ich wieder Wasser haben? Oft schon nach dem ersten Einsatz – je nach Ursache.",
+              "Was kostet die Analyse? Wir bieten Ihnen transparente Preise nach Aufwand. Eine erste Einschätzung erhalten Sie telefonisch.",
+              "Warum wir die richtige Wahl sind: Wir reagieren schnell, kennen die typischen Hausinstallationen in %city% und finden die Lösung – sauber, effizient und mit minimalem Aufwand für Sie."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Waschmaschine oder Spülmaschine anschließen in %city%",
+        "subtitle": "Sie möchten eine neue Waschmaschine oder Spülmaschine anschließen lassen? Unser Klempner Notdienst aus %city% übernimmt die fachgerechte Installation – sicher, schnell und mit Blick auf alle Vorschriften. Ideal bei Neuanschlüssen, Umzügen oder nach Wasserschäden.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Unsere Leistungen beim Geräteanschluss",
+            "items": [
+              "Anschluss von Waschmaschine oder Spülmaschine.",
+              "Verlängerung von Wasser- und Abwasserleitungen.",
+              "Austausch defekter Eckventile oder Schläuche.",
+              "Absicherung gegen Rückstau oder Wasserschäden.",
+              "Überprüfung auf Dichtigkeit & Funktion."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Wann ein Klempner sinnvoll ist",
+            "items": [
+              "Kein vorhandener Geräteanschluss im Raum.",
+              "Alter Wasseranschluss muss erneuert werden.",
+              "Abflussanschluss ist zu weit entfernt.",
+              "Mehrere Geräte sollen parallel angeschlossen werden."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Machen Sie das auch in Mietwohnungen? Ja, gerne – wir arbeiten sauber und ohne bauliche Eingriffe.",
+              "Wie lange dauert der Anschluss? Meist 30 bis 60 Minuten – je nach örtlicher Gegebenheit.",
+              "Warum wir die richtige Wahl sind: Unser Team in %city% sorgt für eine sichere und normgerechte Montage – ganz ohne Risiko für Ihre Immobilie oder Ihr Gerät."
+            ],
+            "underTitle": "Unser Team in %city% sorgt für eine sichere und normgerechte Montage – ganz ohne Risiko für Ihre Immobilie oder Ihr Gerät."
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Wasserschaden in %city%? Jetzt Klempner Notdienst rufen",
+        "subtitle": "Ein Wasserschaden ist einer der häufigsten und folgenschwersten Notfälle im Haushalt. Ob Rohrbruch, undichte Leitung oder Rückstau – wir sind schnell bei Ihnen, um den Schaden zu begrenzen und die Ursache dauerhaft zu beheben. Unser Klempner Notdienst in %city% steht Ihnen 24/7 zur Verfügung.",
+        "content": [
+          {
+            "type": "list",
+            "title": "Typische Ursachen für Wasserschäden",
+            "items": [
+              "Rohrbruch oder geplatzte Leitung.",
+              "Verstopfter Abfluss mit Rückstau.",
+              "Undichter Boiler oder Heizkörper.",
+              "Defekter Spülkasten oder Waschmaschinenanschluss."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei Wasserschäden in %city%",
+            "items": [
+              "24h Soforthilfe bei akutem Wasseraustritt.",
+              "Leckortung mit modernster Technik.",
+              "Absperren & Entleeren betroffener Leitungen.",
+              "Reparatur oder Austausch defekter Rohre.",
+              "Dokumentation für Versicherung & Hausverwaltung.",
+              "Empfehlung zuverlässiger Trocknungsfirmen."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "FAQ",
+            "items": [
+              "Wie schnell sind Sie bei einem Wasserschaden da? In der Regel innerhalb von 30–60 Minuten in ganz %city%.",
+              "Was ist mit der Versicherung? Wir dokumentieren alles für Ihre Schadensmeldung – inkl. Fotos und Schadensbericht.",
+              "Warum schnelle Hilfe entscheidend ist: Je früher gehandelt wird, desto geringer sind die Folgeschäden. Unser Team aus %city% ist auf schnelle, saubere und effektive Maßnahmen spezialisiert – damit Sie bald wieder sorgenfrei wohnen können."
+            ],
+            "underTitle": "Je früher gehandelt wird, desto geringer sind die Folgeschäden. Unser Team aus %city% ist auf schnelle, saubere und effektive Maßnahmen spezialisiert – damit Sie bald wieder sorgenfrei wohnen können."
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/SantechnicaServiceLogo.png/public",
+    "links": [
+      {
+        "text": "Impressum",
+        "href": "#impressum"
+      },
+      {
+        "text": "Datenschutz",
+        "href": "#datenschutz"
+      },
+      {
+        "text": "AGB",
+        "href": "#agb"
+      }
+    ]
+  }
+}
