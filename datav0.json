@@ -1,0 +1,567 @@
+{
+  "theme": "theme-glass",
+  "header": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/GlassServiceLogo.png/public",
+    "navigation": [
+      {
+        "text": "Strategie",
+        "href": "/#strategie"
+      },
+      {
+        "text": "Vorteile",
+        "href": "/#vorteile"
+      },
+      {
+        "text": "FAQ",
+        "href": "/faq.html"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/#kontakt"
+      }
+    ]
+  },
+  "homepage": {
+    "hero": {
+      "id": "strategie",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "title": "Ihr 24-Stunden Glas Notdienst in %city%",
+      "description": "Ihr Glas-Notdienst in %city% – 24 Stunden erreichbar, seit 17 Jahren im Einsatz. Schnelle, professionelle Notverglasung bei Einbruch, Sturm oder Glasbruch.",
+      "button": {
+        "text": "+49 123 456 789",
+        "href": "tel:+49123456789"
+      }
+    },
+    "advantage": {
+      "id": "vorteile",
+      "title": "Kurze Bullet-Vorteile",
+      "mainImg": "",
+      "advantages": [
+        {
+          "img": "",
+          "text": "24-Stunden-Glas-Notdienst in %city%"
+        },
+        {
+          "img": "",
+          "text": "Telefonisch sofort erreichbar – keine Warteschleifen"
+        },
+        {
+          "img": "",
+          "text": "Reparatur noch am selben Tag"
+        },
+        {
+          "img": "",
+          "text": "Transparente Preise – keine versteckten Kosten"
+        },
+        {
+          "img": "",
+          "text": "Keine Großbaustellen – wir lösen akute Probleme sofort"
+        },
+        {
+          "img": "",
+          "text": "Spezialisierung auf schnelle Hilfe im privaten und gewerblichen Bereich"
+        }
+      ]
+    },
+    "faqBlock": {
+      "id": "faq",
+      "title": "FAQ",
+      "mainImg": "",
+      "items": [
+        {
+          "img": "",
+          "text": "Notfälle und Soforthilfe",
+          "href": "faq.html"
+        },
+        {
+          "img": "",
+          "text": "Wetterschäden und Glasbruch",
+          "href": "faq.html"
+        },
+        {
+          "text": "Geschäfte und öffentliche Gebäude",
+          "href": "faq.html"
+        },
+        {
+          "text": "Hausverwaltungen und Mietobjekte",
+          "href": "faq.html"
+        },
+        {
+          "text": "Praxen und Büros",
+          "href": "faq.html"
+        },
+        {
+          "text": "Weitere Fälle und individuelle Lösungen",
+          "href": "faq.html"
+        }
+      ]
+    },
+    "contact": {
+      "id": "kontakt",
+      "title": "Jetzt anrufen – wir kommen sofort!",
+      "img": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/phoneService.png/public",
+      "button": {
+        "text": "Jetzt anrufen",
+        "href": "tel:+49123456789"
+      },
+      "rating": {
+        "title": "5.0 - Sehr empfehlenswert",
+        "description": "Ihr Partner für den 24-Stunden Glas Notdienst in %city%"
+      }
+    }
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "sections": [
+      {
+        "title": "Notverglasung nach Einbruch in %city%",
+        "header": "Soforthilfe bei Glasschäden – Wir sichern Ihr Gebäude professionell ab.",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Nach dem Einbruch zählt jede Minute",
+            "text": "Ein Einbruch ist nicht nur ein massiver Eingriff in Ihre Privatsphäre oder Ihre geschäftlichen Räume, sondern bringt oft auch sichtbare Schäden an Fenstern oder Glastüren mit sich. Zersplittertes Glas, klaffende Öffnungen oder eingeschlagene Schaufenster machen es dringend erforderlich, das Gebäude schnellstmöglich wieder zu sichern.\n\nDer Glasnotdienst in %city% ist genau dafür da: 24 Stunden täglich, an 365 Tagen im Jahr – schnell, zuverlässig und mit über 17 Jahren Erfahrung in der Notverglasung."
+          },
+          {
+            "type": "list",
+            "title": "Was wir nach einem Einbruch für Sie tun:",
+            "items": [
+              "Schnelle Anfahrt innerhalb kurzer Zeit",
+              "Professionelle Absicherung mit stabiler Notverglasung",
+              "Austausch von zerstörten Glaselementen durch Sicherheitsplatten / Glasersatz",
+              "Sicherung gegen erneuten Zutritt oder Witterungseinflüsse",
+              "Vorbereitung für eine spätere dauerhafte Glasreparatur"
+            ],
+            "underTitle": "Unsere Notverglasung ist nicht nur ein Provisorium, sondern eine durchdachte Lösung, die Wärmedämmung, Witterungsschutz und Sicherheit berücksichtigt."
+          },
+          {
+            "type": "list",
+            "title": "Für wen wir nach einem Einbruch tätig sind",
+            "topTitle": "Unser Glasnotdienst kommt zum Einsatz bei:",
+            "items": [
+              "Privathaushalten (z. B. Einfamilienhäuser, Wohnungen, Balkontüren)",
+              "Geschäften & Einzelhandel (Schaufenster, Glastüren, Eingangsanlagen)",
+              "Büros & Praxen (Fensterfronten, Glaswände)",
+              "Hausverwaltungen (schnelle Hilfe für Mietobjekte)",
+              "Öffentliche Einrichtungen (Schulen, Behörden, Pflegeheime etc.)"
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Sicherheit steht bei uns an erster Stelle",
+            "topTitle": "Unser Glasnotdienst kommt zum Einsatz bei:",
+            "items": [
+              "Sichere, temporäre Absicherung",
+              "Schutz vor Witterung",
+              "Schutz vor unbefugtem Eindringen",
+              "Hochwertige Materialien",
+              "Tag und Nacht im Einsatz"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Glasbruch durch Sturm oder Hagel in %city%",
+        "header": "Ihr 24-Stunden-Glasnotdienst bei wetterbedingten Glasschäden",
+        "content": [
+          {
+            "type": "list",
+            "title": "Sofortmaßnahmen bei Sturmschäden an Glas",
+            "topTitle": "Unsere Monteure kommen nach dem Schadensfall schnell zu Ihnen vor Ort und sorgen für:",
+            "items": [
+              "Absicherung der beschädigten Fenster oder Glastüren",
+              "Stabile Notverglasung mit passenden Materialien",
+              "Schutz vor Regen, Kälte, Wind und Einbruch",
+              "Gefahrenbeseitigung durch lose oder scharfe Glasteile",
+              "Beratung zur späteren Reparatur oder dauerhaften Verglasung"
+            ],
+            "underTitle": "Unsere Notverglasungen sind witterungsbeständig, stoßfest und stabil – ein sicheres Provisorium, das Sie sofort entlastet."
+          },
+          {
+            "type": "list",
+            "title": "Für wen wir nach einem Sturm tätig sind",
+            "topTitle": "Wir sichern Glasflächen in:",
+            "items": [
+              "Privathäusern & Wohnungen (Fenster, Türen, Wintergärten)",
+              "Ladengeschäften & Schaufenstern",
+              "Gewerbeimmobilien & Büros",
+              "Öffentlichen Einrichtungen (z. B. Schulen, Pflegeheime, Behörden)",
+              "Wohnanlagen & Mietobjekten – in Zusammenarbeit mit Hausverwaltungen"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "Keine Experimente – über 17 Jahre Erfahrung",
+            "text": "Wir wissen, wie schnell bei einem Sturmschaden gehandelt werden muss. Unsere erfahrenen Glasmonteure arbeiten schnell, sauber und zuverlässig – und wissen, wie man beschädigte Scheiben so absichert, dass keine Folgeschäden durch Witterung oder unbefugten Zutritt entstehen."
+          }
+        ]
+      },
+      {
+        "title": "Zerstörte Scheiben durch Vandalismus in %city%",
+        "header": "Sofortige Notverglasung bei mutwilliger Zerstörung – 24h einsatzbereit",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn jemand Ihre Scheibe einschlägt – wir kommen sofort",
+            "text": "Eingeschlagene Schaufenster, beschädigte Glastüren oder zerstörte Glaselemente durch mutwillige Gewalt – Vandalismus ist leider keine Seltenheit. Die Schäden müssen schnell behoben werden, denn offene Fenster oder zerstörte Eingänge stellen ein hohes Sicherheitsrisiko dar und schrecken Kunden ab.\n\nUnser Glasnotdienst in %city% ist in solchen Fällen rund um die Uhr erreichbar und bringt noch in derselben Nacht oder am selben Tag eine stabile Notverglasung an."
+          },
+          {
+            "type": "list",
+            "title": "Unser Service bei Vandalismusschäden",
+            "topTitle": "",
+            "items": [
+              "24h-Soforthilfe bei beschädigten Glasflächen",
+              "Sicherung von Schaufenstern, Türen, Glastrennwänden",
+              "Montage von witterungs- und einbruchsicheren Glasersatzplatten",
+              "Entfernung von Glassplittern und Reststücken",
+              "Provisorische Lösung bis zur endgültigen Neuverglasung"
+            ],
+            "underTitle": "Unsere Notverglasungen schützen Ihr Objekt effektiv vor Witterung, Diebstahl und weiteren Schäden."
+          },
+          {
+            "type": "list",
+            "title": "Häufig betroffen – hier helfen wir besonders oft:",
+            "topTitle": "",
+            "items": [
+              "Ladengeschäfte & Filialen – eingeschlagene Schaufenster oder Eingangstüren",
+              "Gewerbe- und Bürogebäude – zerstörte Glastüren oder Innenverglasungen",
+              "Öffentliche Gebäude – mutwilliger Glasbruch an Schulen, Haltestellen, Behörden",
+              "Wohngebäude & Mietobjekte – Fenster im Treppenhaus, Hauseingang, Kellertüren"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "Seit 17 Jahren Ihr Ansprechpartner für Notverglasung",
+            "text": "Unsere jahrelange Erfahrung im Bereich Glasnotdienst und Gebäudesicherung macht uns zu einem verlässlichen Partner bei Vandalismusschäden. Wir reagieren sofort und sichern Ihre Immobilie fachgerecht und stabil ab – ganz gleich, ob es Tag oder Nacht ist."
+          }
+        ]
+      },
+      {
+        "title": "Auto fährt ins Schaufenster in %city%",
+        "header": "Schnelle Notverglasung nach Verkehrsunfall – wir sichern Ihr Geschäft ab",
+        "content": [
+          {
+            "type": "list",
+            "title": "Unser Einsatz bei Unfällen mit Fahrzeugen",
+            "topTitle": "",
+            "items": [
+              "Soforteinsatz nach Verkehrsunfall.",
+              "Absicherung der zerbrochenen Glasfront oder Eingangstür.",
+              "Notverglasung mit robusten Materialien.",
+              "Sicherung gegen Witterung und unbefugten Zutritt.",
+              "Entfernung von gefährlichen Glasresten."
+            ],
+            "underTitle": "Wir arbeiten schnell, sauber und diskret, damit Ihr Geschäft so bald wie möglich wieder nutzbar ist."
+          },
+          {
+            "type": "list",
+            "title": "Besonders häufig betroffen",
+            "topTitle": "Unsere Einsätze nach Fahrzeugschäden erfolgen häufig in:",
+            "items": [
+              "Einzelhandelsgeschäfte & Boutiquen mit ebenerdigen Schaufenstern",
+              "Kioske, Bäckereien, Apotheken in Innenstädten",
+              "Eingangsbereiche mit großen Glasfronten",
+              "Firmengebäude mit Parkplätzen direkt vor dem Eingang"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "17 Jahre Erfahrung bei Glasunfällen",
+            "text": "In hektischen Notfällen wie diesen ist es wichtig, einen Partner zu haben, der weiß, was zu tun ist. Unsere erfahrenen Monteure sichern nicht nur fachgerecht ab, sondern beraten auch zur weiteren Vorgehensweise, z. B. mit Versicherung oder Glaserei."
+          }
+        ]
+      },
+      {
+        "title": "Notverglasung in Ladengeschäften in %city%",
+        "header": "Schnelle Hilfe bei Glasschäden im Einzelhandel",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "24h Soforthilfe bei Glasbruch im Einzelhandel",
+            "text": "Ein umgestürztes Regal, ein unachtsamer Kunde oder ein Unfall beim Aufbau – Glasschäden in Ladengeschäften passieren oft plötzlich und unerwartet. Ob Schaufenster, Eingangstür oder Glastrennwand: der Schaden muss schnell behoben werden, um Sicherheit und Geschäftsbetrieb zu gewährleisten.\n\nUnser Glasnotdienst ist in kürzester Zeit vor Ort und bringt eine stabile Notverglasung an, damit Ihr Laden sofort wieder sicher und nutzbar ist."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen für den Einzelhandel",
+            "topTitle": "",
+            "items": [
+              "24h-Notdienst für den Einzelhandel",
+              "Absicherung von Schaufenstern, Türen, Glaswänden",
+              "Soforthilfe bei Einbruch, Vandalismus oder Wetterereignissen.",
+              "Schnelle Wiederherstellung der Sicherheit und Optik.",
+              "Diskrete & saubere Arbeitsweise – auch während des Geschäftsbetriebs."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Für diese Geschäftsarten sind wir besonders oft im Einsatz",
+            "topTitle": "",
+            "items": [
+              "Supermärkten& Discounter.",
+              "Modegeschäfte & Boutiquen.",
+              "Apotheken & Reformhäuser.",
+              "Juweliere & Optiker.",
+              "Bäckereien, Cafés & Imbisse.",
+              "Franchise-Filialen & Ketten."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Ihre Vorteile mit dem Glasnotdienst",
+            "topTitle": "",
+            "items": [
+              "Soforteinsatz – 24 Stunden täglich.",
+              "Langjährig erfahrene Monteure.",
+              "Sichere, wetterfeste Notverglasungen.",
+              "Versicherungsfreundliche Dokumentation.",
+              "Zuverlässigkeit & Diskretion."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Glastür kaputt im Supermarkt oder Geschäft",
+        "header": "Glastür kaputt im Geschäft in %city%?",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wir sichern Ihre beschädigte Glastür schnell & zuverlässig – rund um die Uhr",
+            "text": "Gerade in Supermärkten, Drogerien oder großen Geschäften passieren Glasbrüche oft durch einfache Unfälle – z. B. wenn jemand mit dem Einkaufswagen, einem Rollator oder Kinderwagen zu fest gegen eine Glastür fährt. Die Folge: gesplitterte Türen, Verletzungsgefahr und offener Zugang. \n\nUnser Glasnotdienst in %city% reagiert sofort, bringt eine provisorische Notverglasung an und sorgt dafür, dass Sie weiterarbeiten können – sicher und geschützt."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen bei defekten Glastüren",
+            "topTitle": "",
+            "items": [
+              "Schnelle Sicherung beschädigter Innen- oder Außentüren.",
+              "Einsatz stabiler, durchsichtiger oder milchiger Ersatzplatten.",
+              "Soforthilfe bei Unfällen oder Glasbruch durch Kunden.",
+              "Entfernung gefährlicher Scherben & Splitter.",
+              "Witterungsschutz & Zugangssicherung."
+            ],
+            "underTitle": ""
+          },
+          {
+            "type": "list",
+            "title": "Für diese Betriebe arbeiten wir regelmäßig",
+            "topTitle": "",
+            "items": [
+              "Supermärkte & Discounter.",
+              "Drogeriemärkte",
+              "Modegeschäfte",
+              "Apotheken & Praxen im Einzelhandel.",
+              "Einkaufszentren & Fachmärkte."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "Sicherheit für Kunden und Personal",
+            "text": "Ein offener Eingang oder eine beschädigte Tür ist nicht nur ein Sicherheitsrisiko, sondern kann auch zu Verletzungen führen. Deshalb ist eine schnelle, professionelle Notverglasung entscheidend. Wir arbeiten zügig und möglichst unauffällig, damit der Betrieb weiterlaufen kann."
+          }
+        ]
+      },
+      {
+        "title": "Gebäudesicherung nach Glasbruch in %city%",
+        "header": "",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Ihr Objekt ist offen? Wir verschließen es sofort – rund um die Uhr erreichbar",
+            "text": "Wenn eine Scheibe zu Bruch geht, ist oft nicht nur Glas zerstört – das gesamte Gebäude ist plötzlich ungeschützt: vor Kälte, Regen, neugierigen Blicken oder Einbrechern. Ob Wohnung, Ladenlokal oder Büro – unser Glasnotdienst %city% sorgt dafür, dass Ihre Immobilie schnell, sicher und professionell gesichert ist."
+          },
+          {
+            "type": "list",
+            "title": "Was wir für Ihre Gebäudesicherung tun",
+            "topTitle": "",
+            "items": [
+              "Notverglasung von Fenstern, Türen, Glaswänden.",
+              "Verwendung robuster Materialien zur Absicherung.",
+              "Witterungsbeständige & stoßfeste Platten.",
+              "Temporäre Schließung auch bei schwierigen Rahmenkonstruktionen.",
+              "Schutz vor Einbruch, Vandalismus und Wärmeverlust."
+            ],
+            "underTitle": "Unsere Notverglasung ersetzt die Funktion des Glases – nicht dauerhaft, aber sicher, stabil und professionell."
+          },
+          {
+            "type": "list",
+            "title": "Wir sichern private & gewerbliche Objekte",
+            "topTitle": "",
+            "items": [
+              "Einfamilienhäuser, Wohnungen, Balkontüren.",
+              "Geschäfte & Schaufenster im Einzelhandel.",
+              "Praxen, Büros & Gewerbeeinheiten.",
+              "Öffentliche Gebäude, Schulen, Verwaltungen.",
+              "Mietobjekte im Auftrag von Hausverwaltungen."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "Ihr Vorteil: Alles aus einer Hand",
+            "text": "Ob mitten in der Nacht oder am frühen Morgen – wir bringen alles mit, um Ihre Scheibe vor Ort zu sichern, ohne lange Wartezeiten oder Zwischenlösungen. Auf Wunsch beraten wir auch zur dauerhaften Neuverglasung durch eine Glaserei."
+          }
+        ]
+      },
+      {
+        "title": "Notverglasung für Hausverwaltungen in %city%",
+        "header": "",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Schnelle & professionelle Soforthilfe bei Glasbruch in Mietobjekten",
+            "text": "Als Hausverwalter tragen Sie Verantwortung – und wenn ein Fenster, eine Glastür oder ein Treppenhausfenster zerbricht, ist schnelles Handeln gefragt. Egal ob durch Vandalismus, Einbruch, Sturm oder Unfall: Unser Glasnotdienst %city% steht rund um die Uhr bereit, um Ihre Liegenschaft schnell, zuverlässig und sicher zu sichern."
+          },
+          {
+            "type": "list",
+            "title": "Unser Service für Hausverwaltungen",
+            "topTitle": "",
+            "items": [
+              "24h-Notdienst für Mietobjekte",
+              "Sofortige Gebäudesicherung mit stabiler Notverglasung.",
+              "Witterungs- & einbruchssicheres Provisorium.",
+              "Verlässliche Einsatzdokumentation zur Weitergabe an Eigentümer oder Versicherung.",
+              "Fester Ansprechpartner für wiederkehrende Einsätze."
+            ],
+            "underTitle": "Wir arbeiten sauber, diskret und termintreu – und übernehmen auf Wunsch die Koordination mit Ihren Mietern."
+          },
+          {
+            "type": "list",
+            "title": "Typische Einsatzorte in Ihrer Verwaltung",
+            "topTitle": "",
+            "items": [
+              "Mehrfamilienhäuser & Eigentumswohnungen.",
+              "Treppenhausverglasung & Hauseingangstüren.",
+              "Kellerfenster & Nebeneingänge.",
+              "Verglasung an Aufzügen & Durchgängen.",
+              "Glasflächen in Gewerbeeinheiten innerhalb Ihrer Objekte."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Ihre Vorteile mit dem Glasnotdienst",
+            "topTitle": "",
+            "items": [
+              "Ein fester Notfallkontakt für alle Objekte.",
+              "Rechnungsstellung mit detaillierter Schadensbeschreibung.",
+              "Erfahrene Monteure mit über 17 Jahren Praxiserfahrung.",
+              "Kurze Reaktionszeiten & schnelle Einsatzbereitschaft.",
+              "Transparente Preisstruktur – keine versteckten Kosten."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Notverglasung für Praxen und Büros in %city%",
+        "header": "Schnelle & diskrete Glas-Sicherung für Geschäftsräume",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Wenn Glasflächen in Praxis oder Büro beschädigt sind",
+            "text": "In sensiblen Bereichen wie Arztpraxen, Steuerkanzleien, Agenturen oder Verwaltungsbüros ist ein Glasbruch nicht nur ärgerlich – sondern auch ein echtes Problem: Verletzungsgefahr, Einblick in vertrauliche Bereiche, oder Störung des Arbeitsablaufs.\n\nDer Glasnotdienst %city% sichert Ihre beschädigte Glasfläche umgehend – 24h täglich, auch nachts oder am Wochenende."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Leistungen für Praxen & Dienstleister",
+            "topTitle": "",
+            "items": [
+              "Sofortige Absicherung beschädigter Fenster, Türen & Trennwände.",
+              "Stabile Notverglasung innen & außen.",
+              "Witterungsschutz & Sichtschutz nach außen.",
+              "Diskrete & leise Arbeitsweise während des Betriebs.",
+              "Beratung zur späteren Reparatur durch Fachglaserei."
+            ],
+            "underTitle": "Auch Glastrennwände im Innenbereich, z. B. in Empfangs- oder Wartebereichen, werden von uns professionell gesichert."
+          },
+          {
+            "type": "list",
+            "title": "Für diese Einrichtungen sind wir regelmäßig im Einsatz",
+            "topTitle": "",
+            "items": [
+              "Zahnarzt- & Arztpraxen.",
+              "Steuerberater, Anwälte & Notare.",
+              "IT-Unternehmen & Agenturen.",
+              "Verwaltungsbüros & Dienstleister.",
+              "Wellness-, Kosmetik- & Friseursalons."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Ihre Vorteile mit dem Glasnotdienst",
+            "topTitle": "",
+            "items": [
+              "Schnelle Reaktion – auch außerhalb der Öffnungszeiten.",
+              "Diskretes Auftreten ohne Aufsehen.",
+              "Saubere und leise Ausführung der Arbeiten.",
+              "Versicherungs Freundliche Dokumentation.",
+              "Erfahrung aus über 17 Jahren Notverglasung im Gewerbe."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "24h Glasnotdienst in %city% – seit 17 Jahren im Einsatz",
+        "header": "",
+        "content": [
+          {
+            "type": "paragraph",
+            "title": "Soforthilfe bei Glasbruch – Tag & Nacht, 365 Tage im Jahr",
+            "text": "Ein kaputtes Fenster, eine zerstörte Tür oder ein eingeschlagenes Schaufenster halten sich nicht an Bürozeiten. Deshalb ist unser Glasnotdienst in %city% 24 Stunden am Tag erreichbar – auch an Wochenenden und Feiertagen.\n\nOb mitten in der Nacht oder am Sonntagmorgen – wir kommen sofort und sichern Ihre beschädigte Glasfläche professionell und stabil ab."
+          },
+          {
+            "type": "list",
+            "title": "Unsere Notverglasung – schnell, sicher, zuverlässig",
+            "topTitle": "",
+            "items": [
+              "Einsatzbereit innerhalb kürzester Zeit.",
+              "Sicherung von Fenstern, Glastüren, Schaufenstern & Trennwänden.",
+              "Robuste Notverglasung – witterungs- & einbruchsicher.",
+              "Saubere, professionelle Ausführung vor Ort.",
+              "Geeignet für private, gewerbliche & öffentliche Objekte."
+            ],
+            "underTitle": "Unsere Notverglasungen sind keine provisorischen Flicklösungen – sie schützen zuverlässig, bis eine dauerhafte Verglasung erfolgen kann."
+          },
+          {
+            "type": "list",
+            "title": "Für diese Einrichtungen sind wir regelmäßig im Einsatz",
+            "topTitle": "",
+            "items": [
+              "Privathaushalte & Wohnungseigentümer.",
+              "Geschäfte, Filialen & Einzelhändler.",
+              "Büros, Praxen & Dienstleister.",
+              "Hausverwaltungen & Eigentümergemeinschaften.",
+              "Schulen, Kindergärten, Pflegeheime & Behörden."
+            ]
+          },
+          {
+            "type": "list",
+            "title": "Warum Sie uns jederzeit erreichen können",
+            "topTitle": "",
+            "items": [
+              "24h-Notdienst – echtes Bereitschaftssystem, keine Callcenter-Vermittlung.",
+              "Eigene Monteure mit Notdienst-Erfahrung.",
+              "Regionaler Einsatz in %city% und Umgebung.",
+              "365 Tage im Jahr – auch an Feiertagen.",
+              "Einsatzbereit mit allen Materialien im Fahrzeug."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "logo": "https://imagedelivery.net/AKdTUdZl7_AfenFvvWOQBA/GlassServiceLogo.png/public",
+    "links": [
+      {
+        "text": "Impressum",
+        "href": "#impressum"
+      },
+      {
+        "text": "Datenschutz",
+        "href": "#datenschutz"
+      },
+      {
+        "text": "AGB",
+        "href": "#agb"
+      }
+    ]
+  }
+}

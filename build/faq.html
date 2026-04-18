@@ -32,32 +32,22 @@
     </header>
     <section class="faq_hero">
       <div class="hero_block">
-        <h1 class="faq_hero_title">%homepage_hero_title%</h1>
+        <h1 class="faq_hero_title">%faq_section_title%</h1>
         <p class="hero_text">
-          %homepage_hero_description%
+         %faq_section_subtitle%
         </p>
         <button class="faq_hero_button">
           <img src="./images/call.svg" alt="call" />
-          <a href="%homepage_hero_button_href%" class="hero_button__text"
-            >%homepage_hero_button_text%</a
+          <a href="%contact_button_href%" class="hero_button__text"
+            >+49 123 456 789</a
           >
         </button>
       </div>
-      <img src="%homepage_hero_img%" class="hero_img" />
+    <img src="%faqPage_sections_image%" class="hero_img" />
+
     </section>
     <section class="faq_info">
-      <div class="faq_info_block">
-        <h3 class="faq_info_block_title">%homepage_hero_faq_title%</h3>
-        <ul class="faq_list"></ul>
-      </div>
-      <div class="faq_info_block">
-        <h3 class="faq_info_block_title">%homepage_hero_faq_title%</h3>
-        <ul class="faq_list"></ul>
-      </div>
-      <div class="faq_info_block">
-        <h3 class="faq_info_block_title">%homepage_hero_faq_title%</h3>
-        <ul class="faq_list"></ul>
-      </div>
+      %faq_section_content%
     </section>
     <section class="contact" id="%contact_id%">
       <div class="contact_info">
@@ -98,30 +88,6 @@
       </nav>
       </div>
     </footer>
-    <script>
 
-  const faqData = [
-    ["Question 1.1", "Question 1.2", "Question 1.3"],
-    ["Question 2.1", "Question 2.2", "Question 2.3"],
-    ["Question 3.1", "Question 3.2", "Question 3.3"]
-  ];
-  
-  const faqBlocks = document.querySelectorAll('.faq_info_block');
-  
-  faqBlocks.forEach((block, index) => {
-    const ul = document.createElement('ul');
-    ul.className = 'faq_list';
-
-    const itemsArray = faqData[index] || [];
-    
-    itemsArray.forEach(item => {
-      const li = document.createElement('li');
-      li.textContent = item;
-      ul.appendChild(li);
-    });
-    
-    block.appendChild(ul);
-  });
-</script>
   </body>
 </html>
